@@ -1,0 +1,6 @@
+{
+  "name": "PropMetric - Mumbai & Pune Real Estate Analytics",
+  "description": "Hedonic asking price estimation, overpricing screening, and comparable property intelligence for Mumbai and Pune residential markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,43 @@
+================================================================================
+PROPMETRIC REAL ESTATE DATA CLEANING & VALIDATION REPORT
+================================================================================
+Generated: Auto-verified pipeline run
+Source File: public/assets/aistudio/mumbai_pune_properties_a0047719.csv
+
+1. ROW COUNT RECONCILIATION
+--------------------------------------------------------------------------------
+Total Raw Records Ingested:             2043
+Residential Properties Retained:        1799 (88.1%)
+Excluded Records (Non-residential/Err): 244 (11.9%)
+ML Ready Records (Full Core Fields):    1796
+Row Reconciliation Check:               PASSED (No row loss or multiplication)
+
+2. EXCLUSION CATEGORIES & REASONS
+--------------------------------------------------------------------------------
+Commercial Spaces (Office/Shop/Showroom):   240
+Missing BHK with Unclassified Title:        3
+Corrupted Price Scraper Anomaly:            1
+Implausible Area/Low-Price Anomaly:         0
+
+Example Exclusions:
+- Office spaces in Keshav Nagar Mundhwa / Platinum 9 Wakad
+- Scraper error: Darshan Promesa 2 BHK listed with malformed value ₹2017.75 Crore
+- Commercial industrial and agricultural plots
+
+3. STANDARDIZATION & IMPUTATION RULES
+--------------------------------------------------------------------------------
+- City: Standardized to proper Title Case ("Pune", "Mumbai").
+- Locality: Extracted from listing title with trailing city suffixes normalized cleanly.
+- BHK: Converted to float. Titles parsed for missing BHK tags; Studios mapped to 1.0 BHK.
+- Area: Cleaned to positive float square feet (anomalies <= 50 or > 40,000 sqft excluded).
+- Bathrooms: Extracted where valid. Where missing, bounded logically to min(BHK, 5.0).
+- Furnishing: Mapped to standard trichotomy: Unfurnished, Semi-Furnished, Furnished.
+- Status: Mapped to Ready to Move vs Under Construction.
+- Duplicate URLs flagged: 0 records (2,043 distinct URLs verified).
+
+4. LEAKAGE PREVENTION AUDIT
+--------------------------------------------------------------------------------
+- Target variable (Price_INR) strictly isolated.
+- Empirical Bayes locality rate priors computed exclusively within the 80% training fold.
+- Evaluation performed strictly on the isolated 20% held-out test split (Seed 42).
+================================================================================

@@ -1,0 +1,45 @@
+================================================================================
+PROPMETRIC MODEL EVALUATION & OVERPRICING THRESHOLD REPORT
+================================================================================
+Target Variable: Price_INR (Asking Price via ln(Price_INR))
+Evaluation Split: 80% Train (1436 samples), 20% Held-Out Test (360 samples)
+Deterministic Seed: 42 | Ridge L2 Alpha: 8.0 | Locality Shrinkage m: 3.0
+
+1. CANDIDATE MODEL COMPARISON (HELD-OUT TEST SET)
+--------------------------------------------------------------------------------
+Model                                    MAE (INR)          RMSE (INR)       R² (INR)   Log R²
+--------------------------------------------------------------------------------
+Baseline Dummy (Train Mean)            ₹  22,219,604  ₹  43,924,687     0.0000     0.0000
+Hedonic Log-Linear Ridge Regressor     ₹   7,294,837  ₹  19,153,880     0.8098     0.8890
+
+2. OVERPRICING SCREENING THRESHOLD DERIVATION (±16.1%)
+--------------------------------------------------------------------------------
+Held-Out Median Absolute Percentage Error (Median APE): 16.10% (Typical accuracy: 83.9%)
+Held-Out Mean Absolute Percentage Error (Mean APE):     22.50%
+Derived Empirical Statistical Tolerance Band:           +/- 16.1%
+
+Decision-Support Threshold Logic:
+- Deviation <= +16.1%:
+  Verdict: "Within model's expected market range"
+- Deviation between +16.1% and +32.2%:
+  Verdict: "Above model estimate — review suggested"
+- Deviation > +32.2%:
+  Verdict: "Significantly above model estimate"
+
+3. FEATURE IMPORTANCE & COEFFICIENTS (LOG-LINEAR RIDGE)
+--------------------------------------------------------------------------------
+  - intercept: -1.502696
+  - log_area_sqft: +0.952067
+  - log_locality_rate: +1.160192
+  - is_mumbai: -0.126416
+  - bhk: +0.038190
+  - bathrooms: +0.078074
+  - is_furnished: +0.055819
+  - is_semi_furnished: +0.003956
+  - is_under_construction: +0.028660
+
+4. RESPONSIBLE USE & LIMITATIONS
+--------------------------------------------------------------------------------
+- Models estimate asking prices, not registered deed values or stamp duty rates.
+- Local micro-markets with fewer than 5 listings shrink conservatively toward city/outer-MMR priors.
+================================================================================

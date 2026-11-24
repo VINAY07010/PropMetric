@@ -1,0 +1,52 @@
+================================================================================
+PROPMETRIC EXPLORATORY DATA ANALYSIS (EDA) REPORT
+================================================================================
+Coverage: Mumbai and Pune Residential Property Listings
+Total Cleaned Properties: 1799 (1796 ML-Ready Complete)
+
+1. PRICE DISTRIBUTION COMPARISONS (INR)
+--------------------------------------------------------------------------------
+Pune Market:
+  - Listing Count (ML-Ready): 884
+  - Median Asking Price: ₹12,000,000 (₹1.20 Cr)
+  - Mean Asking Price:   ₹16,472,783 (₹1.65 Cr)
+  - Range: ₹950,000 to ₹160,000,000
+
+Mumbai Market:
+  - Listing Count (ML-Ready): 912
+  - Median Asking Price: ₹26,500,000 (₹2.65 Cr)
+  - Mean Asking Price:   ₹42,407,050 (₹4.24 Cr)
+  - Range: ₹1,500,000 to ₹600,000,000
+
+Key Finding: Mumbai asking prices exhibit a 2.21x higher median price and 2.67x higher median rate/sqft compared to Pune, driven by South Mumbai, BKC, and Western Suburb density.
+
+2. PRICE PER SQUARE FOOT DIAGNOSTIC (INR / sqft)
+--------------------------------------------------------------------------------
+Pune:
+  - Median: ₹12,142 / sqft
+  - Mean:   ₹12,894 / sqft
+Mumbai:
+  - Median: ₹32,379 / sqft
+  - Mean:   ₹36,782 / sqft
+
+3. BHK DISTRIBUTION
+--------------------------------------------------------------------------------
+  - 1 BHK: 235 properties
+  - 2 BHK: 708 properties
+  - 3 BHK: 607 properties
+  - 4 BHK: 194 properties
+  - 5 BHK: 41 properties
+  - 6 BHK: 9 properties
+  - 7 BHK: 2 properties
+
+4. FURNISHING & STATUS BREAKDOWN
+--------------------------------------------------------------------------------
+Furnishing:
+  - Unfurnished: 969
+  - Semi-Furnished: 540
+  - Furnished: 287
+
+Construction Status:
+  - Under Construction: 409
+  - Ready to Move: 1387
+================================================================================

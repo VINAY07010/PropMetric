@@ -1,0 +1,2096 @@
+{
+  "Pune": [
+    {
+      "locality": "Kharadi",
+      "city": "Pune",
+      "count": 62,
+      "median_rate_sqft": 14934,
+      "gmean_rate_sqft": 14257,
+      "smoothed_rate_sqft": 14137,
+      "median_price_inr": 15850000,
+      "multiplier": 1.23
+    },
+    {
+      "locality": "Pimpri Chinchwad",
+      "city": "Pune",
+      "count": 56,
+      "median_rate_sqft": 12025,
+      "gmean_rate_sqft": 12082,
+      "smoothed_rate_sqft": 12071,
+      "median_price_inr": 11500000,
+      "multiplier": 0.99
+    },
+    {
+      "locality": "Baner",
+      "city": "Pune",
+      "count": 32,
+      "median_rate_sqft": 14083,
+      "gmean_rate_sqft": 14760,
+      "smoothed_rate_sqft": 14487,
+      "median_price_inr": 17750000,
+      "multiplier": 1.16
+    },
+    {
+      "locality": "Wakad",
+      "city": "Pune",
+      "count": 29,
+      "median_rate_sqft": 13333,
+      "gmean_rate_sqft": 13268,
+      "smoothed_rate_sqft": 13131,
+      "median_price_inr": 12000000,
+      "multiplier": 1.098
+    },
+    {
+      "locality": "Hinjawadi",
+      "city": "Pune",
+      "count": 29,
+      "median_rate_sqft": 11500,
+      "gmean_rate_sqft": 11166,
+      "smoothed_rate_sqft": 11231,
+      "median_price_inr": 9000000,
+      "multiplier": 0.947
+    },
+    {
+      "locality": "Balewadi",
+      "city": "Pune",
+      "count": 28,
+      "median_rate_sqft": 14859,
+      "gmean_rate_sqft": 14888,
+      "smoothed_rate_sqft": 14566,
+      "median_price_inr": 18750000,
+      "multiplier": 1.224
+    },
+    {
+      "locality": "Wagholi",
+      "city": "Pune",
+      "count": 27,
+      "median_rate_sqft": 9182,
+      "gmean_rate_sqft": 9447,
+      "smoothed_rate_sqft": 9665,
+      "median_price_inr": 8800000,
+      "multiplier": 0.756
+    },
+    {
+      "locality": "Bavdhan",
+      "city": "Pune",
+      "count": 26,
+      "median_rate_sqft": 12514,
+      "gmean_rate_sqft": 12476,
+      "smoothed_rate_sqft": 12413,
+      "median_price_inr": 14750000,
+      "multiplier": 1.031
+    },
+    {
+      "locality": "Hadapsar",
+      "city": "Pune",
+      "count": 22,
+      "median_rate_sqft": 11956,
+      "gmean_rate_sqft": 11408,
+      "smoothed_rate_sqft": 11463,
+      "median_price_inr": 11000000,
+      "multiplier": 0.985
+    },
+    {
+      "locality": "Undri",
+      "city": "Pune",
+      "count": 19,
+      "median_rate_sqft": 7500,
+      "gmean_rate_sqft": 7591,
+      "smoothed_rate_sqft": 8069,
+      "median_price_inr": 7200000,
+      "multiplier": 0.618
+    },
+    {
+      "locality": "Kothrud",
+      "city": "Pune",
+      "count": 18,
+      "median_rate_sqft": 19001,
+      "gmean_rate_sqft": 17845,
+      "smoothed_rate_sqft": 16837,
+      "median_price_inr": 17050000,
+      "multiplier": 1.565
+    },
+    {
+      "locality": "NIBM Road",
+      "city": "Pune",
+      "count": 15,
+      "median_rate_sqft": 10000,
+      "gmean_rate_sqft": 9988,
+      "smoothed_rate_sqft": 10280,
+      "median_price_inr": 11000000,
+      "multiplier": 0.824
+    },
+    {
+      "locality": "Kondhwa",
+      "city": "Pune",
+      "count": 14,
+      "median_rate_sqft": 9296,
+      "gmean_rate_sqft": 8653,
+      "smoothed_rate_sqft": 9151,
+      "median_price_inr": 9250000,
+      "multiplier": 0.766
+    },
+    {
+      "locality": "Sinhgad Road",
+      "city": "Pune",
+      "count": 13,
+      "median_rate_sqft": 13067,
+      "gmean_rate_sqft": 12496,
+      "smoothed_rate_sqft": 12377,
+      "median_price_inr": 11000000,
+      "multiplier": 1.076
+    },
+    {
+      "locality": "Magarpatta",
+      "city": "Pune",
+      "count": 13,
+      "median_rate_sqft": 15625,
+      "gmean_rate_sqft": 15756,
+      "smoothed_rate_sqft": 14942,
+      "median_price_inr": 19800000,
+      "multiplier": 1.287
+    },
+    {
+      "locality": "Mundhwa",
+      "city": "Pune",
+      "count": 12,
+      "median_rate_sqft": 14546,
+      "gmean_rate_sqft": 14704,
+      "smoothed_rate_sqft": 14089,
+      "median_price_inr": 18000000,
+      "multiplier": 1.198
+    },
+    {
+      "locality": "Mahalunge",
+      "city": "Pune",
+      "count": 12,
+      "median_rate_sqft": 13420,
+      "gmean_rate_sqft": 13170,
+      "smoothed_rate_sqft": 12901,
+      "median_price_inr": 9305000,
+      "multiplier": 1.105
+    },
+    {
+      "locality": "Dhanori",
+      "city": "Pune",
+      "count": 12,
+      "median_rate_sqft": 10000,
+      "gmean_rate_sqft": 10231,
+      "smoothed_rate_sqft": 10541,
+      "median_price_inr": 7900000,
+      "multiplier": 0.824
+    },
+    {
+      "locality": "Dehu Road",
+      "city": "Pune",
+      "count": 11,
+      "median_rate_sqft": 9278,
+      "gmean_rate_sqft": 9230,
+      "smoothed_rate_sqft": 9743,
+      "median_price_inr": 7200000,
+      "multiplier": 0.764
+    },
+    {
+      "locality": "Tathawade Pimpri Chinchwad",
+      "city": "Pune",
+      "count": 11,
+      "median_rate_sqft": 11878,
+      "gmean_rate_sqft": 12098,
+      "smoothed_rate_sqft": 12050,
+      "median_price_inr": 10700000,
+      "multiplier": 0.978
+    },
+    {
+      "locality": "Viman Nagar",
+      "city": "Pune",
+      "count": 11,
+      "median_rate_sqft": 17327,
+      "gmean_rate_sqft": 15658,
+      "smoothed_rate_sqft": 14758,
+      "median_price_inr": 18200000,
+      "multiplier": 1.427
+    },
+    {
+      "locality": "Pashan",
+      "city": "Pune",
+      "count": 11,
+      "median_rate_sqft": 14743,
+      "gmean_rate_sqft": 16635,
+      "smoothed_rate_sqft": 15476,
+      "median_price_inr": 24000000,
+      "multiplier": 1.214
+    },
+    {
+      "locality": "Keshav Nagar Mundhwa",
+      "city": "Pune",
+      "count": 10,
+      "median_rate_sqft": 11183,
+      "gmean_rate_sqft": 11489,
+      "smoothed_rate_sqft": 11577,
+      "median_price_inr": 11150000,
+      "multiplier": 0.921
+    },
+    {
+      "locality": "Lohegaon",
+      "city": "Pune",
+      "count": 10,
+      "median_rate_sqft": 9150,
+      "gmean_rate_sqft": 8881,
+      "smoothed_rate_sqft": 9497,
+      "median_price_inr": 5100000,
+      "multiplier": 0.754
+    },
+    {
+      "locality": "Dhayari",
+      "city": "Pune",
+      "count": 10,
+      "median_rate_sqft": 8389,
+      "gmean_rate_sqft": 7282,
+      "smoothed_rate_sqft": 8152,
+      "median_price_inr": 4550000,
+      "multiplier": 0.691
+    },
+    {
+      "locality": "NIBM Annexe Area",
+      "city": "Pune",
+      "count": 10,
+      "median_rate_sqft": 8103,
+      "gmean_rate_sqft": 8151,
+      "smoothed_rate_sqft": 8891,
+      "median_price_inr": 8550000,
+      "multiplier": 0.667
+    },
+    {
+      "locality": "Kalyani Nagar",
+      "city": "Pune",
+      "count": 9,
+      "median_rate_sqft": 17222,
+      "gmean_rate_sqft": 13745,
+      "smoothed_rate_sqft": 13252,
+      "median_price_inr": 24000000,
+      "multiplier": 1.419
+    },
+    {
+      "locality": "Koregaon Park",
+      "city": "Pune",
+      "count": 9,
+      "median_rate_sqft": 18182,
+      "gmean_rate_sqft": 22338,
+      "smoothed_rate_sqft": 19074,
+      "median_price_inr": 62500000,
+      "multiplier": 1.498
+    },
+    {
+      "locality": "Aundh",
+      "city": "Pune",
+      "count": 9,
+      "median_rate_sqft": 18929,
+      "gmean_rate_sqft": 16374,
+      "smoothed_rate_sqft": 15111,
+      "median_price_inr": 26500000,
+      "multiplier": 1.559
+    },
+    {
+      "locality": "Amanora Park Town",
+      "city": "Pune",
+      "count": 8,
+      "median_rate_sqft": 15746,
+      "gmean_rate_sqft": 17119,
+      "smoothed_rate_sqft": 15494,
+      "median_price_inr": 20750000,
+      "multiplier": 1.297
+    },
+    {
+      "locality": "Mohammed Wadi",
+      "city": "Pune",
+      "count": 8,
+      "median_rate_sqft": 10106,
+      "gmean_rate_sqft": 9378,
+      "smoothed_rate_sqft": 10002,
+      "median_price_inr": 12000000,
+      "multiplier": 0.832
+    },
+    {
+      "locality": "Moshi",
+      "city": "Pune",
+      "count": 7,
+      "median_rate_sqft": 7916,
+      "gmean_rate_sqft": 8182,
+      "smoothed_rate_sqft": 9150,
+      "median_price_inr": 6700000,
+      "multiplier": 0.652
+    },
+    {
+      "locality": "Wanowrie",
+      "city": "Pune",
+      "count": 6,
+      "median_rate_sqft": 11997,
+      "gmean_rate_sqft": 13081,
+      "smoothed_rate_sqft": 12666,
+      "median_price_inr": 23500000,
+      "multiplier": 0.988
+    },
+    {
+      "locality": "Shivajinagar",
+      "city": "Pune",
+      "count": 6,
+      "median_rate_sqft": 22924,
+      "gmean_rate_sqft": 20908,
+      "smoothed_rate_sqft": 17315,
+      "median_price_inr": 44500000,
+      "multiplier": 1.888
+    },
+    {
+      "locality": "Warje",
+      "city": "Pune",
+      "count": 6,
+      "median_rate_sqft": 11705,
+      "gmean_rate_sqft": 11698,
+      "smoothed_rate_sqft": 11757,
+      "median_price_inr": 9500000,
+      "multiplier": 0.964
+    },
+    {
+      "locality": "Manjri Budruk",
+      "city": "Pune",
+      "count": 6,
+      "median_rate_sqft": 10029,
+      "gmean_rate_sqft": 9034,
+      "smoothed_rate_sqft": 9896,
+      "median_price_inr": 7050000,
+      "multiplier": 0.826
+    },
+    {
+      "locality": "Talegaon Dabhade",
+      "city": "Pune",
+      "count": 6,
+      "median_rate_sqft": 5311,
+      "gmean_rate_sqft": 5476,
+      "smoothed_rate_sqft": 7088,
+      "median_price_inr": 2725000,
+      "multiplier": 0.437
+    },
+    {
+      "locality": "Ghorpadi",
+      "city": "Pune",
+      "count": 5,
+      "median_rate_sqft": 12415,
+      "gmean_rate_sqft": 12154,
+      "smoothed_rate_sqft": 12049,
+      "median_price_inr": 32500000,
+      "multiplier": 1.023
+    },
+    {
+      "locality": "Erandwane",
+      "city": "Pune",
+      "count": 5,
+      "median_rate_sqft": 27056,
+      "gmean_rate_sqft": 25634,
+      "smoothed_rate_sqft": 19209,
+      "median_price_inr": 39800000,
+      "multiplier": 2.229
+    },
+    {
+      "locality": "Bibwewadi",
+      "city": "Pune",
+      "count": 5,
+      "median_rate_sqft": 11500,
+      "gmean_rate_sqft": 14431,
+      "smoothed_rate_sqft": 13414,
+      "median_price_inr": 13000000,
+      "multiplier": 0.947
+    },
+    {
+      "locality": "Charholi BK",
+      "city": "Pune",
+      "count": 5,
+      "median_rate_sqft": 9129,
+      "gmean_rate_sqft": 9273,
+      "smoothed_rate_sqft": 10174,
+      "median_price_inr": 9100000,
+      "multiplier": 0.752
+    },
+    {
+      "locality": "Wadgaon Sheri",
+      "city": "Pune",
+      "count": 5,
+      "median_rate_sqft": 11371,
+      "gmean_rate_sqft": 12320,
+      "smoothed_rate_sqft": 12151,
+      "median_price_inr": 12300000,
+      "multiplier": 0.937
+    },
+    {
+      "locality": "Prabhat Road",
+      "city": "Pune",
+      "count": 5,
+      "median_rate_sqft": 26465,
+      "gmean_rate_sqft": 27160,
+      "smoothed_rate_sqft": 19916,
+      "median_price_inr": 34000000,
+      "multiplier": 2.18
+    },
+    {
+      "locality": "Airport Road",
+      "city": "Pune",
+      "count": 5,
+      "median_rate_sqft": 12552,
+      "gmean_rate_sqft": 12898,
+      "smoothed_rate_sqft": 12505,
+      "median_price_inr": 15000000,
+      "multiplier": 1.034
+    },
+    {
+      "locality": "Phase 3 Hinjewadi Rajiv Gandhi Infotech Park",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 11067,
+      "gmean_rate_sqft": 11047,
+      "smoothed_rate_sqft": 11395,
+      "median_price_inr": 9125000,
+      "multiplier": 0.912
+    },
+    {
+      "locality": "Akurdi",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 14440,
+      "gmean_rate_sqft": 14396,
+      "smoothed_rate_sqft": 13257,
+      "median_price_inr": 15750000,
+      "multiplier": 1.189
+    },
+    {
+      "locality": "Patil Nagar Balewadi",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 13885,
+      "gmean_rate_sqft": 13809,
+      "smoothed_rate_sqft": 12945,
+      "median_price_inr": 12300000,
+      "multiplier": 1.144
+    },
+    {
+      "locality": "Shivaji Nagar",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 21047,
+      "gmean_rate_sqft": 19794,
+      "smoothed_rate_sqft": 15902,
+      "median_price_inr": 38750000,
+      "multiplier": 1.734
+    },
+    {
+      "locality": "Rahatani",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 11791,
+      "gmean_rate_sqft": 12307,
+      "smoothed_rate_sqft": 12121,
+      "median_price_inr": 12250000,
+      "multiplier": 0.971
+    },
+    {
+      "locality": "Pirangut",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 4977,
+      "gmean_rate_sqft": 5009,
+      "smoothed_rate_sqft": 7252,
+      "median_price_inr": 3575000,
+      "multiplier": 0.41
+    },
+    {
+      "locality": "Chakan",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 4176,
+      "gmean_rate_sqft": 4236,
+      "smoothed_rate_sqft": 6589,
+      "median_price_inr": 2525000,
+      "multiplier": 0.344
+    },
+    {
+      "locality": "Pisoli",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 5726,
+      "gmean_rate_sqft": 5751,
+      "smoothed_rate_sqft": 7847,
+      "median_price_inr": 3750000,
+      "multiplier": 0.472
+    },
+    {
+      "locality": "Baner Road",
+      "city": "Pune",
+      "count": 4,
+      "median_rate_sqft": 10657,
+      "gmean_rate_sqft": 10754,
+      "smoothed_rate_sqft": 11222,
+      "median_price_inr": 14750000,
+      "multiplier": 0.878
+    },
+    {
+      "locality": "Manjari BK",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 5844,
+      "gmean_rate_sqft": 6159,
+      "smoothed_rate_sqft": 8553,
+      "median_price_inr": 4190000,
+      "multiplier": 0.481
+    },
+    {
+      "locality": "Handewadi",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 9015,
+      "gmean_rate_sqft": 9128,
+      "smoothed_rate_sqft": 10412,
+      "median_price_inr": 6500000,
+      "multiplier": 0.743
+    },
+    {
+      "locality": "New Kalyani Nagar",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 18774,
+      "gmean_rate_sqft": 19062,
+      "smoothed_rate_sqft": 15046,
+      "median_price_inr": 24500000,
+      "multiplier": 1.546
+    },
+    {
+      "locality": "Maan",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 9430,
+      "gmean_rate_sqft": 10325,
+      "smoothed_rate_sqft": 11074,
+      "median_price_inr": 10100000,
+      "multiplier": 0.777
+    },
+    {
+      "locality": "Sus",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 10315,
+      "gmean_rate_sqft": 10571,
+      "smoothed_rate_sqft": 11205,
+      "median_price_inr": 7200000,
+      "multiplier": 0.85
+    },
+    {
+      "locality": "Baner Pashan Link Road",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 16667,
+      "gmean_rate_sqft": 16871,
+      "smoothed_rate_sqft": 14155,
+      "median_price_inr": 21700000,
+      "multiplier": 1.373
+    },
+    {
+      "locality": "Mohan Nagar Co operative Society",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 11542,
+      "gmean_rate_sqft": 11954,
+      "smoothed_rate_sqft": 11915,
+      "median_price_inr": 11500000,
+      "multiplier": 0.951
+    },
+    {
+      "locality": "Karvenagar",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 17355,
+      "gmean_rate_sqft": 17358,
+      "smoothed_rate_sqft": 14358,
+      "median_price_inr": 21000000,
+      "multiplier": 1.429
+    },
+    {
+      "locality": "Ambegaon",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 11241,
+      "gmean_rate_sqft": 10880,
+      "smoothed_rate_sqft": 11367,
+      "median_price_inr": 9600000,
+      "multiplier": 0.926
+    },
+    {
+      "locality": "Gahunje",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 17413,
+      "gmean_rate_sqft": 14660,
+      "smoothed_rate_sqft": 13195,
+      "median_price_inr": 17500000,
+      "multiplier": 1.434
+    },
+    {
+      "locality": "Katraj",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 8960,
+      "gmean_rate_sqft": 8614,
+      "smoothed_rate_sqft": 10114,
+      "median_price_inr": 8300000,
+      "multiplier": 0.738
+    },
+    {
+      "locality": "Kirkatwadi",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 8595,
+      "gmean_rate_sqft": 7916,
+      "smoothed_rate_sqft": 9696,
+      "median_price_inr": 4900000,
+      "multiplier": 0.708
+    },
+    {
+      "locality": "Anand Nagar",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 11278,
+      "gmean_rate_sqft": 11457,
+      "smoothed_rate_sqft": 11665,
+      "median_price_inr": 10000000,
+      "multiplier": 0.929
+    },
+    {
+      "locality": "Lullanagar",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 16285,
+      "gmean_rate_sqft": 15511,
+      "smoothed_rate_sqft": 13573,
+      "median_price_inr": 17800000,
+      "multiplier": 1.341
+    },
+    {
+      "locality": "Narhe",
+      "city": "Pune",
+      "count": 3,
+      "median_rate_sqft": 6861,
+      "gmean_rate_sqft": 7792,
+      "smoothed_rate_sqft": 9620,
+      "median_price_inr": 6000000,
+      "multiplier": 0.565
+    },
+    {
+      "locality": "Sangamvadi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 23436,
+      "gmean_rate_sqft": 23436,
+      "smoothed_rate_sqft": 15587,
+      "median_price_inr": 40250000,
+      "multiplier": 1.93
+    },
+    {
+      "locality": "Darumbre",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 10418,
+      "gmean_rate_sqft": 10418,
+      "smoothed_rate_sqft": 11270,
+      "median_price_inr": 11350000,
+      "multiplier": 0.858
+    },
+    {
+      "locality": "Phase 1 Hinjewadi Rajiv Gandhi Infotech Park",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 12791,
+      "gmean_rate_sqft": 12765,
+      "smoothed_rate_sqft": 12224,
+      "median_price_inr": 14150000,
+      "multiplier": 1.054
+    },
+    {
+      "locality": "Sahakar Nagar Parvati Paytha",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 18498,
+      "gmean_rate_sqft": 18226,
+      "smoothed_rate_sqft": 14095,
+      "median_price_inr": 23350000,
+      "multiplier": 1.524
+    },
+    {
+      "locality": "Sadashiv Peth",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 19462,
+      "gmean_rate_sqft": 19356,
+      "smoothed_rate_sqft": 14439,
+      "median_price_inr": 25650000,
+      "multiplier": 1.603
+    },
+    {
+      "locality": "Shivaji Road",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 20996,
+      "gmean_rate_sqft": 20988,
+      "smoothed_rate_sqft": 14914,
+      "median_price_inr": 29750000,
+      "multiplier": 1.729
+    },
+    {
+      "locality": "Wadmukhwadi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 8201,
+      "gmean_rate_sqft": 8201,
+      "smoothed_rate_sqft": 10241,
+      "median_price_inr": 5660000,
+      "multiplier": 0.676
+    },
+    {
+      "locality": "Ubale Nagar",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 10312,
+      "gmean_rate_sqft": 9989,
+      "smoothed_rate_sqft": 11082,
+      "median_price_inr": 10200000,
+      "multiplier": 0.849
+    },
+    {
+      "locality": "Fursungi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 6982,
+      "gmean_rate_sqft": 6973,
+      "smoothed_rate_sqft": 9598,
+      "median_price_inr": 3755000,
+      "multiplier": 0.575
+    },
+    {
+      "locality": "Hinjawadi Village",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 14299,
+      "gmean_rate_sqft": 14237,
+      "smoothed_rate_sqft": 12770,
+      "median_price_inr": 12250000,
+      "multiplier": 1.178
+    },
+    {
+      "locality": "Mulshi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 20803,
+      "gmean_rate_sqft": 19297,
+      "smoothed_rate_sqft": 14421,
+      "median_price_inr": 86250000,
+      "multiplier": 1.713
+    },
+    {
+      "locality": "Kaspate Wasti",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 12405,
+      "gmean_rate_sqft": 12402,
+      "smoothed_rate_sqft": 12084,
+      "median_price_inr": 9850000,
+      "multiplier": 1.022
+    },
+    {
+      "locality": "Rajgurunagar",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 6877,
+      "gmean_rate_sqft": 6145,
+      "smoothed_rate_sqft": 9125,
+      "median_price_inr": 5150000,
+      "multiplier": 0.566
+    },
+    {
+      "locality": "Yewalewadi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 6645,
+      "gmean_rate_sqft": 6589,
+      "smoothed_rate_sqft": 9383,
+      "median_price_inr": 8750000,
+      "multiplier": 0.547
+    },
+    {
+      "locality": "Patil Nagar Bavdhan",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 10462,
+      "gmean_rate_sqft": 10290,
+      "smoothed_rate_sqft": 11214,
+      "median_price_inr": 9750000,
+      "multiplier": 0.862
+    },
+    {
+      "locality": "Sanaswadi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 5539,
+      "gmean_rate_sqft": 5001,
+      "smoothed_rate_sqft": 8403,
+      "median_price_inr": 6150000,
+      "multiplier": 0.456
+    },
+    {
+      "locality": "Pan Card Club Road",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 18733,
+      "gmean_rate_sqft": 18222,
+      "smoothed_rate_sqft": 14094,
+      "median_price_inr": 38000000,
+      "multiplier": 1.543
+    },
+    {
+      "locality": "Gultekadi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 8694,
+      "gmean_rate_sqft": 8079,
+      "smoothed_rate_sqft": 10180,
+      "median_price_inr": 10000000,
+      "multiplier": 0.716
+    },
+    {
+      "locality": "Gultekdi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 18155,
+      "gmean_rate_sqft": 18131,
+      "smoothed_rate_sqft": 14066,
+      "median_price_inr": 43300000,
+      "multiplier": 1.495
+    },
+    {
+      "locality": "Lonavala",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 9856,
+      "gmean_rate_sqft": 9854,
+      "smoothed_rate_sqft": 11022,
+      "median_price_inr": 25550000,
+      "multiplier": 0.812
+    },
+    {
+      "locality": "Porwal Road",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 8920,
+      "gmean_rate_sqft": 8913,
+      "smoothed_rate_sqft": 10588,
+      "median_price_inr": 9250000,
+      "multiplier": 0.735
+    },
+    {
+      "locality": "Senapati Bapat Road",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 23725,
+      "gmean_rate_sqft": 23722,
+      "smoothed_rate_sqft": 15663,
+      "median_price_inr": 20750000,
+      "multiplier": 1.954
+    },
+    {
+      "locality": "Laxmi Nagar Balewadi",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 14315,
+      "gmean_rate_sqft": 14052,
+      "smoothed_rate_sqft": 12703,
+      "median_price_inr": 25000000,
+      "multiplier": 1.179
+    },
+    {
+      "locality": "Tingre Nagar",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 11373,
+      "gmean_rate_sqft": 11108,
+      "smoothed_rate_sqft": 11562,
+      "median_price_inr": 11600000,
+      "multiplier": 0.937
+    },
+    {
+      "locality": "Pimpri",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 15051,
+      "gmean_rate_sqft": 14987,
+      "smoothed_rate_sqft": 13035,
+      "median_price_inr": 10400000,
+      "multiplier": 1.24
+    },
+    {
+      "locality": "Kelgaon",
+      "city": "Pune",
+      "count": 2,
+      "median_rate_sqft": 7619,
+      "gmean_rate_sqft": 7593,
+      "smoothed_rate_sqft": 9930,
+      "median_price_inr": 6775000,
+      "multiplier": 0.628
+    }
+  ],
+  "Mumbai": [
+    {
+      "locality": "Malad West",
+      "city": "Mumbai",
+      "count": 36,
+      "median_rate_sqft": 27707,
+      "gmean_rate_sqft": 27846,
+      "smoothed_rate_sqft": 28229,
+      "median_price_inr": 22250000,
+      "multiplier": 0.856
+    },
+    {
+      "locality": "Mulund West",
+      "city": "Mumbai",
+      "count": 31,
+      "median_rate_sqft": 28173,
+      "gmean_rate_sqft": 27372,
+      "smoothed_rate_sqft": 27846,
+      "median_price_inr": 29300000,
+      "multiplier": 0.87
+    },
+    {
+      "locality": "Andheri West",
+      "city": "Mumbai",
+      "count": 30,
+      "median_rate_sqft": 42371,
+      "gmean_rate_sqft": 43479,
+      "smoothed_rate_sqft": 42432,
+      "median_price_inr": 50700000,
+      "multiplier": 1.309
+    },
+    {
+      "locality": "Andheri East",
+      "city": "Mumbai",
+      "count": 27,
+      "median_rate_sqft": 28029,
+      "gmean_rate_sqft": 29694,
+      "smoothed_rate_sqft": 30032,
+      "median_price_inr": 22000000,
+      "multiplier": 0.866
+    },
+    {
+      "locality": "Kandivali East",
+      "city": "Mumbai",
+      "count": 26,
+      "median_rate_sqft": 30972,
+      "gmean_rate_sqft": 30885,
+      "smoothed_rate_sqft": 31122,
+      "median_price_inr": 21500000,
+      "multiplier": 0.957
+    },
+    {
+      "locality": "Borivali West",
+      "city": "Mumbai",
+      "count": 24,
+      "median_rate_sqft": 31228,
+      "gmean_rate_sqft": 32174,
+      "smoothed_rate_sqft": 32292,
+      "median_price_inr": 22500000,
+      "multiplier": 0.964
+    },
+    {
+      "locality": "Chembur",
+      "city": "Mumbai",
+      "count": 23,
+      "median_rate_sqft": 40000,
+      "gmean_rate_sqft": 38811,
+      "smoothed_rate_sqft": 38125,
+      "median_price_inr": 35000000,
+      "multiplier": 1.235
+    },
+    {
+      "locality": "Goregaon West",
+      "city": "Mumbai",
+      "count": 18,
+      "median_rate_sqft": 35122,
+      "gmean_rate_sqft": 33149,
+      "smoothed_rate_sqft": 33164,
+      "median_price_inr": 25750000,
+      "multiplier": 1.085
+    },
+    {
+      "locality": "Borivali East",
+      "city": "Mumbai",
+      "count": 17,
+      "median_rate_sqft": 30085,
+      "gmean_rate_sqft": 30327,
+      "smoothed_rate_sqft": 30749,
+      "median_price_inr": 23600000,
+      "multiplier": 0.929
+    },
+    {
+      "locality": "Worli",
+      "city": "Mumbai",
+      "count": 17,
+      "median_rate_sqft": 65502,
+      "gmean_rate_sqft": 74177,
+      "smoothed_rate_sqft": 65766,
+      "median_price_inr": 110000000,
+      "multiplier": 2.023
+    },
+    {
+      "locality": "Powai",
+      "city": "Mumbai",
+      "count": 17,
+      "median_rate_sqft": 37768,
+      "gmean_rate_sqft": 36893,
+      "smoothed_rate_sqft": 36323,
+      "median_price_inr": 31500000,
+      "multiplier": 1.166
+    },
+    {
+      "locality": "Kandivali West",
+      "city": "Mumbai",
+      "count": 17,
+      "median_rate_sqft": 27616,
+      "gmean_rate_sqft": 27024,
+      "smoothed_rate_sqft": 27878,
+      "median_price_inr": 14800000,
+      "multiplier": 0.853
+    },
+    {
+      "locality": "Goregaon East",
+      "city": "Mumbai",
+      "count": 14,
+      "median_rate_sqft": 32503,
+      "gmean_rate_sqft": 34353,
+      "smoothed_rate_sqft": 34156,
+      "median_price_inr": 25150000,
+      "multiplier": 1.004
+    },
+    {
+      "locality": "Juhu",
+      "city": "Mumbai",
+      "count": 13,
+      "median_rate_sqft": 55556,
+      "gmean_rate_sqft": 57452,
+      "smoothed_rate_sqft": 51854,
+      "median_price_inr": 100000000,
+      "multiplier": 1.716
+    },
+    {
+      "locality": "Bhandup West",
+      "city": "Mumbai",
+      "count": 13,
+      "median_rate_sqft": 23611,
+      "gmean_rate_sqft": 22962,
+      "smoothed_rate_sqft": 24613,
+      "median_price_inr": 14500000,
+      "multiplier": 0.729
+    },
+    {
+      "locality": "Malad East",
+      "city": "Mumbai",
+      "count": 13,
+      "median_rate_sqft": 31111,
+      "gmean_rate_sqft": 32217,
+      "smoothed_rate_sqft": 32409,
+      "median_price_inr": 26300000,
+      "multiplier": 0.961
+    },
+    {
+      "locality": "Mulund East",
+      "city": "Mumbai",
+      "count": 13,
+      "median_rate_sqft": 25114,
+      "gmean_rate_sqft": 24658,
+      "smoothed_rate_sqft": 26080,
+      "median_price_inr": 16500000,
+      "multiplier": 0.776
+    },
+    {
+      "locality": "Bandra East",
+      "city": "Mumbai",
+      "count": 12,
+      "median_rate_sqft": 40195,
+      "gmean_rate_sqft": 43356,
+      "smoothed_rate_sqft": 41115,
+      "median_price_inr": 45700000,
+      "multiplier": 1.241
+    },
+    {
+      "locality": "Mira Road Area",
+      "city": "Mumbai",
+      "count": 12,
+      "median_rate_sqft": 17651,
+      "gmean_rate_sqft": 18235,
+      "smoothed_rate_sqft": 20563,
+      "median_price_inr": 11100000,
+      "multiplier": 0.545
+    },
+    {
+      "locality": "Vile Parle East",
+      "city": "Mumbai",
+      "count": 12,
+      "median_rate_sqft": 43783,
+      "gmean_rate_sqft": 42759,
+      "smoothed_rate_sqft": 40662,
+      "median_price_inr": 33750000,
+      "multiplier": 1.352
+    },
+    {
+      "locality": "Santacruz East",
+      "city": "Mumbai",
+      "count": 12,
+      "median_rate_sqft": 34427,
+      "gmean_rate_sqft": 33336,
+      "smoothed_rate_sqft": 33319,
+      "median_price_inr": 25000000,
+      "multiplier": 1.063
+    },
+    {
+      "locality": "Mira Road East",
+      "city": "Mumbai",
+      "count": 10,
+      "median_rate_sqft": 16512,
+      "gmean_rate_sqft": 17590,
+      "smoothed_rate_sqft": 20375,
+      "median_price_inr": 11250000,
+      "multiplier": 0.51
+    },
+    {
+      "locality": "Dadar West",
+      "city": "Mumbai",
+      "count": 9,
+      "median_rate_sqft": 51331,
+      "gmean_rate_sqft": 52846,
+      "smoothed_rate_sqft": 47067,
+      "median_price_inr": 50000000,
+      "multiplier": 1.585
+    },
+    {
+      "locality": "Mahalakshmi",
+      "city": "Mumbai",
+      "count": 9,
+      "median_rate_sqft": 58851,
+      "gmean_rate_sqft": 62655,
+      "smoothed_rate_sqft": 53478,
+      "median_price_inr": 83000000,
+      "multiplier": 1.818
+    },
+    {
+      "locality": "Bandra West",
+      "city": "Mumbai",
+      "count": 9,
+      "median_rate_sqft": 64964,
+      "gmean_rate_sqft": 67695,
+      "smoothed_rate_sqft": 56673,
+      "median_price_inr": 72500000,
+      "multiplier": 2.006
+    },
+    {
+      "locality": "Ghatkopar East",
+      "city": "Mumbai",
+      "count": 9,
+      "median_rate_sqft": 33043,
+      "gmean_rate_sqft": 34112,
+      "smoothed_rate_sqft": 33895,
+      "median_price_inr": 34000000,
+      "multiplier": 1.021
+    },
+    {
+      "locality": "Prabhadevi",
+      "city": "Mumbai",
+      "count": 9,
+      "median_rate_sqft": 50155,
+      "gmean_rate_sqft": 50619,
+      "smoothed_rate_sqft": 45572,
+      "median_price_inr": 49800000,
+      "multiplier": 1.549
+    },
+    {
+      "locality": "Hiranandani Gardens",
+      "city": "Mumbai",
+      "count": 9,
+      "median_rate_sqft": 50400,
+      "gmean_rate_sqft": 45284,
+      "smoothed_rate_sqft": 41920,
+      "median_price_inr": 42500000,
+      "multiplier": 1.557
+    },
+    {
+      "locality": "Santacruz West",
+      "city": "Mumbai",
+      "count": 8,
+      "median_rate_sqft": 64067,
+      "gmean_rate_sqft": 59874,
+      "smoothed_rate_sqft": 51001,
+      "median_price_inr": 82500000,
+      "multiplier": 1.979
+    },
+    {
+      "locality": "Dahisar East",
+      "city": "Mumbai",
+      "count": 8,
+      "median_rate_sqft": 27388,
+      "gmean_rate_sqft": 24976,
+      "smoothed_rate_sqft": 27004,
+      "median_price_inr": 18750000,
+      "multiplier": 0.846
+    },
+    {
+      "locality": "Virar West",
+      "city": "Mumbai",
+      "count": 8,
+      "median_rate_sqft": 11265,
+      "gmean_rate_sqft": 10890,
+      "smoothed_rate_sqft": 10552,
+      "median_price_inr": 5800000,
+      "multiplier": 0.348
+    },
+    {
+      "locality": "Khar West",
+      "city": "Mumbai",
+      "count": 8,
+      "median_rate_sqft": 61800,
+      "gmean_rate_sqft": 59796,
+      "smoothed_rate_sqft": 50953,
+      "median_price_inr": 57450000,
+      "multiplier": 1.909
+    },
+    {
+      "locality": "Chandivali",
+      "city": "Mumbai",
+      "count": 7,
+      "median_rate_sqft": 31875,
+      "gmean_rate_sqft": 33551,
+      "smoothed_rate_sqft": 33461,
+      "median_price_inr": 25500000,
+      "multiplier": 0.984
+    },
+    {
+      "locality": "Chembur East",
+      "city": "Mumbai",
+      "count": 7,
+      "median_rate_sqft": 32500,
+      "gmean_rate_sqft": 31857,
+      "smoothed_rate_sqft": 32269,
+      "median_price_inr": 28800000,
+      "multiplier": 1.004
+    },
+    {
+      "locality": "Wadala",
+      "city": "Mumbai",
+      "count": 6,
+      "median_rate_sqft": 34906,
+      "gmean_rate_sqft": 35996,
+      "smoothed_rate_sqft": 35058,
+      "median_price_inr": 38000000,
+      "multiplier": 1.078
+    },
+    {
+      "locality": "Vikhroli East",
+      "city": "Mumbai",
+      "count": 6,
+      "median_rate_sqft": 25190,
+      "gmean_rate_sqft": 28663,
+      "smoothed_rate_sqft": 30118,
+      "median_price_inr": 14500000,
+      "multiplier": 0.778
+    },
+    {
+      "locality": "Wadala East",
+      "city": "Mumbai",
+      "count": 6,
+      "median_rate_sqft": 34740,
+      "gmean_rate_sqft": 34467,
+      "smoothed_rate_sqft": 34057,
+      "median_price_inr": 31550000,
+      "multiplier": 1.073
+    },
+    {
+      "locality": "Siddharth Nagar Goregaon West",
+      "city": "Mumbai",
+      "count": 6,
+      "median_rate_sqft": 39334,
+      "gmean_rate_sqft": 36674,
+      "smoothed_rate_sqft": 35496,
+      "median_price_inr": 36750000,
+      "multiplier": 1.215
+    },
+    {
+      "locality": "Jogeshwari West",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 29752,
+      "gmean_rate_sqft": 30481,
+      "smoothed_rate_sqft": 31492,
+      "median_price_inr": 27500000,
+      "multiplier": 0.919
+    },
+    {
+      "locality": "Jogeshwari East",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 31893,
+      "gmean_rate_sqft": 31318,
+      "smoothed_rate_sqft": 32030,
+      "median_price_inr": 19900000,
+      "multiplier": 0.985
+    },
+    {
+      "locality": "Kanjurmarg East",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 30115,
+      "gmean_rate_sqft": 28797,
+      "smoothed_rate_sqft": 30393,
+      "median_price_inr": 18700000,
+      "multiplier": 0.93
+    },
+    {
+      "locality": "Mahim West",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 50000,
+      "gmean_rate_sqft": 50912,
+      "smoothed_rate_sqft": 43396,
+      "median_price_inr": 35000000,
+      "multiplier": 1.544
+    },
+    {
+      "locality": "IC Colony",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 26892,
+      "gmean_rate_sqft": 28204,
+      "smoothed_rate_sqft": 30001,
+      "median_price_inr": 18000000,
+      "multiplier": 0.831
+    },
+    {
+      "locality": "Vinay Nagar",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 16693,
+      "gmean_rate_sqft": 16798,
+      "smoothed_rate_sqft": 21701,
+      "median_price_inr": 9980000,
+      "multiplier": 0.516
+    },
+    {
+      "locality": "Marol",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 27692,
+      "gmean_rate_sqft": 27842,
+      "smoothed_rate_sqft": 29759,
+      "median_price_inr": 15700000,
+      "multiplier": 0.855
+    },
+    {
+      "locality": "Four Bungalows",
+      "city": "Mumbai",
+      "count": 5,
+      "median_rate_sqft": 37500,
+      "gmean_rate_sqft": 37302,
+      "smoothed_rate_sqft": 35729,
+      "median_price_inr": 30000000,
+      "multiplier": 1.158
+    },
+    {
+      "locality": "Sewri",
+      "city": "Mumbai",
+      "count": 4,
+      "median_rate_sqft": 50933,
+      "gmean_rate_sqft": 51575,
+      "smoothed_rate_sqft": 42731,
+      "median_price_inr": 72150000,
+      "multiplier": 1.573
+    },
+    {
+      "locality": "Parel",
+      "city": "Mumbai",
+      "count": 4,
+      "median_rate_sqft": 51461,
+      "gmean_rate_sqft": 51508,
+      "smoothed_rate_sqft": 42700,
+      "median_price_inr": 76750000,
+      "multiplier": 1.589
+    },
+    {
+      "locality": "Kurla West",
+      "city": "Mumbai",
+      "count": 4,
+      "median_rate_sqft": 30083,
+      "gmean_rate_sqft": 29198,
+      "smoothed_rate_sqft": 30871,
+      "median_price_inr": 17500000,
+      "multiplier": 0.929
+    },
+    {
+      "locality": "Matunga East",
+      "city": "Mumbai",
+      "count": 4,
+      "median_rate_sqft": 55742,
+      "gmean_rate_sqft": 55260,
+      "smoothed_rate_sqft": 44450,
+      "median_price_inr": 67950000,
+      "multiplier": 1.722
+    },
+    {
+      "locality": "Vakola",
+      "city": "Mumbai",
+      "count": 4,
+      "median_rate_sqft": 28555,
+      "gmean_rate_sqft": 27755,
+      "smoothed_rate_sqft": 29990,
+      "median_price_inr": 16200000,
+      "multiplier": 0.882
+    },
+    {
+      "locality": "Lokhandwala Township Kandivali East",
+      "city": "Mumbai",
+      "count": 4,
+      "median_rate_sqft": 26038,
+      "gmean_rate_sqft": 27054,
+      "smoothed_rate_sqft": 29555,
+      "median_price_inr": 23900000,
+      "multiplier": 0.804
+    },
+    {
+      "locality": "Lokhandwala Complex Andheri West",
+      "city": "Mumbai",
+      "count": 4,
+      "median_rate_sqft": 54928,
+      "gmean_rate_sqft": 53084,
+      "smoothed_rate_sqft": 43442,
+      "median_price_inr": 78750000,
+      "multiplier": 1.696
+    },
+    {
+      "locality": "Byculla",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 53092,
+      "gmean_rate_sqft": 50694,
+      "smoothed_rate_sqft": 41057,
+      "median_price_inr": 101300000,
+      "multiplier": 1.64
+    },
+    {
+      "locality": "Bandra Kurla Complex",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 37152,
+      "gmean_rate_sqft": 38793,
+      "smoothed_rate_sqft": 35916,
+      "median_price_inr": 72000000,
+      "multiplier": 1.147
+    },
+    {
+      "locality": "Vasai",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 8671,
+      "gmean_rate_sqft": 8250,
+      "smoothed_rate_sqft": 8947,
+      "median_price_inr": 3850000,
+      "multiplier": 0.268
+    },
+    {
+      "locality": "Sion East",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 42000,
+      "gmean_rate_sqft": 39139,
+      "smoothed_rate_sqft": 36076,
+      "median_price_inr": 31500000,
+      "multiplier": 1.297
+    },
+    {
+      "locality": "Mahim",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 44951,
+      "gmean_rate_sqft": 45164,
+      "smoothed_rate_sqft": 38753,
+      "median_price_inr": 40000000,
+      "multiplier": 1.388
+    },
+    {
+      "locality": "Lower Parel",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 62647,
+      "gmean_rate_sqft": 55169,
+      "smoothed_rate_sqft": 42831,
+      "median_price_inr": 110000000,
+      "multiplier": 1.935
+    },
+    {
+      "locality": "Virar East",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 7500,
+      "gmean_rate_sqft": 7413,
+      "smoothed_rate_sqft": 8481,
+      "median_price_inr": 3900000,
+      "multiplier": 0.232
+    },
+    {
+      "locality": "JVPD Scheme",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 56522,
+      "gmean_rate_sqft": 64805,
+      "smoothed_rate_sqft": 46421,
+      "median_price_inr": 65000000,
+      "multiplier": 1.746
+    },
+    {
+      "locality": "Ghatkopar West",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 28571,
+      "gmean_rate_sqft": 30240,
+      "smoothed_rate_sqft": 31710,
+      "median_price_inr": 18000000,
+      "multiplier": 0.882
+    },
+    {
+      "locality": "JB Nagar",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 31105,
+      "gmean_rate_sqft": 31657,
+      "smoothed_rate_sqft": 32445,
+      "median_price_inr": 31900000,
+      "multiplier": 0.961
+    },
+    {
+      "locality": "Palghar Naigaon East",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 8163,
+      "gmean_rate_sqft": 8494,
+      "smoothed_rate_sqft": 9078,
+      "median_price_inr": 3600000,
+      "multiplier": 0.252
+    },
+    {
+      "locality": "Bhandup East",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 25000,
+      "gmean_rate_sqft": 23292,
+      "smoothed_rate_sqft": 27830,
+      "median_price_inr": 14500000,
+      "multiplier": 0.772
+    },
+    {
+      "locality": "Pant Nagar",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 31657,
+      "gmean_rate_sqft": 32034,
+      "smoothed_rate_sqft": 32637,
+      "median_price_inr": 34000000,
+      "multiplier": 0.978
+    },
+    {
+      "locality": "Raheja Township",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 31250,
+      "gmean_rate_sqft": 32124,
+      "smoothed_rate_sqft": 32683,
+      "median_price_inr": 12500000,
+      "multiplier": 0.965
+    },
+    {
+      "locality": "Sindhi Society Chembur",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 33128,
+      "gmean_rate_sqft": 33521,
+      "smoothed_rate_sqft": 33387,
+      "median_price_inr": 21500000,
+      "multiplier": 1.023
+    },
+    {
+      "locality": "Tagore Nagar",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 22642,
+      "gmean_rate_sqft": 23366,
+      "smoothed_rate_sqft": 27874,
+      "median_price_inr": 13800000,
+      "multiplier": 0.699
+    },
+    {
+      "locality": "Colaba",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 49261,
+      "gmean_rate_sqft": 58450,
+      "smoothed_rate_sqft": 44086,
+      "median_price_inr": 65000000,
+      "multiplier": 1.521
+    },
+    {
+      "locality": "Gokuldham Colony Goregaon East",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 42373,
+      "gmean_rate_sqft": 42340,
+      "smoothed_rate_sqft": 37522,
+      "median_price_inr": 47500000,
+      "multiplier": 1.309
+    },
+    {
+      "locality": "Jay Prakash Nagar Goregaon East",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 29736,
+      "gmean_rate_sqft": 29526,
+      "smoothed_rate_sqft": 31334,
+      "median_price_inr": 14000000,
+      "multiplier": 0.918
+    },
+    {
+      "locality": "Collector Colony",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 28235,
+      "gmean_rate_sqft": 22800,
+      "smoothed_rate_sqft": 27535,
+      "median_price_inr": 14000000,
+      "multiplier": 0.872
+    },
+    {
+      "locality": "Lal Baug",
+      "city": "Mumbai",
+      "count": 3,
+      "median_rate_sqft": 46000,
+      "gmean_rate_sqft": 42595,
+      "smoothed_rate_sqft": 37635,
+      "median_price_inr": 23000000,
+      "multiplier": 1.421
+    },
+    {
+      "locality": "Vikhroli West",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 32105,
+      "gmean_rate_sqft": 32002,
+      "smoothed_rate_sqft": 32747,
+      "median_price_inr": 21850000,
+      "multiplier": 0.992
+    },
+    {
+      "locality": "Bhandup",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 28414,
+      "gmean_rate_sqft": 28372,
+      "smoothed_rate_sqft": 31207,
+      "median_price_inr": 29150000,
+      "multiplier": 0.878
+    },
+    {
+      "locality": "Vasai West",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 15342,
+      "gmean_rate_sqft": 14975,
+      "smoothed_rate_sqft": 11542,
+      "median_price_inr": 12550000,
+      "multiplier": 0.474
+    },
+    {
+      "locality": "Andheri",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 40234,
+      "gmean_rate_sqft": 39667,
+      "smoothed_rate_sqft": 35683,
+      "median_price_inr": 34200000,
+      "multiplier": 1.243
+    },
+    {
+      "locality": "Matunga West",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 52202,
+      "gmean_rate_sqft": 52201,
+      "smoothed_rate_sqft": 39826,
+      "median_price_inr": 73950000,
+      "multiplier": 1.612
+    },
+    {
+      "locality": "Jogeshwari Vikhroli Link Road",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 28272,
+      "gmean_rate_sqft": 28130,
+      "smoothed_rate_sqft": 31100,
+      "median_price_inr": 32450000,
+      "multiplier": 0.873
+    },
+    {
+      "locality": "Mira Bhayandar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 14148,
+      "gmean_rate_sqft": 14065,
+      "smoothed_rate_sqft": 23570,
+      "median_price_inr": 13700000,
+      "multiplier": 0.437
+    },
+    {
+      "locality": "Vile Parle West",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 48721,
+      "gmean_rate_sqft": 48716,
+      "smoothed_rate_sqft": 38740,
+      "median_price_inr": 69700000,
+      "multiplier": 1.505
+    },
+    {
+      "locality": "Virar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 10271,
+      "gmean_rate_sqft": 9818,
+      "smoothed_rate_sqft": 9749,
+      "median_price_inr": 6135000,
+      "multiplier": 0.317
+    },
+    {
+      "locality": "Swastik Park",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 31166,
+      "gmean_rate_sqft": 31124,
+      "smoothed_rate_sqft": 32384,
+      "median_price_inr": 41250000,
+      "multiplier": 0.963
+    },
+    {
+      "locality": "Lower Parel West",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 59258,
+      "gmean_rate_sqft": 59188,
+      "smoothed_rate_sqft": 41878,
+      "median_price_inr": 138550000,
+      "multiplier": 1.83
+    },
+    {
+      "locality": "Sarvodaya Nagar Mulund West",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 27894,
+      "gmean_rate_sqft": 27892,
+      "smoothed_rate_sqft": 30995,
+      "median_price_inr": 20000000,
+      "multiplier": 0.861
+    },
+    {
+      "locality": "Yashodham",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 50653,
+      "gmean_rate_sqft": 49759,
+      "smoothed_rate_sqft": 39070,
+      "median_price_inr": 67500000,
+      "multiplier": 1.564
+    },
+    {
+      "locality": "Kanchpada",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 34086,
+      "gmean_rate_sqft": 34050,
+      "smoothed_rate_sqft": 33569,
+      "median_price_inr": 24350000,
+      "multiplier": 1.053
+    },
+    {
+      "locality": "Malabar Hill",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 92857,
+      "gmean_rate_sqft": 92582,
+      "smoothed_rate_sqft": 50085,
+      "median_price_inr": 152500000,
+      "multiplier": 2.868
+    },
+    {
+      "locality": "Dahanukar Wadi",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 27335,
+      "gmean_rate_sqft": 27171,
+      "smoothed_rate_sqft": 30672,
+      "median_price_inr": 16400000,
+      "multiplier": 0.844
+    },
+    {
+      "locality": "Dadar East",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 44319,
+      "gmean_rate_sqft": 43567,
+      "smoothed_rate_sqft": 37047,
+      "median_price_inr": 43250000,
+      "multiplier": 1.369
+    },
+    {
+      "locality": "Dattapada",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 43288,
+      "gmean_rate_sqft": 42948,
+      "smoothed_rate_sqft": 36836,
+      "median_price_inr": 48000000,
+      "multiplier": 1.337
+    },
+    {
+      "locality": "Model Town Govardhan Nagar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 26346,
+      "gmean_rate_sqft": 26299,
+      "smoothed_rate_sqft": 30274,
+      "median_price_inr": 66500000,
+      "multiplier": 0.814
+    },
+    {
+      "locality": "Oshiwara",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 37274,
+      "gmean_rate_sqft": 37037,
+      "smoothed_rate_sqft": 34718,
+      "median_price_inr": 39850000,
+      "multiplier": 1.151
+    },
+    {
+      "locality": "Girgaon",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 49346,
+      "gmean_rate_sqft": 49154,
+      "smoothed_rate_sqft": 38879,
+      "median_price_inr": 16500000,
+      "multiplier": 1.524
+    },
+    {
+      "locality": "Bangur Nagar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 45935,
+      "gmean_rate_sqft": 45038,
+      "smoothed_rate_sqft": 37543,
+      "median_price_inr": 38250000,
+      "multiplier": 1.419
+    },
+    {
+      "locality": "Navneeth Colony",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 32484,
+      "gmean_rate_sqft": 32171,
+      "smoothed_rate_sqft": 32816,
+      "median_price_inr": 26150000,
+      "multiplier": 1.003
+    },
+    {
+      "locality": "Bhawani Sankar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 49248,
+      "gmean_rate_sqft": 48789,
+      "smoothed_rate_sqft": 38764,
+      "median_price_inr": 40900000,
+      "multiplier": 1.521
+    },
+    {
+      "locality": "Beverly Park",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 19808,
+      "gmean_rate_sqft": 18486,
+      "smoothed_rate_sqft": 26293,
+      "median_price_inr": 13550000,
+      "multiplier": 0.612
+    },
+    {
+      "locality": "Dahisar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 24554,
+      "gmean_rate_sqft": 24542,
+      "smoothed_rate_sqft": 29448,
+      "median_price_inr": 15200000,
+      "multiplier": 0.758
+    },
+    {
+      "locality": "Kandarpada",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 23530,
+      "gmean_rate_sqft": 23516,
+      "smoothed_rate_sqft": 28950,
+      "median_price_inr": 12750000,
+      "multiplier": 0.727
+    },
+    {
+      "locality": "Upper Govind Nagar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 29581,
+      "gmean_rate_sqft": 29491,
+      "smoothed_rate_sqft": 31694,
+      "median_price_inr": 24250000,
+      "multiplier": 0.914
+    },
+    {
+      "locality": "Nala Sopara",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 10277,
+      "gmean_rate_sqft": 10246,
+      "smoothed_rate_sqft": 20764,
+      "median_price_inr": 8600000,
+      "multiplier": 0.317
+    },
+    {
+      "locality": "Evershine Nagar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 25298,
+      "gmean_rate_sqft": 25000,
+      "smoothed_rate_sqft": 29667,
+      "median_price_inr": 20250000,
+      "multiplier": 0.781
+    },
+    {
+      "locality": "Mathuradas Road",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 31951,
+      "gmean_rate_sqft": 31923,
+      "smoothed_rate_sqft": 32714,
+      "median_price_inr": 28000000,
+      "multiplier": 0.987
+    },
+    {
+      "locality": "Gundavali Gaothan",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 29819,
+      "gmean_rate_sqft": 29818,
+      "smoothed_rate_sqft": 31834,
+      "median_price_inr": 24250000,
+      "multiplier": 0.921
+    },
+    {
+      "locality": "Gavanpada Mulund East",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 23138,
+      "gmean_rate_sqft": 23093,
+      "smoothed_rate_sqft": 28740,
+      "median_price_inr": 8250000,
+      "multiplier": 0.715
+    },
+    {
+      "locality": "Vasai East",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 9834,
+      "gmean_rate_sqft": 9791,
+      "smoothed_rate_sqft": 9738,
+      "median_price_inr": 5650000,
+      "multiplier": 0.304
+    },
+    {
+      "locality": "Agripada",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 36023,
+      "gmean_rate_sqft": 34145,
+      "smoothed_rate_sqft": 33607,
+      "median_price_inr": 30500000,
+      "multiplier": 1.113
+    },
+    {
+      "locality": "LIC Colony Borivali West",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 24392,
+      "gmean_rate_sqft": 24365,
+      "smoothed_rate_sqft": 29363,
+      "median_price_inr": 11050000,
+      "multiplier": 0.753
+    },
+    {
+      "locality": "Goregaon",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 28864,
+      "gmean_rate_sqft": 28451,
+      "smoothed_rate_sqft": 31242,
+      "median_price_inr": 19050000,
+      "multiplier": 0.891
+    },
+    {
+      "locality": "Chinchpada",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 28746,
+      "gmean_rate_sqft": 28588,
+      "smoothed_rate_sqft": 31302,
+      "median_price_inr": 20500000,
+      "multiplier": 0.888
+    },
+    {
+      "locality": "Bandra",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 61693,
+      "gmean_rate_sqft": 59882,
+      "smoothed_rate_sqft": 42074,
+      "median_price_inr": 62400000,
+      "multiplier": 1.905
+    },
+    {
+      "locality": "Piramal Nagar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 39885,
+      "gmean_rate_sqft": 39098,
+      "smoothed_rate_sqft": 35478,
+      "median_price_inr": 42000000,
+      "multiplier": 1.232
+    },
+    {
+      "locality": "Motilal Nagar",
+      "city": "Mumbai",
+      "count": 2,
+      "median_rate_sqft": 29971,
+      "gmean_rate_sqft": 29823,
+      "smoothed_rate_sqft": 31836,
+      "median_price_inr": 27500000,
+      "multiplier": 0.926
+    }
+  ]
+}

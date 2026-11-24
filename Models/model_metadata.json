@@ -1,0 +1,71 @@
+{
+  "model_name": "Hedonic Log-Linear Ridge Regressor",
+  "target": "Price_INR",
+  "feature_names": [
+    "intercept",
+    "log_area_sqft",
+    "log_locality_rate",
+    "is_mumbai",
+    "bhk",
+    "bathrooms",
+    "is_furnished",
+    "is_semi_furnished",
+    "is_under_construction"
+  ],
+  "coefficients": [
+    -1.5026964230707012,
+    0.9520674311393263,
+    1.1601921208519925,
+    -0.12641613758766324,
+    0.038189631604290716,
+    0.07807409359518735,
+    0.05581858950584738,
+    0.003956198881528986,
+    0.02865967690934583
+  ],
+  "ridge_alpha": 8.0,
+  "shrinkage_m": 3.0,
+  "city_gmean_rates": {
+    "Pune": 11876.13,
+    "Mumbai": 33252.49
+  },
+  "city_median_rates": {
+    "Pune": 12141.94,
+    "Mumbai": 32378.72
+  },
+  "mmr_outer_gmean_rate": 9702.61,
+  "outer_mmr_tokens": [
+    "ambernath",
+    "badlapur",
+    "bhiwandi",
+    "boisar",
+    "chikhal dongari",
+    "dombivli",
+    "kalyan",
+    "kamothe",
+    "karjat",
+    "kharghar",
+    "khopoli",
+    "nalasopara",
+    "palghar",
+    "panvel",
+    "taloja",
+    "ulhasnagar",
+    "ulwe",
+    "vasai",
+    "virar"
+  ],
+  "training_samples": 1436,
+  "test_samples": 360,
+  "mae_inr": 7294836.81,
+  "rmse_inr": 19153880.34,
+  "dummy_mae_inr": 22219603.61,
+  "dummy_rmse_inr": 43924687.44,
+  "r2_score": 0.8098,
+  "log_r2_score": 0.889,
+  "median_ape_percent": 16.1,
+  "mean_ape_percent": 22.5,
+  "mape_percent": 22.5,
+  "tolerance_band_percent": 16.1,
+  "random_seed": 42
+}

@@ -1,0 +1,1797 @@
+id,city,locality,bhk,area_sqft,bathrooms,furnishing,status,age_years,price_inr
+PROP_00001,Pune,Kharadi,3.0,1511.0,3.0,Unfurnished,Under Construction,,30600000.0
+PROP_00002,Pune,Hadapsar,3.0,1384.0,3.0,Unfurnished,Under Construction,3.0,17500000.0
+PROP_00003,Pune,Balewadi,4.0,1838.0,4.0,Unfurnished,Under Construction,3.0,36200000.0
+PROP_00004,Pune,Baner,6.0,3819.0,5.0,Unfurnished,Under Construction,4.0,83400000.0
+PROP_00005,Pune,Kharadi,3.0,1259.0,3.0,Unfurnished,Under Construction,4.0,18000000.0
+PROP_00006,Pune,Ghorpadi,2.0,886.0,2.0,Unfurnished,Under Construction,,11000000.0
+PROP_00007,Pune,Pimpri Chinchwad,4.0,1961.0,4.0,Unfurnished,Under Construction,,33300000.0
+PROP_00008,Pune,Mundhwa,4.0,2698.0,4.0,Unfurnished,Under Construction,,48500000.0
+PROP_00009,Pune,Dehu Road,3.0,947.0,3.0,Unfurnished,Under Construction,,9560000.0
+PROP_00010,Pune,Kharadi,4.0,1650.0,4.0,Unfurnished,Ready to Move,,32800000.0
+PROP_00011,Pune,Balewadi,4.0,1585.0,4.0,Unfurnished,Under Construction,,23600000.0
+PROP_00012,Pune,Balewadi,3.0,1288.0,3.0,Unfurnished,Under Construction,,19100000.0
+PROP_00013,Pune,Baner,3.0,1213.0,3.0,Unfurnished,Ready to Move,,17500000.0
+PROP_00014,Pune,Kharadi,4.0,1598.0,4.0,Unfurnished,Under Construction,,24500000.0
+PROP_00015,Pune,Balewadi,2.0,865.0,2.0,Unfurnished,Ready to Move,,13700000.000000002
+PROP_00016,Pune,Wakad,2.0,753.0,2.0,Unfurnished,Under Construction,,9700000.0
+PROP_00017,Pune,Bavdhan,4.0,1320.0,7.0,Unfurnished,Ready to Move,,19700000.0
+PROP_00018,Pune,Erandwane,3.0,1471.0,3.0,Unfurnished,Under Construction,1.0,39800000.0
+PROP_00019,Pune,Wakad,3.0,938.0,3.0,Unfurnished,Ready to Move,7.0,11500000.0
+PROP_00020,Pune,Kharadi,3.0,1084.0,3.0,Unfurnished,Ready to Move,4.0,14300000.0
+PROP_00021,Pune,Hinjawadi,3.0,1428.0,3.0,Unfurnished,Under Construction,,22000000.0
+PROP_00022,Pune,Phase 3 Hinjewadi Rajiv Gandhi Infotech Park,2.0,726.0,2.0,Unfurnished,Under Construction,,7650000.0
+PROP_00023,Pune,Sangamvadi,5.0,1735.0,5.0,Unfurnished,Under Construction,1.0,40500000.0
+PROP_00024,Pune,Wagholi,2.0,735.0,2.0,Unfurnished,Under Construction,4.0,8800000.0
+PROP_00025,Pune,Phase 2 Hinjewadi Rajiv Gandhi Infotech Park,2.0,725.0,2.0,Unfurnished,Ready to Move,2.0,8120000.0
+PROP_00026,Pune,Jambhe,3.0,996.0,3.0,Unfurnished,Under Construction,1.0,9010000.0
+PROP_00027,Pune,Wakad,3.0,1073.0,3.0,Unfurnished,Under Construction,,15300000.0
+PROP_00028,Pune,Mundhwa,3.0,1150.0,3.0,Unfurnished,Under Construction,,16900000.0
+PROP_00029,Pune,Somatane,5.0,2500.0,5.0,Unfurnished,Ready to Move,,22400000.000000004
+PROP_00030,Pune,Pimpri Chinchwad,2.0,873.0,2.0,Unfurnished,Under Construction,1.0,10400000.0
+PROP_00031,Pune,Darumbre,3.0,1104.0,3.0,Unfurnished,Under Construction,1.0,11500000.0
+PROP_00032,Pune,Pimpri Chinchwad,3.0,1174.0,3.0,Unfurnished,Under Construction,3.0,12000000.0
+PROP_00033,Pune,Hinjawadi,3.0,1278.0,3.0,Unfurnished,Under Construction,,15600000.0
+PROP_00034,Pune,Pimpri Chinchwad,4.0,2045.0,4.0,Unfurnished,Under Construction,,33500000.0
+PROP_00035,Pune,Phase 1 Hinjewadi Rajiv Gandhi Infotech Park,3.0,1198.0,3.0,Unfurnished,Under Construction,,16299999.999999998
+PROP_00036,Pune,Tathawade Pimpri Chinchwad,2.0,714.0,2.0,Unfurnished,Ready to Move,,8200000.0
+PROP_00037,Pune,Wakad,4.0,1223.0,4.0,Unfurnished,Under Construction,,15900000.0
+PROP_00038,Pune,Mahalunge,4.0,2326.0,4.0,Unfurnished,Under Construction,,31900000.0
+PROP_00039,Pune,Phase 3 Hinjewadi Rajiv Gandhi Infotech Park,3.0,1074.0,3.0,Unfurnished,Under Construction,,13700000.000000002
+PROP_00040,Pune,Kharadi,3.0,1152.0,3.0,Unfurnished,Under Construction,4.0,13200000.0
+PROP_00041,Pune,Wagholi,3.0,1250.0,3.0,Unfurnished,Ready to Move,1.0,23400000.0
+PROP_00042,Pune,Pharande,3.0,953.0,3.0,Unfurnished,Under Construction,,10400000.0
+PROP_00043,Pune,Kothrud,2.0,670.0,2.0,Unfurnished,Under Construction,,12700000.0
+PROP_00044,Pune,Kothrud,3.0,777.0,3.0,Unfurnished,Under Construction,7.0,16600000.0
+PROP_00045,Pune,Bavdhan,3.0,1490.0,3.0,Unfurnished,Ready to Move,,19400000.0
+PROP_00046,Pune,Kharadi,3.0,858.0,3.0,Unfurnished,Under Construction,3.0,9650000.0
+PROP_00047,Pune,NIBM Road,4.0,2313.0,4.0,Unfurnished,Under Construction,11.0,35000000.0
+PROP_00048,Pune,Bavdhan,3.0,1213.0,3.0,Unfurnished,Under Construction,,14200000.0
+PROP_00049,Pune,Wakad,3.0,1161.0,3.0,Unfurnished,Under Construction,,12900000.0
+PROP_00050,Pune,Sahakar Nagar Parvati Paytha,3.0,1094.0,3.0,Unfurnished,Ready to Move,,23700000.0
+PROP_00051,Pune,Balewadi,4.0,1590.0,4.0,Unfurnished,Under Construction,,23900000.0
+PROP_00052,Pune,Mahalunge,2.0,776.0,2.0,Unfurnished,Under Construction,3.0,9110000.0
+PROP_00053,Pune,Pimpri Chinchwad,4.0,1871.0,4.0,Unfurnished,Under Construction,,33500000.0
+PROP_00054,Pune,Baner,3.0,1358.0,3.0,Unfurnished,Under Construction,,17200000.0
+PROP_00055,Pune,Kharadi,2.0,956.0,2.0,Unfurnished,Ready to Move,4.0,12800000.0
+PROP_00056,Pune,Tathawade Pimpri Chinchwad,3.0,1190.0,3.0,Unfurnished,Under Construction,,14700000.0
+PROP_00057,Pune,Bibwewadi,6.0,4501.0,5.0,Unfurnished,Ready to Move,,127700000.0
+PROP_00058,Pune,Tathawade Pimpri Chinchwad,4.0,1612.0,4.0,Unfurnished,Under Construction,,19100000.0
+PROP_00059,Pune,Dehu Road,3.0,924.0,3.0,Unfurnished,Under Construction,,6250000.0
+PROP_00060,Pune,Balewadi,4.0,1740.0,4.0,Unfurnished,Ready to Move,,26700000.0
+PROP_00061,Pune,Baner,3.0,1102.0,3.0,Unfurnished,Under Construction,,12100000.0
+PROP_00062,Pune,Wagholi,3.0,1037.0,3.0,Unfurnished,Under Construction,4.0,13899999.999999998
+PROP_00063,Pune,Kharadi,4.0,1726.0,4.0,Unfurnished,Under Construction,9.0,31100000.0
+PROP_00064,Pune,Tathawade Pimpri Chinchwad,2.0,764.0,2.0,Unfurnished,Ready to Move,,8500000.0
+PROP_00065,Pune,Balewadi,4.0,1743.0,4.0,Unfurnished,Under Construction,5.0,35400000.0
+PROP_00066,Pune,Wakad,5.0,2603.0,5.0,Unfurnished,Under Construction,,50000000.0
+PROP_00067,Pune,Manjari BK,2.0,757.0,2.0,Unfurnished,Under Construction,2.0,6670000.0
+PROP_00068,Pune,Balewadi,4.0,1608.0,4.0,Unfurnished,Under Construction,1.0,26100000.0
+PROP_00069,Pune,Mahalunge,4.0,1086.0,4.0,Unfurnished,Under Construction,,14900000.0
+PROP_00070,Pune,Handewadi,2.0,721.0,2.0,Unfurnished,Under Construction,,6500000.0
+PROP_00071,Pune,Bibwewadi,4.0,3500.0,4.0,Unfurnished,Under Construction,,68500000.0
+PROP_00072,Pune,Pimpri Chinchwad,3.0,1043.0,3.0,Unfurnished,Under Construction,,11500000.0
+PROP_00073,Pune,Wagholi,4.0,1793.0,4.0,Unfurnished,Under Construction,,23200000.0
+PROP_00074,Pune,Magarpatta Road,4.0,1705.0,4.0,Unfurnished,Under Construction,,24100000.0
+PROP_00075,Pune,Balewadi,4.0,1841.0,4.0,Unfurnished,Under Construction,3.0,27800000.0
+PROP_00076,Pune,Sinhgad Road,3.0,1278.0,3.0,Unfurnished,Under Construction,7.0,27100000.0
+PROP_00077,Pune,Nanded Fata,3.0,1360.0,3.0,Unfurnished,Ready to Move,1.0,14000000.0
+PROP_00078,Pune,Charholi BK,3.0,1059.0,3.0,Unfurnished,Ready to Move,6.0,9100000.0
+PROP_00079,Pune,Wadgaon Sheri,3.0,1519.0,3.0,Unfurnished,Under Construction,2.0,33700000.0
+PROP_00080,Pune,Bavdhan,3.0,1470.0,2.0,Unfurnished,Ready to Move,,15900000.0
+PROP_00081,Pune,Mundhwa,3.0,1299.0,3.0,Unfurnished,Under Construction,,18700000.0
+PROP_00082,Pune,Kharadi,3.0,1103.0,3.0,Unfurnished,Under Construction,2.0,15700000.0
+PROP_00083,Pune,Mundhwa,2.0,915.0,2.0,Unfurnished,Under Construction,,17100000.0
+PROP_00084,Pune,Hinjawadi,3.0,1045.0,3.0,Unfurnished,Under Construction,4.0,12400000.0
+PROP_00085,Pune,Dehu Road,3.0,1484.0,3.0,Unfurnished,Under Construction,,8900000.0
+PROP_00086,Pune,Pachane,3.0,1887.0,3.0,Unfurnished,Under Construction,,15800000.0
+PROP_00087,Pune,Pradhikaran Nigdi,3.0,1402.0,3.0,Unfurnished,Ready to Move,,21200000.0
+PROP_00088,Pune,Pimpri Chinchwad,3.0,1550.0,3.0,Unfurnished,Under Construction,,24800000.0
+PROP_00089,Pune,Pimpri Chinchwad,2.0,814.0,2.0,Unfurnished,Under Construction,,11900000.0
+PROP_00090,Pune,Amanora Park Town,3.0,1233.0,3.0,Unfurnished,Under Construction,,25100000.0
+PROP_00091,Pune,Handewadi,4.0,1408.0,4.0,Unfurnished,Under Construction,,17600000.0
+PROP_00092,Pune,Mundhwa,4.0,1433.0,4.0,Unfurnished,Under Construction,,18000000.0
+PROP_00093,Pune,Sinhgad Road,4.0,2622.0,4.0,Unfurnished,Under Construction,2.0,53500000.0
+PROP_00094,Pune,Tathawade Pimpri Chinchwad,3.0,1066.0,3.0,Unfurnished,Under Construction,,13899999.999999998
+PROP_00095,Pune,Akurdi,4.0,1827.0,4.0,Unfurnished,Under Construction,,26500000.0
+PROP_00096,Pune,Wadgaon Sheri,2.0,820.0,2.0,Unfurnished,Ready to Move,,12300000.0
+PROP_00097,Pune,Pimpri Chinchwad,3.0,1049.0,3.0,Semi-Furnished,Under Construction,,13600000.000000002
+PROP_00098,Pune,Undri,2.0,703.0,2.0,Unfurnished,Under Construction,,7240000.000000001
+PROP_00099,Pune,Darumbre,3.0,1075.0,3.0,Unfurnished,Under Construction,,11200000.000000002
+PROP_00100,Pune,Hadapsar,4.0,4010.0,4.0,Semi-Furnished,Ready to Move,,45500000.0
+PROP_00101,Pune,Sinhgad Road,1.0,450.0,1.0,Unfurnished,Ready to Move,,6700000.0
+PROP_00102,Pune,Wanowrie,2.0,1050.0,2.0,Furnished,Ready to Move,,11000000.0
+PROP_00103,Pune,Viman Nagar,2.0,780.0,2.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00104,Pune,Kharadi,3.0,1065.0,3.0,Unfurnished,Ready to Move,6.0,16000000.0
+PROP_00105,Pune,Hinjawadi,2.0,630.0,2.0,Semi-Furnished,Ready to Move,,6250000.0
+PROP_00106,Pune,Kharadi,2.0,1005.0,2.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_00107,Pune,NIBM Road,2.0,1000.0,2.0,Unfurnished,Ready to Move,,7200000.0
+PROP_00108,Pune,Hinjawadi,3.0,1300.0,3.0,Semi-Furnished,Ready to Move,,11500000.0
+PROP_00109,Pune,Kondhwa,3.0,1300.0,3.0,Furnished,Ready to Move,23.0,13500000.0
+PROP_00110,Pune,Dehu Road,2.0,770.0,2.0,Unfurnished,Under Construction,,6500000.0
+PROP_00111,Pune,Kharadi,3.0,1240.0,3.0,Unfurnished,Under Construction,,27000000.0
+PROP_00112,Pune,Undri,3.0,1200.0,3.0,Unfurnished,Under Construction,,12400000.0
+PROP_00113,Pune,Baner,4.0,1737.0,4.0,Semi-Furnished,Under Construction,,23800000.0
+PROP_00114,Pune,Viman Nagar,3.0,1800.0,3.0,Unfurnished,Ready to Move,,18500000.0
+PROP_00115,Pune,LODHA,2.0,815.0,2.0,Semi-Furnished,Under Construction,,8470000.0
+PROP_00116,Pune,NIBM Road,3.0,1725.0,3.0,Semi-Furnished,Ready to Move,,16000000.0
+PROP_00117,Pune,NIBM Road,4.0,3112.0,4.0,Unfurnished,Under Construction,,44400000.00000001
+PROP_00118,Pune,Kalyani Nagar,3.0,1800.0,3.0,Furnished,Ready to Move,,31000000.0
+PROP_00119,Pune,Olympia,3.0,908.0,3.0,Unfurnished,Ready to Move,13.0,8100000.0
+PROP_00120,Pune,Kharadi,3.0,2845.0,3.0,Unfurnished,Ready to Move,,41500000.0
+PROP_00121,Pune,Wagholi,2.0,750.0,2.0,Unfurnished,Ready to Move,,5300000.0
+PROP_00122,Pune,Magarpatta,3.0,1358.0,3.0,Unfurnished,Ready to Move,22.0,20500000.0
+PROP_00123,Pune,NIBM Road,3.0,1150.0,3.0,Unfurnished,Ready to Move,,13200000.0
+PROP_00124,Pune,Undri,3.0,1350.0,3.0,Unfurnished,Ready to Move,,16500000.0
+PROP_00125,Pune,Prabhat Road,3.0,1621.0,3.0,Unfurnished,Ready to Move,,42900000.0
+PROP_00126,Pune,Keshav Nagar Mundhwa,2.0,650.0,2.0,Unfurnished,Ready to Move,,7500000.0
+PROP_00127,Pune,Baner,4.0,2108.0,4.0,Semi-Furnished,Under Construction,,48000000.0
+PROP_00128,Pune,Prabhat Road,3.0,1150.0,3.0,Semi-Furnished,Ready to Move,,32000000.0
+PROP_00129,Pune,Kalyani Nagar,2.0,850.0,2.0,Unfurnished,Ready to Move,,16000000.0
+PROP_00130,Pune,Balewadi,2.0,980.0,2.0,Semi-Furnished,Ready to Move,,13700000.000000002
+PROP_00131,Pune,Balewadi,3.0,1163.0,3.0,Unfurnished,Ready to Move,,19000000.0
+PROP_00132,Pune,Indrayani Nagar Thergaon,2.0,780.0,2.0,Unfurnished,Under Construction,,9470000.0
+PROP_00133,Pune,Hinjawadi,1.0,500.0,1.0,Unfurnished,Ready to Move,,6700000.0
+PROP_00134,Pune,Pashan,4.0,1302.0,4.0,Unfurnished,Under Construction,,32500000.0
+PROP_00135,Pune,New Kalyani Nagar,3.0,1114.0,3.0,Unfurnished,Under Construction,,18500000.0
+PROP_00136,Pune,Hadapsar,3.0,1043.0,3.0,Unfurnished,Under Construction,,17000000.0
+PROP_00137,Pune,Lohegaon,2.0,1620.0,2.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_00138,Pune,Kharadi,3.0,1120.0,3.0,Semi-Furnished,Under Construction,,14100000.0
+PROP_00139,Pune,Bavdhan,5.0,3100.0,5.0,Semi-Furnished,Ready to Move,,65000000.0
+PROP_00140,Pune,Patil Nagar Balewadi,3.0,1400.0,3.0,Unfurnished,Under Construction,,27800000.0
+PROP_00141,Pune,Sadashiv Peth,3.0,1154.0,3.0,Semi-Furnished,Ready to Move,,24800000.0
+PROP_00142,Pune,Maan,2.0,1027.0,2.0,Unfurnished,Under Construction,,7800000.0
+PROP_00143,Pune,Alandi,3.0,830.0,3.0,Semi-Furnished,Ready to Move,3.0,7500000.0
+PROP_00144,Pune,Katad Khana,3.0,1163.0,3.0,Semi-Furnished,Under Construction,,14000000.0
+PROP_00145,Pune,Sinhgad Road,3.0,1220.0,3.0,Unfurnished,Under Construction,,16100000.000000002
+PROP_00146,Pune,Kothrud,2.0,750.0,2.0,Unfurnished,Under Construction,,15400000.0
+PROP_00147,Pune,Pashan,3.0,1085.0,3.0,Unfurnished,Under Construction,,14900000.0
+PROP_00148,Pune,Kharadi,4.0,3000.0,4.0,Unfurnished,Ready to Move,,50000000.0
+PROP_00149,Pune,Maan,3.0,1071.0,3.0,Unfurnished,Under Construction,,10100000.0
+PROP_00150,Pune,Kharadi,2.0,1055.0,2.0,Unfurnished,Ready to Move,,16000000.0
+PROP_00151,Pune,Kharadi,2.0,822.0,2.0,Semi-Furnished,Under Construction,,13000000.0
+PROP_00152,Pune,Shivaji Road,3.0,1414.0,3.0,Unfurnished,Ready to Move,,30500000.0
+PROP_00153,Pune,Hills and Dales,2.0,812.0,2.0,Unfurnished,Under Construction,,6940000.000000001
+PROP_00154,Pune,Baner,3.0,1090.0,3.0,Unfurnished,Under Construction,,13899999.999999998
+PROP_00155,Pune,Sus,3.0,950.0,3.0,Unfurnished,Under Construction,,11900000.0
+PROP_00156,Pune,Pimpri Chinchwad,2.0,741.0,2.0,Unfurnished,Under Construction,,7100000.0
+PROP_00157,Pune,Hadapsar,2.0,960.0,2.0,Unfurnished,Under Construction,,11399999.999999998
+PROP_00158,Pune,Mundhwa,4.0,1747.0,4.0,Semi-Furnished,Under Construction,,26600000.0
+PROP_00159,Pune,Somnath Nagar Mundhwa Industrial Area,3.0,1166.0,3.0,Unfurnished,Under Construction,,22100000.0
+PROP_00160,Pune,NIBM Road,3.0,3564.0,3.0,Semi-Furnished,Ready to Move,,23000000.0
+PROP_00161,Pune,Baner,3.0,1902.0,3.0,Unfurnished,Under Construction,,39900000.0
+PROP_00162,Pune,Tathawade Pimpri Chinchwad,3.0,1063.0,3.0,Semi-Furnished,Under Construction,,13000000.0
+PROP_00163,Pune,Baner,3.0,1350.0,3.0,Unfurnished,Under Construction,,15500000.0
+PROP_00164,Pune,Shivaji Nagar,7.0,4000.0,5.0,Furnished,Ready to Move,,60000000.0
+PROP_00165,Pune,Kothrud,3.0,1156.0,3.0,Unfurnished,Under Construction,,22500000.0
+PROP_00166,Pune,Pimpri Chinchwad,3.0,1156.0,3.0,Unfurnished,Under Construction,,16399999.999999998
+PROP_00167,Pune,Wadmukhwadi,2.0,702.0,2.0,Unfurnished,Under Construction,,5820000.0
+PROP_00168,Pune,Ghorpadi,5.0,3910.0,5.0,Furnished,Ready to Move,,37000000.0
+PROP_00169,Pune,Kharadi,3.0,1200.0,3.0,Furnished,Ready to Move,,20000000.0
+PROP_00170,Pune,Punvale Bazar,3.0,1109.0,3.0,Unfurnished,Under Construction,,9700000.0
+PROP_00171,Pune,Rasikwadi,2.0,808.0,2.0,Unfurnished,Under Construction,,8500000.0
+PROP_00172,Pune,Mahalunge,3.0,1111.0,3.0,Unfurnished,Ready to Move,,15200000.0
+PROP_00173,Pune,Maharshi Nagar,3.0,1104.0,3.0,Unfurnished,Under Construction,,25700000.0
+PROP_00174,Pune,Pimpri Chinchwad,2.0,724.0,2.0,Unfurnished,Under Construction,,8800000.0
+PROP_00175,Pune,Dehu Road,3.0,1052.0,3.0,Unfurnished,Under Construction,,9760000.0
+PROP_00176,Pune,Shivajinagar,4.0,1780.0,4.0,Semi-Furnished,Under Construction,,45000000.0
+PROP_00177,Pune,Akurdi,2.0,800.0,2.0,Unfurnished,Under Construction,,11500000.0
+PROP_00178,Pune,Ubale Nagar,3.0,1103.0,3.0,Unfurnished,Under Construction,,14200000.0
+PROP_00179,Pune,Pashan,3.0,1302.0,3.0,Unfurnished,Under Construction,,26300000.0
+PROP_00180,Pune,Kharadi,3.0,1390.0,3.0,Unfurnished,Under Construction,,13799999.999999998
+PROP_00181,Pune,NIBM Road,2.0,1018.0,2.0,Unfurnished,Under Construction,,8000000.0
+PROP_00182,Pune,Phase 1 Atul Nagar,3.0,1075.0,3.0,Unfurnished,Under Construction,,13300000.0
+PROP_00183,Pune,Baner Pashan Link Road,4.0,2950.0,4.0,Semi-Furnished,Under Construction,,70000000.0
+PROP_00184,Pune,Warje,3.0,1150.0,3.0,Unfurnished,Under Construction,,13100000.0
+PROP_00185,Pune,Magarpatta,4.0,5000.0,4.0,Unfurnished,Ready to Move,,74900000.0
+PROP_00186,Pune,Pimpri Chinchwad,3.0,1108.0,3.0,Unfurnished,Under Construction,,14300000.0
+PROP_00187,Pune,Pimpri Chinchwad,2.0,760.0,2.0,Unfurnished,Under Construction,,8040000.000000001
+PROP_00188,Pune,Baner Pashan Link Road,3.0,1302.0,3.0,Unfurnished,Under Construction,,21700000.0
+PROP_00189,Pune,Satara Road,3.0,1163.0,3.0,Unfurnished,Under Construction,,19000000.0
+PROP_00190,Pune,Sinhgad Road,3.0,1780.0,3.0,Semi-Furnished,Under Construction,,25200000.0
+PROP_00191,Pune,NIBM Road,3.0,1160.0,3.0,Unfurnished,Under Construction,,13500000.0
+PROP_00192,Pune,Kharadi,3.0,1300.0,3.0,Unfurnished,Ready to Move,,17900000.0
+PROP_00193,Pune,Kharadi,3.0,1210.0,3.0,Unfurnished,Under Construction,,14600000.0
+PROP_00194,Pune,Pimpri Chinchwad,3.0,1035.0,3.0,Unfurnished,Under Construction,,11500000.0
+PROP_00195,Pune,Borhade Wadi,3.0,993.0,3.0,Unfurnished,Under Construction,,8500000.0
+PROP_00196,Pune,Mohan Nagar Co operative Society,3.0,1213.0,3.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_00197,Pune,Bebadohal,1.0,301.0,1.0,Unfurnished,Ready to Move,,1170000.0
+PROP_00198,Pune,Sus,2.0,700.0,2.0,Unfurnished,Under Construction,,6400000.0
+PROP_00199,Pune,Mohammed Wadi,2.0,777.0,2.0,Unfurnished,Under Construction,,5450000.0
+PROP_00200,Pune,New Kalyani Nagar,3.0,1553.0,3.0,Unfurnished,Under Construction,,34500000.0
+PROP_00201,Pune,Koregaon Park,4.0,3353.0,4.0,Furnished,Ready to Move,,55500000.0
+PROP_00202,Pune,Wadgaon Sheri Road,3.0,1482.0,3.0,Unfurnished,Under Construction,,15500000.0
+PROP_00203,Pune,Pimpri Chinchwad,2.0,800.0,2.0,Unfurnished,Under Construction,,7940000.000000001
+PROP_00204,Pune,Baner,2.0,647.0,2.0,Unfurnished,Under Construction,,8960000.0
+PROP_00205,Pune,Kothrud,2.0,835.0,2.0,Unfurnished,Ready to Move,,13000000.0
+PROP_00206,Pune,Keshav Nagar Mundhwa,3.0,935.0,3.0,Unfurnished,Under Construction,,9800000.0
+PROP_00207,Pune,Hadapsar,2.0,735.0,2.0,Unfurnished,Under Construction,,8950000.0
+PROP_00208,Pune,Kesnand,4.0,1501.0,4.0,Unfurnished,Under Construction,,12500000.0
+PROP_00209,Pune,Dehu Road,3.0,1009.0,3.0,Unfurnished,Under Construction,,15200000.0
+PROP_00210,Pune,Mundhwa,3.0,1435.0,3.0,Unfurnished,Under Construction,,24000000.0
+PROP_00211,Pune,Mahalunge,3.0,877.0,3.0,Unfurnished,Under Construction,,11000000.0
+PROP_00212,Pune,Pimpri Chinchwad,2.0,719.0,2.0,Unfurnished,Under Construction,,7370000.0
+PROP_00213,Pune,Mundhwa,3.0,1185.0,3.0,Unfurnished,Under Construction,,13500000.0
+PROP_00214,Pune,Prabhat Road,4.0,2000.0,4.0,Unfurnished,Under Construction,,60000000.0
+PROP_00215,Pune,Hadapsar,2.0,673.0,2.0,Unfurnished,Under Construction,,6759999.999999999
+PROP_00216,Pune,Keshav Nagar Mundhwa,3.0,1047.0,3.0,Semi-Furnished,Ready to Move,,14900000.0
+PROP_00217,Pune,Kharadi,3.0,2200.0,3.0,Semi-Furnished,Ready to Move,,41500000.0
+PROP_00218,Pune,Moshi,3.0,902.0,3.0,Unfurnished,Under Construction,,7140000.000000001
+PROP_00219,Pune,Kondhwa,3.0,1098.0,3.0,Unfurnished,Under Construction,,10800000.0
+PROP_00220,Pune,Karvenagar,2.0,1210.0,2.0,Semi-Furnished,Ready to Move,,21000000.0
+PROP_00221,Pune,Mohammed Wadi,3.0,1129.0,3.0,Unfurnished,Under Construction,,14100000.0
+PROP_00222,Pune,Wadgaon Sheri,3.0,1000.0,3.0,Unfurnished,Under Construction,,10500000.0
+PROP_00223,Pune,Pimpri Chinchwad,3.0,1150.0,3.0,Unfurnished,Ready to Move,,12800000.0
+PROP_00224,Pune,Ambegaon,1.0,480.0,1.0,Unfurnished,Under Construction,,5500000.0
+PROP_00225,Pune,Choudhary Park Shankar Kalat Nagar,3.0,810.0,3.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00226,Pune,Phase 1 Hinjewadi Rajiv Gandhi Infotech Park,3.0,1002.0,3.0,Unfurnished,Under Construction,,12000000.0
+PROP_00227,Pune,Baner Pashan Link Road,2.0,700.0,2.0,Unfurnished,Ready to Move,,8500000.0
+PROP_00228,Pune,Wakad,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,10000000.0
+PROP_00229,Pune,Fursungi,1.0,450.0,1.0,Unfurnished,Ready to Move,,3300000.0
+PROP_00230,Pune,Kondhwa,2.0,813.0,2.0,Unfurnished,Under Construction,,7500000.0
+PROP_00231,Pune,Koregaon Park,5.0,4000.0,5.0,Furnished,Ready to Move,,160000000.0
+PROP_00232,Pune,Sahakar Nagar Parvati Paytha,3.0,1500.0,3.0,Furnished,Ready to Move,,23000000.0
+PROP_00233,Pune,Hinjawadi Village,3.0,800.0,3.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00234,Pune,Satav Nagar,2.0,789.0,2.0,Unfurnished,Under Construction,,5700000.0
+PROP_00235,Pune,Airport Road,1.0,527.0,1.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_00236,Pune,Baner,2.0,1000.0,2.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00237,Pune,Manjari BK,2.0,717.0,2.0,Semi-Furnished,Ready to Move,,4190000.0
+PROP_00238,Pune,Mohammed Wadi,2.0,813.0,2.0,Unfurnished,Ready to Move,,10500000.0
+PROP_00239,Pune,Hinjawadi,2.0,940.0,2.0,Furnished,Ready to Move,5.0,11000000.0
+PROP_00240,Pune,Undri,3.0,1700.0,3.0,Semi-Furnished,Ready to Move,,18500000.0
+PROP_00241,Pune,Dhayari,1.0,316.0,1.0,Furnished,Ready to Move,,3800000.0
+PROP_00242,Pune,Baner,4.0,1653.0,4.0,Unfurnished,Under Construction,,25000000.0
+PROP_00243,Pune,Pimpri Chinchwad,3.0,1600.0,3.0,Unfurnished,Ready to Move,,22500000.0
+PROP_00244,Pune,Kharadi,2.0,800.0,2.0,Furnished,Ready to Move,,11500000.0
+PROP_00245,Pune,Katraj Kondhwa Road,2.0,840.0,2.0,Unfurnished,Ready to Move,,4800000.0
+PROP_00246,Pune,Magarpatta,4.0,1650.0,4.0,Unfurnished,Under Construction,,18500000.0
+PROP_00247,Pune,Mulshi,4.0,4200.0,4.0,Unfurnished,Under Construction,,120000000.0
+PROP_00248,Pune,Bavdhan,3.0,1180.0,3.0,Unfurnished,Under Construction,,13000000.0
+PROP_00249,Pune,NIBM Road,4.0,3043.0,4.0,Furnished,Ready to Move,,53000000.0
+PROP_00250,Pune,Wakad,3.0,927.0,2.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00251,Pune,Loni Kalbhor Gaon,3.0,900.0,3.0,Unfurnished,Ready to Move,,9200000.0
+PROP_00252,Pune,Kharadi,2.0,890.0,2.0,Unfurnished,Ready to Move,,13000000.0
+PROP_00253,Pune,Kharadi,2.0,1090.0,2.0,Semi-Furnished,Ready to Move,,17000000.0
+PROP_00254,Pune,Wakad,3.0,2020.0,3.0,Unfurnished,Ready to Move,,31000000.0
+PROP_00255,Pune,Koregaon Park,2.0,825.0,2.0,Unfurnished,Ready to Move,,15000000.0
+PROP_00256,Pune,Kharadi,3.0,1400.0,3.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_00257,Pune,Laxman Nagar Baner,3.0,1210.0,3.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_00258,Pune,Hadapsar,2.0,995.0,2.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_00259,Pune,Kaspate Wasti,2.0,840.0,2.0,Semi-Furnished,Under Construction,,10200000.0
+PROP_00260,Pune,Balewadi,1.0,285.0,1.0,Furnished,Under Construction,,4000000.0
+PROP_00261,Pune,Wakad,3.0,1040.0,3.0,Furnished,Ready to Move,,13100000.0
+PROP_00262,Pune,Kharadi,2.0,980.0,2.0,Unfurnished,Ready to Move,,17500000.0
+PROP_00263,Pune,Koregaon Park,4.0,4240.0,4.0,Semi-Furnished,Ready to Move,,84500000.0
+PROP_00264,Pune,Pimpri Chinchwad,2.0,614.0,2.0,Unfurnished,Ready to Move,,6500000.0
+PROP_00265,Pune,Hadapsar,4.0,2500.0,4.0,Semi-Furnished,Ready to Move,,59900000.0
+PROP_00266,Pune,Kharadi,2.0,800.0,2.0,Semi-Furnished,Under Construction,,9900000.0
+PROP_00267,Pune,Amanora Park Town,2.0,720.0,2.0,Semi-Furnished,Ready to Move,,9900000.0
+PROP_00268,Pune,Bavdhan,3.0,1300.0,3.0,Furnished,Ready to Move,,14500000.0
+PROP_00269,Pune,Rahatani,3.0,1175.0,3.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_00270,Pune,Gahunje,2.0,1005.0,2.0,Semi-Furnished,Ready to Move,,17500000.0
+PROP_00271,Pune,Manjri Budruk,2.0,650.0,2.0,Unfurnished,Ready to Move,,6900000.0
+PROP_00272,Pune,Wagholi,3.0,2500.0,3.0,Unfurnished,Under Construction,,13500000.0
+PROP_00273,Pune,Undri,2.0,750.0,2.0,Unfurnished,Ready to Move,,6500000.0
+PROP_00274,Pune,Wagholi,2.0,789.0,2.0,Unfurnished,Ready to Move,,6500000.0
+PROP_00275,Pune,Kharadi,4.0,2700.0,4.0,Furnished,Ready to Move,,55000000.0
+PROP_00276,Pune,Mahalunge,2.0,715.0,2.0,Unfurnished,Ready to Move,,8950000.0
+PROP_00277,Pune,Wanowrie,4.0,1600.0,4.0,Furnished,Ready to Move,,39000000.0
+PROP_00278,Pune,Bibwewadi,2.0,1050.0,2.0,Furnished,Ready to Move,,9500000.0
+PROP_00279,Pune,Dhayari,1.0,575.0,1.0,Furnished,Ready to Move,,4500000.0
+PROP_00280,Pune,Wagholi,2.0,1000.0,2.0,Semi-Furnished,Ready to Move,,7600000.0
+PROP_00281,Pune,Wakad,2.0,716.0,2.0,Furnished,Ready to Move,,11500000.0
+PROP_00282,Pune,Talegaon Dabhade,1.0,459.0,1.0,Unfurnished,Ready to Move,,2500000.0
+PROP_00283,Pune,Mahalunge,2.0,650.0,2.0,Semi-Furnished,Ready to Move,,7300000.0
+PROP_00284,Pune,Ganesh Road,1.0,423.0,1.0,Semi-Furnished,Ready to Move,10.0,7000000.0
+PROP_00285,Pune,Undri,3.0,910.0,3.0,Unfurnished,Ready to Move,,8000000.0
+PROP_00286,Pune,Hinjawadi,2.0,590.0,2.0,Semi-Furnished,Ready to Move,,6500000.0
+PROP_00287,Pune,Anand Park Aundh,4.0,1750.0,4.0,Furnished,Ready to Move,,35900000.0
+PROP_00288,Pune,Kharadi,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_00289,Pune,Pimpri Chinchwad,2.0,686.0,2.0,Unfurnished,Ready to Move,,6300000.0
+PROP_00290,Pune,Dhayari,2.0,580.0,2.0,Semi-Furnished,Ready to Move,,4600000.0
+PROP_00291,Pune,Baner,2.0,980.0,2.0,Semi-Furnished,Ready to Move,,15000000.0
+PROP_00292,Pune,Indrayani Nagar Bhosari,2.0,850.0,2.0,Furnished,Ready to Move,,9000000.0
+PROP_00293,Pune,Shirole Road,1.0,185.0,1.0,Unfurnished,Ready to Move,,2500000.0
+PROP_00294,Pune,Wagholi,4.0,2200.0,4.0,Semi-Furnished,Ready to Move,,16500000.0
+PROP_00295,Pune,Rajgurunagar,1.0,475.0,1.0,Unfurnished,Ready to Move,,1800000.0
+PROP_00296,Pune,Sinhgad Road,1.0,636.0,1.0,Unfurnished,Ready to Move,,3150000.0
+PROP_00297,Pune,Vatan Nagar,2.0,702.0,2.0,Semi-Furnished,Ready to Move,,5100000.0
+PROP_00298,Pune,Yewalewadi,2.0,950.0,2.0,Semi-Furnished,Ready to Move,,5500000.0
+PROP_00299,Pune,Somwar Peth,1.0,411.0,1.0,Unfurnished,Ready to Move,,3200000.0
+PROP_00300,Pune,Hinjawadi,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,7000000.0
+PROP_00301,Pune,Blue Ridge Town,3.0,1330.0,3.0,Unfurnished,Ready to Move,,19500000.0
+PROP_00302,Pune,Balewadi,2.0,824.0,2.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00303,Pune,Wagholi,1.0,501.0,1.0,Semi-Furnished,Ready to Move,,4600000.0
+PROP_00304,Pune,Mundhwa,2.0,1050.0,2.0,Unfurnished,Ready to Move,,18000000.0
+PROP_00305,Pune,Wagholi,3.0,931.0,3.0,Semi-Furnished,Under Construction,,11399999.999999998
+PROP_00306,Pune,Baner,3.0,1250.0,3.0,Furnished,Ready to Move,,22000000.0
+PROP_00307,Pune,Kondhwa,3.0,4200.0,3.0,Unfurnished,Ready to Move,,32500000.0
+PROP_00308,Pune,Hinjawadi,3.0,1167.0,3.0,Semi-Furnished,Ready to Move,,14800000.0
+PROP_00309,Pune,Narayangaon,2.0,560.0,2.0,Semi-Furnished,Ready to Move,,2500000.0
+PROP_00310,Pune,Patil Nagar Balewadi,2.0,780.0,2.0,Furnished,Ready to Move,,11000000.0
+PROP_00311,Pune,Kharadi,3.0,1900.0,3.0,Unfurnished,Ready to Move,,30100000.0
+PROP_00312,Pune,Keshav Nagar Mundhwa,2.0,790.0,2.0,Furnished,Ready to Move,,7500000.0
+PROP_00313,Pune,Kharadi,3.0,1300.0,3.0,Semi-Furnished,Ready to Move,,23200000.0
+PROP_00314,Pune,Wagholi,3.0,2400.0,3.0,Furnished,Ready to Move,,27500000.0
+PROP_00315,Pune,Pimpri Chinchwad,2.0,1450.0,2.0,Unfurnished,Ready to Move,,12200000.0
+PROP_00316,Pune,Koregaon Park,4.0,3500.0,4.0,Semi-Furnished,Ready to Move,,62500000.0
+PROP_00317,Pune,Hinjawadi,3.0,890.0,3.0,Unfurnished,Ready to Move,,9290000.0
+PROP_00318,Pune,Pimpri Chinchwad,2.0,779.0,2.0,Semi-Furnished,Under Construction,,10500000.0
+PROP_00319,Pune,Aundh,2.0,871.0,2.0,Unfurnished,Under Construction,,15000000.0
+PROP_00320,Pune,Vayusena Nagar,3.0,1156.0,3.0,Semi-Furnished,Ready to Move,,12700000.0
+PROP_00321,Pune,Rahatani,2.0,900.0,2.0,Semi-Furnished,Ready to Move,,10500000.0
+PROP_00322,Pune,Pashan,3.0,2400.0,3.0,Unfurnished,Ready to Move,,24000000.0
+PROP_00323,Pune,Kharadi,2.0,950.0,2.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_00324,Pune,Amanora Park Town,3.0,1082.0,3.0,Unfurnished,Ready to Move,,22500000.0
+PROP_00325,Pune,Wagholi,2.0,740.0,2.0,Semi-Furnished,Ready to Move,,6500000.0
+PROP_00326,Pune,Wakad,2.0,786.0,2.0,Unfurnished,Ready to Move,,9000000.0
+PROP_00327,Pune,Wakad,3.0,1200.0,3.0,Unfurnished,Ready to Move,,17000000.0
+PROP_00328,Pune,Baner,3.0,1650.0,3.0,Semi-Furnished,Ready to Move,,32500000.0
+PROP_00329,Pune,Wakad,2.0,805.0,2.0,Unfurnished,Ready to Move,,11000000.0
+PROP_00330,Pune,Lohegaon,3.0,1305.0,3.0,Furnished,Ready to Move,,18500000.0
+PROP_00331,Pune,Kharadi,3.0,1063.0,3.0,Semi-Furnished,Ready to Move,,18500000.0
+PROP_00332,Pune,Tayal Corp K,2.0,816.0,2.0,Unfurnished,Under Construction,,8800000.0
+PROP_00333,Pune,Kharadi,3.0,1745.0,3.0,Semi-Furnished,Ready to Move,,28000000.0
+PROP_00334,Pune,Koregaon Park,4.0,2000.0,4.0,Unfurnished,Ready to Move,,33000000.0
+PROP_00335,Pune,Magarpatta,3.0,1300.0,3.0,Furnished,Ready to Move,,26000000.0
+PROP_00336,Pune,Balewadi,2.0,877.0,2.0,Unfurnished,Ready to Move,,11900000.0
+PROP_00337,Pune,Magarpatta,1.0,584.0,1.0,Unfurnished,Under Construction,,7500000.0
+PROP_00338,Pune,Kothrud,3.0,1012.0,3.0,Unfurnished,Under Construction,,20400000.0
+PROP_00339,Pune,Kharadi,3.0,1420.0,3.0,Unfurnished,Ready to Move,,18900000.0
+PROP_00340,Pune,Patil Nagar Bavdhan,3.0,1050.0,3.0,Unfurnished,Ready to Move,,9000000.0
+PROP_00341,Pune,Kalyani Nagar,3.0,12560.0,3.0,Furnished,Ready to Move,,24000000.0
+PROP_00342,Pune,Hinjawadi,2.0,650.0,2.0,Unfurnished,Ready to Move,,6500000.0
+PROP_00343,Pune,Amanora Park Town,1.0,550.0,1.0,Furnished,Ready to Move,,8000000.0
+PROP_00344,Pune,Hinjawadi,3.0,1280.0,3.0,Unfurnished,Ready to Move,,10500000.0
+PROP_00345,Pune,Hinjawadi,3.0,1212.0,3.0,Unfurnished,Ready to Move,,17000000.0
+PROP_00346,Pune,Kharadi,2.0,820.0,2.0,Semi-Furnished,Ready to Move,,11100000.000000002
+PROP_00347,Pune,Gururaj Society Kothrud,2.0,1150.0,2.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_00348,Pune,Pimpri Chinchwad,2.0,927.0,2.0,Furnished,Ready to Move,,12500000.0
+PROP_00349,Pune,NIBM Road,2.0,1200.0,2.0,Unfurnished,Under Construction,,9200000.0
+PROP_00350,Pune,Bavdhan,3.0,1300.0,3.0,Unfurnished,Under Construction,,15000000.0
+PROP_00351,Pune,Balewadi,2.0,746.0,2.0,Semi-Furnished,Under Construction,,9990000.0
+PROP_00352,Pune,Pashan,4.0,1880.0,4.0,Unfurnished,Ready to Move,,21000000.0
+PROP_00353,Pune,Airport Road,3.0,1195.0,3.0,Semi-Furnished,Ready to Move,,15000000.0
+PROP_00354,Pune,Amanora Park Town,1.0,501.0,1.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_00355,Pune,Ghule Nagar Vadgaon Budruk,1.0,523.0,1.0,Furnished,Ready to Move,,4500000.0
+PROP_00356,Pune,Pimpri Chinchwad,2.0,2400.0,2.0,Unfurnished,Ready to Move,,36000000.0
+PROP_00357,Pune,Dhanori,5.0,2000.0,5.0,Unfurnished,Ready to Move,,29500000.0
+PROP_00358,Pune,Ghorpadi,5.0,2542.0,5.0,Furnished,Ready to Move,,35000000.0
+PROP_00359,Pune,Pimpri Chinchwad,3.0,1170.0,3.0,Unfurnished,Ready to Move,10.0,14200000.0
+PROP_00360,Pune,Hadapsar,4.0,2700.0,4.0,Unfurnished,Ready to Move,,32500000.0
+PROP_00361,Pune,Wakad,2.0,840.0,2.0,Unfurnished,Ready to Move,,8500000.0
+PROP_00362,Pune,Kothrud,2.0,864.0,2.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00363,Pune,Wagholi,7.0,2700.0,5.0,Furnished,Ready to Move,,16000000.0
+PROP_00364,Pune,Wagholi,2.0,852.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_00365,Pune,Talegaon Dabhade,5.0,3625.0,5.0,Unfurnished,Ready to Move,,31500000.0
+PROP_00366,Pune,Vadgaon,3.0,1100.0,3.0,Furnished,Ready to Move,,18000000.0
+PROP_00367,Pune,Pirangut,1.0,763.0,1.0,Unfurnished,Ready to Move,,3250000.0
+PROP_00368,Pune,Dhanori,3.0,1020.0,3.0,Unfurnished,Ready to Move,,10200000.0
+PROP_00369,Pune,Malavli,3.0,951.0,3.0,Furnished,Ready to Move,,8000000.0
+PROP_00370,Pune,Hinjawadi,2.0,660.0,2.0,Furnished,Ready to Move,,7500000.0
+PROP_00371,Pune,Airport Road,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,6200000.0
+PROP_00372,Pune,Chakan,2.0,685.0,2.0,Unfurnished,Ready to Move,,3000000.0
+PROP_00373,Pune,Jambhul,1.0,332.0,1.0,Unfurnished,Ready to Move,,2740000.0
+PROP_00374,Pune,Chakan,1.0,516.0,1.0,Unfurnished,Ready to Move,,2050000.0
+PROP_00375,Pune,Kanhe,1.0,591.0,1.0,Semi-Furnished,Ready to Move,,2000000.0
+PROP_00376,Pune,Aundh,3.0,1869.0,3.0,Semi-Furnished,Ready to Move,,36000000.0
+PROP_00377,Pune,Undri,3.0,1553.0,3.0,Unfurnished,Ready to Move,,11000000.0
+PROP_00378,Pune,Baner,2.0,1081.0,2.0,Semi-Furnished,Ready to Move,,18000000.0
+PROP_00379,Pune,Sinhgad Road,1.0,478.0,1.0,Semi-Furnished,Ready to Move,6.0,4200000.0
+PROP_00380,Pune,Sinhgad Road,3.0,1250.0,3.0,Semi-Furnished,Ready to Move,,16000000.0
+PROP_00381,Pune,Hole Vasti,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,6800000.0
+PROP_00382,Pune,Undri,2.0,890.0,2.0,Semi-Furnished,Ready to Move,,9200000.0
+PROP_00383,Pune,Sanaswadi,2.0,760.0,2.0,Unfurnished,Ready to Move,,2400000.0
+PROP_00384,Pune,Pimpri Chinchwad,3.0,1286.0,3.0,Unfurnished,Ready to Move,,21000000.0
+PROP_00385,Pune,Dehu Road,2.0,780.0,2.0,Semi-Furnished,Ready to Move,,6500000.0
+PROP_00386,Pune,Wagholi,1.0,615.0,1.0,Furnished,Ready to Move,,4000000.0
+PROP_00387,Pune,NIBM Road,2.0,795.0,2.0,Semi-Furnished,Ready to Move,,9200000.0
+PROP_00388,Pune,Sanaswadi,5.0,1250.0,5.0,Semi-Furnished,Ready to Move,,9900000.0
+PROP_00389,Pune,Wagholi,3.0,1147.0,3.0,Semi-Furnished,Ready to Move,,15900000.0
+PROP_00390,Pune,Shankar Kalat Nagar,3.0,860.0,3.0,Furnished,Ready to Move,,16800000.0
+PROP_00391,Pune,Bavdhan,4.0,2000.0,4.0,Unfurnished,Ready to Move,,21000000.0
+PROP_00392,Pune,Baner,1.0,450.0,1.0,Unfurnished,Ready to Move,,5800000.0
+PROP_00393,Pune,Sukhsagar Nagar Katraj,4.0,1150.0,4.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00394,Pune,Balewadi,3.0,1719.0,3.0,Furnished,Ready to Move,,22500000.0
+PROP_00395,Pune,Undri,2.0,732.0,2.0,Semi-Furnished,Ready to Move,,5200000.0
+PROP_00396,Pune,Wagholi,2.0,650.0,2.0,Furnished,Ready to Move,,6500000.0
+PROP_00397,Pune,Kasba Peth,4.0,1630.0,4.0,Furnished,Ready to Move,,33000000.0
+PROP_00398,Pune,Pan Card Club Road,3.0,1112.0,3.0,Semi-Furnished,Under Construction,,16000000.0
+PROP_00399,Pune,Keshav Nagar Mundhwa,3.0,1700.0,3.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_00400,Pune,Talegaon Dabhade,2.0,998.0,2.0,Unfurnished,Ready to Move,,6300000.0
+PROP_00401,Pune,Tathawade Pimpri Chinchwad,2.0,741.0,2.0,Furnished,Ready to Move,,10700000.0
+PROP_00402,Pune,Mangaon,6.0,1190.0,5.0,Unfurnished,Ready to Move,,18000000.0
+PROP_00403,Pune,Mohammed Wadi,3.0,3900.0,3.0,Semi-Furnished,Ready to Move,,20000000.0
+PROP_00404,Pune,Manjri Budruk,2.0,1000.0,2.0,Semi-Furnished,Ready to Move,,6300000.0
+PROP_00405,Pune,Shivajinagar,4.0,1952.0,4.0,Unfurnished,Under Construction,,43000000.0
+PROP_00406,Pune,Talegaon Dabhade,1.0,570.0,1.0,Unfurnished,Ready to Move,,2950000.0
+PROP_00407,Pune,Yerwada Village,2.0,700.0,2.0,Unfurnished,Ready to Move,,2400000.0
+PROP_00408,Pune,Wanowrie,3.0,1760.0,3.0,Semi-Furnished,Ready to Move,,20000000.0
+PROP_00410,Pune,NIBM Road,2.0,1100.0,2.0,Furnished,Ready to Move,,9000000.0
+PROP_00411,Pune,Pirangut Road,1.0,476.0,1.0,Unfurnished,Ready to Move,,2800000.0
+PROP_00412,Pune,Wakad,3.0,880.0,3.0,Furnished,Ready to Move,,12000000.0
+PROP_00413,Pune,Dhanori,1.0,440.0,1.0,Unfurnished,Ready to Move,,4300000.0
+PROP_00414,Pune,Shivane,1.0,549.0,1.0,Unfurnished,Ready to Move,,2400000.0
+PROP_00415,Pune,Kharadi,3.0,1062.0,1.0,Unfurnished,Under Construction,,14000000.0
+PROP_00416,Pune,Bavdhan,2.0,800.0,2.0,Semi-Furnished,Ready to Move,10.0,10500000.0
+PROP_00417,Pune,Pimpri Chinchwad,2.0,1378.0,2.0,Semi-Furnished,Ready to Move,,11800000.0
+PROP_00419,Pune,Warje,2.0,870.0,2.0,Unfurnished,Ready to Move,,10000000.0
+PROP_00420,Pune,Talegaon Dabhade,1.0,602.0,1.0,Unfurnished,Ready to Move,,2200000.0
+PROP_00421,Pune,Warje,3.0,1057.0,3.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00422,Pune,Bavdhan,1.0,458.0,1.0,Unfurnished,Ready to Move,,4600000.0
+PROP_00423,Pune,Kamshet,2.0,800.0,2.0,Unfurnished,Ready to Move,,3200000.0
+PROP_00424,Pune,Kharadi,3.0,1500.0,3.0,Semi-Furnished,Ready to Move,,26500000.0
+PROP_00425,Pune,Balewadi,2.0,730.0,2.0,Furnished,Ready to Move,,12200000.0
+PROP_00426,Pune,Dehu Road,2.0,681.0,1.0,Unfurnished,Ready to Move,5.0,7000000.0
+PROP_00427,Pune,Hinjawadi,2.0,662.0,2.0,Semi-Furnished,Ready to Move,,7300000.0
+PROP_00428,Pune,Pisoli,2.0,800.0,2.0,Unfurnished,Ready to Move,,4200000.0
+PROP_00429,Pune,Wagholi,2.0,837.0,2.0,Unfurnished,Ready to Move,,5300000.0
+PROP_00430,Pune,Pirangut,2.0,525.0,2.0,Unfurnished,Ready to Move,,2990000.0
+PROP_00431,Pune,Baner Road,4.0,2750.0,4.0,Unfurnished,Ready to Move,,29000000.0
+PROP_00432,Pune,Phase 3 Hinjewadi Rajiv Gandhi Infotech Park,2.0,914.0,2.0,Semi-Furnished,Ready to Move,,10600000.0
+PROP_00433,Pune,Karvenagar,3.0,1180.0,3.0,Unfurnished,Ready to Move,,19500000.0
+PROP_00434,Pune,Undri,2.0,779.0,2.0,Semi-Furnished,Ready to Move,,5000000.0
+PROP_00435,Pune,Pimpri Chinchwad,2.0,732.0,2.0,Unfurnished,Ready to Move,,9900000.0
+PROP_00436,Pune,Akurdi,3.0,1184.0,3.0,Unfurnished,Ready to Move,,20000000.0
+PROP_00437,Pune,Mahalunge,1.0,440.0,1.0,Unfurnished,Ready to Move,,6500000.0
+PROP_00438,Pune,Chovisawadi,2.0,737.0,2.0,Unfurnished,Ready to Move,,5600000.0
+PROP_00439,Pune,Dhanori,3.0,1221.0,3.0,Unfurnished,Ready to Move,,14500000.0
+PROP_00440,Pune,Dhanori,3.0,968.0,3.0,Unfurnished,Ready to Move,,8500000.0
+PROP_00441,Pune,Aundh,4.0,1577.0,4.0,Unfurnished,Ready to Move,,37500000.0
+PROP_00442,Pune,Lohegaon,2.0,706.0,2.0,Unfurnished,Ready to Move,,5400000.0
+PROP_00443,Pune,Hinjawadi,2.0,710.0,2.0,Furnished,Ready to Move,,10500000.0
+PROP_00444,Pune,NIBM Annexe Area,2.0,820.0,2.0,Unfurnished,Ready to Move,,6000000.0
+PROP_00445,Pune,Wagholi,2.0,824.0,2.0,Unfurnished,Ready to Move,,11000000.0
+PROP_00446,Pune,Wagholi,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,5200000.0
+PROP_00447,Pune,Pimpri Chinchwad,3.0,1026.0,3.0,Furnished,Ready to Move,,12000000.0
+PROP_00448,Pune,Ghorpadi,3.0,1850.0,3.0,Semi-Furnished,Ready to Move,,32500000.0
+PROP_00449,Pune,Amanora Park Town,4.0,1450.0,4.0,Furnished,Ready to Move,,35000000.0
+PROP_00450,Pune,Kharadi,2.0,1150.0,2.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00451,Pune,Shirgaon,2.0,613.0,2.0,Furnished,Ready to Move,,4500000.0
+PROP_00452,Pune,Bhukum,2.0,621.0,2.0,Furnished,Ready to Move,,5450000.0
+PROP_00453,Pune,Mundhwa,3.0,1088.0,3.0,Unfurnished,Ready to Move,,14500000.0
+PROP_00454,Pune,Varale Talegaon Dabhade,2.0,1054.0,2.0,Unfurnished,Ready to Move,,4800000.0
+PROP_00455,Pune,Pimpri Chinchwad,2.0,1156.0,2.0,Unfurnished,Ready to Move,,10000000.0
+PROP_00456,Pune,Yashwant Nagar Talegaon Dabhade,2.0,650.0,2.0,Furnished,Ready to Move,,5200000.0
+PROP_00457,Pune,Kharadi,2.0,742.0,2.0,Semi-Furnished,Ready to Move,,11100000.000000002
+PROP_00458,Pune,Pirangut,2.0,592.0,2.0,Semi-Furnished,Ready to Move,,3900000.0
+PROP_00459,Pune,Kharadi,2.0,687.0,2.0,Semi-Furnished,Ready to Move,,8000000.0
+PROP_00461,Pune,Chakan,2.0,746.0,3.0,Semi-Furnished,Ready to Move,,3479999.9999999995
+PROP_00462,Pune,NIBM Annexe Area,2.0,741.0,2.0,Unfurnished,Ready to Move,,8300000.0
+PROP_00463,Pune,Katraj,2.0,1097.0,2.0,Semi-Furnished,Ready to Move,,9900000.0
+PROP_00464,Pune,Pimpri Chinchwad,2.0,740.0,2.0,Semi-Furnished,Ready to Move,,7000000.0
+PROP_00465,Pune,Moshi,2.0,967.0,2.0,Semi-Furnished,Ready to Move,,5850000.0
+PROP_00466,Pune,Moshi,2.0,736.0,2.0,Furnished,Ready to Move,,6700000.0
+PROP_00467,Pune,Kothrud,2.0,843.0,2.0,Unfurnished,Ready to Move,,17500000.0
+PROP_00468,Pune,Ghorpadi,3.0,1500.0,3.0,Furnished,Ready to Move,,14000000.0
+PROP_00469,Pune,Baner Road,2.0,825.0,2.0,Furnished,Ready to Move,,8200000.0
+PROP_00470,Pune,Ubale Nagar,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,6200000.0
+PROP_00471,Pune,Dalvinagar Chinchwad,3.0,986.0,3.0,Unfurnished,Ready to Move,,9000000.0
+PROP_00472,Pune,Hinjawadi,2.0,636.0,2.0,Furnished,Ready to Move,,8200000.0
+PROP_00473,Pune,Sai Nagar Mamurdi,2.0,605.0,2.0,Semi-Furnished,Ready to Move,,7300000.0
+PROP_00474,Pune,Laxmi Colony Hadapsar,1.0,538.0,1.0,Semi-Furnished,Ready to Move,,4000000.0
+PROP_00475,Pune,Dhanori,2.0,600.0,2.0,Semi-Furnished,Ready to Move,,7000000.0
+PROP_00476,Pune,Dhanori,2.0,910.0,2.0,Unfurnished,Ready to Move,,7300000.0
+PROP_00477,Pune,Undri,2.0,800.0,2.0,Unfurnished,Ready to Move,,4700000.0
+PROP_00478,Pune,Hadapsar,3.0,1080.0,3.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00479,Pune,Wagholi,1.0,452.0,1.0,Unfurnished,Ready to Move,,3500000.0
+PROP_00480,Pune,Balewadi,3.0,920.0,3.0,Semi-Furnished,Ready to Move,,18500000.0
+PROP_00481,Pune,Tathawade Pimpri Chinchwad,2.0,732.0,2.0,Unfurnished,Ready to Move,,9000000.0
+PROP_00482,Pune,Charholi BK,4.0,1900.0,4.0,Unfurnished,Ready to Move,,21000000.0
+PROP_00483,Pune,Bopkhel,2.0,851.0,2.0,Unfurnished,Ready to Move,,6800000.0
+PROP_00484,Pune,Pimpri Chinchwad,2.0,928.0,2.0,Furnished,Ready to Move,,9500000.0
+PROP_00485,Pune,Hadapsar,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,7200000.0
+PROP_00486,Pune,Mohan Nagar Co operative Society,2.0,1050.0,2.0,Furnished,Ready to Move,,11500000.0
+PROP_00487,Pune,Bhunde Vasti,2.0,798.0,2.0,Semi-Furnished,Ready to Move,,9200000.0
+PROP_00488,Pune,Baner,2.0,760.0,2.0,Unfurnished,Ready to Move,,10000000.0
+PROP_00489,Pune,Moshi,2.0,735.0,2.0,Semi-Furnished,Ready to Move,,5500000.0
+PROP_00490,Pune,Mahalunge,3.0,710.0,3.0,Semi-Furnished,Ready to Move,,11000000.0
+PROP_00491,Pune,Undri,2.0,850.0,2.0,Unfurnished,Ready to Move,,3300000.0
+PROP_00492,Pune,Mundhwa,5.0,2100.0,5.0,Unfurnished,Ready to Move,10.0,29000000.0
+PROP_00493,Pune,Pimpri Chinchwad,2.0,769.0,2.0,Unfurnished,Ready to Move,,11000000.0
+PROP_00494,Pune,Charholi BK,2.0,850.0,2.0,Unfurnished,Ready to Move,,7200000.0
+PROP_00495,Pune,Kirkatwadi,2.0,605.0,2.0,Semi-Furnished,Ready to Move,,5200000.0
+PROP_00496,Pune,Pimpri Chinchwad,2.0,798.0,2.0,Unfurnished,Under Construction,,8700000.0
+PROP_00497,Pune,Pimpri Chinchwad,4.0,2030.0,4.0,Semi-Furnished,Ready to Move,,27500000.0
+PROP_00498,Pune,Pimpri Chinchwad,2.0,836.0,2.0,Furnished,Ready to Move,,15000000.0
+PROP_00499,Pune,Akurdi,2.0,779.0,2.0,Semi-Furnished,Ready to Move,,9500000.0
+PROP_00500,Pune,Hadapsar,3.0,1100.0,3.0,Semi-Furnished,Ready to Move,,9900000.0
+PROP_00501,Pune,Mahalunge,2.0,722.0,2.0,Semi-Furnished,Ready to Move,5.0,9500000.0
+PROP_00502,Pune,Bavdhan,4.0,3680.0,4.0,Semi-Furnished,Ready to Move,,36000000.0
+PROP_00503,Pune,Undri,2.0,700.0,2.0,Furnished,Ready to Move,,3000000.0
+PROP_00504,Pune,Kharadi,3.0,1460.0,3.0,Furnished,Ready to Move,,17200000.0
+PROP_00505,Pune,Hinjawadi,2.0,667.0,2.0,Semi-Furnished,Ready to Move,,7100000.0
+PROP_00506,Pune,Dhayari,1.0,450.0,1.0,Unfurnished,Ready to Move,,4500000.0
+PROP_00507,Pune,Gultekadi,2.0,1050.0,2.0,Semi-Furnished,Ready to Move,20.0,12500000.0
+PROP_00508,Pune,Rahatani,2.0,851.0,2.0,Furnished,Ready to Move,,8300000.0
+PROP_00509,Pune,Lohegaon,3.0,1042.0,3.0,Unfurnished,Ready to Move,,7500000.0
+PROP_00510,Pune,Baner,2.0,870.0,2.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00511,Pune,Mahadev Wadi Mohammed Wadi,2.0,750.0,2.0,Furnished,Ready to Move,,8400000.0
+PROP_00512,Pune,Wakad,2.0,548.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_00513,Pune,Baner,2.0,705.0,2.0,Semi-Furnished,Ready to Move,,9450000.0
+PROP_00514,Pune,Kharadi,3.0,985.0,3.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_00515,Pune,Pimpri Chinchwad,2.0,636.0,2.0,Unfurnished,Ready to Move,,7200000.0
+PROP_00516,Pune,Bibvewadi,1.0,540.0,1.0,Unfurnished,Ready to Move,,1500000.0
+PROP_00517,Pune,Hadapsar,1.0,490.0,1.0,Furnished,Ready to Move,,3500000.0
+PROP_00518,Pune,Gultekdi,3.0,1650.0,3.0,Semi-Furnished,Ready to Move,,31500000.0
+PROP_00519,Pune,Meera Society Salisbury Park,2.0,750.0,2.0,Unfurnished,Ready to Move,,9000000.0
+PROP_00520,Pune,Anand Nagar Keshav Nagar,1.0,350.0,1.0,Unfurnished,Ready to Move,10.0,1600000.0
+PROP_00521,Pune,Manjri Budruk,2.0,730.0,2.0,Unfurnished,Ready to Move,,5530000.0
+PROP_00522,Pune,Pashan,4.0,2200.0,4.0,Semi-Furnished,Under Construction,,33000000.0
+PROP_00523,Pune,Lohegaon,2.0,510.0,2.0,Semi-Furnished,Ready to Move,,4800000.0
+PROP_00524,Pune,Katraj,2.0,1050.0,2.0,Semi-Furnished,Ready to Move,9.0,8300000.0
+PROP_00525,Pune,Hadapsar,2.0,720.0,2.0,Semi-Furnished,Ready to Move,,4400000.0
+PROP_00526,Pune,Pimpri Chinchwad,3.0,950.0,3.0,Semi-Furnished,Ready to Move,,12100000.0
+PROP_00527,Pune,Wakad,2.0,740.0,2.0,Semi-Furnished,Ready to Move,,8400000.0
+PROP_00528,Pune,Kharadi,3.0,1660.0,3.0,Semi-Furnished,Ready to Move,,18000000.0
+PROP_00529,Pune,Lonavala,4.0,3000.0,4.0,Furnished,Ready to Move,,29000000.0
+PROP_00530,Pune,Amanora Park Town,2.0,1150.0,2.0,Unfurnished,Ready to Move,,19000000.0
+PROP_00531,Pune,Kharadi,2.0,989.0,2.0,Unfurnished,Ready to Move,,5500000.0
+PROP_00532,Pune,Manjri Budruk,2.0,691.0,2.0,Unfurnished,Ready to Move,,7200000.0
+PROP_00533,Pune,Mohammed Wadi,3.0,900.0,3.0,Semi-Furnished,Ready to Move,,9190000.0
+PROP_00534,Pune,Pashan Sus Road,4.0,3500.0,4.0,Semi-Furnished,Ready to Move,,39000000.0
+PROP_00535,Pune,Hinjawadi,2.0,881.0,2.0,Unfurnished,Ready to Move,,13500000.0
+PROP_00536,Pune,Dhankawadi,4.0,1300.0,4.0,Semi-Furnished,Ready to Move,,14400000.0
+PROP_00537,Pune,Anand Nagar,3.0,1064.0,3.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00538,Pune,Sus,2.0,698.0,2.0,Semi-Furnished,Ready to Move,,7200000.0
+PROP_00539,Pune,Pimpri Chinchwad,2.0,1065.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_00540,Pune,Erandwane,2.0,1000.0,2.0,Semi-Furnished,Ready to Move,,18500000.0
+PROP_00541,Pune,Kharadi,3.0,1550.0,3.0,Semi-Furnished,Ready to Move,,17500000.0
+PROP_00542,Pune,Shivajinagar,3.0,3000.0,3.0,Furnished,Ready to Move,,45000000.0
+PROP_00543,Pune,Hinjawadi,3.0,1260.0,3.0,Furnished,Ready to Move,,16500000.0
+PROP_00544,Pune,Kondhwa,2.0,1023.0,2.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_00545,Pune,Kharadi,2.0,862.0,2.0,Unfurnished,Ready to Move,,13200000.0
+PROP_00546,Pune,Mahalunge,1.0,490.0,1.0,Furnished,Ready to Move,,7500000.0
+PROP_00547,Pune,Viman Nagar,1.0,690.0,1.0,Semi-Furnished,Ready to Move,,9500000.0
+PROP_00548,Pune,Bavdhan,2.0,756.0,2.0,Unfurnished,Ready to Move,,7450000.0
+PROP_00549,Pune,Dhanori,3.0,1174.0,3.0,Unfurnished,Ready to Move,15.0,12100000.0
+PROP_00550,Pune,Pirangut,3.0,1650.0,3.0,Semi-Furnished,Ready to Move,,6500000.0
+PROP_00551,Pune,Sinhgad Road,2.0,896.0,2.0,Furnished,Ready to Move,,11000000.0
+PROP_00552,Pune,Uttam Nagar Sunarwadi,2.0,825.0,2.0,Unfurnished,Ready to Move,,9500000.0
+PROP_00553,Pune,Hinjawadi,2.0,418.0,2.0,Unfurnished,Ready to Move,,1650000.0
+PROP_00554,Pune,Pan Card Club Road,5.0,2600.0,5.0,Furnished,Ready to Move,,60000000.0
+PROP_00555,Pune,Hadapsar,2.0,558.0,2.0,Semi-Furnished,Ready to Move,,11000000.0
+PROP_00556,Pune,Kondhwa,1.0,427.0,1.0,Unfurnished,Ready to Move,,4000000.0
+PROP_00557,Pune,Pimpri Chinchwad,4.0,2300.0,4.0,Unfurnished,Ready to Move,,30000000.0
+PROP_00558,Pune,Old Mumbai,2.0,960.0,2.0,Unfurnished,Ready to Move,,7000000.0
+PROP_00559,Pune,Sinhgad Road,3.0,1190.0,3.0,Unfurnished,Ready to Move,,11200000.000000002
+PROP_00560,Pune,Aundh,3.0,1400.0,3.0,Semi-Furnished,Ready to Move,,26500000.0
+PROP_00561,Pune,Mohammed Wadi,4.0,1560.0,4.0,Semi-Furnished,Ready to Move,,13500000.0
+PROP_00562,Pune,Bhawani Peth,2.0,920.0,2.0,Furnished,Ready to Move,,9500000.0
+PROP_00563,Pune,Hinjawadi Phase 2 Road,1.0,460.0,1.0,Unfurnished,Ready to Move,,5400000.0
+PROP_00564,Pune,NIBM Annexe Area,3.0,1500.0,3.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00565,Pune,Viman Nagar,2.0,900.0,2.0,Furnished,Ready to Move,,16500000.0
+PROP_00566,Pune,New Kalyani Nagar,3.0,1305.0,3.0,Furnished,Ready to Move,,24500000.0
+PROP_00567,Pune,Kondhwa,1.0,600.0,1.0,Furnished,Ready to Move,,1800000.0
+PROP_00568,Pune,Kondhwa,2.0,1300.0,2.0,Furnished,Ready to Move,,9000000.0
+PROP_00569,Pune,Bavdhan,4.0,1445.0,4.0,Unfurnished,Ready to Move,,16600000.0
+PROP_00570,Pune,Wakad,2.0,840.0,2.0,Unfurnished,Ready to Move,,9500000.0
+PROP_00571,Pune,Hadapsar,2.0,800.0,2.0,Unfurnished,Under Construction,,11600000.0
+PROP_00572,Pune,NIBM Annexe Area,3.0,1400.0,3.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00573,Pune,NIBM Annexe Area,2.0,940.0,2.0,Unfurnished,Ready to Move,,5200000.0
+PROP_00574,Pune,Karve Road,3.0,1455.0,3.0,Furnished,Ready to Move,,36500000.0
+PROP_00575,Pune,Hinjawadi,3.0,1350.0,3.0,Furnished,Ready to Move,,17000000.0
+PROP_00576,Pune,Hanuman Nagar Keshav Nagar,2.0,702.0,2.0,Unfurnished,Ready to Move,,7200000.0
+PROP_00577,Pune,Wakad,3.0,1084.0,3.0,Unfurnished,Ready to Move,,16500000.0
+PROP_00578,Pune,Baner,3.0,1080.0,3.0,Unfurnished,Ready to Move,,12300000.0
+PROP_00579,Pune,Nal Stop,3.0,1147.0,3.0,Furnished,Ready to Move,,26000000.0
+PROP_00580,Pune,Keshav Nagar Mundhwa,3.0,1047.0,3.0,Semi-Furnished,Ready to Move,,13000000.0
+PROP_00581,Pune,Hinjawadi,3.0,1400.0,3.0,Unfurnished,Ready to Move,,17500000.0
+PROP_00582,Pune,Magarpatta,4.0,1990.0,4.0,Semi-Furnished,Ready to Move,,41000000.0
+PROP_00583,Pune,Ram Nagar Bavdhan,4.0,2300.0,4.0,Unfurnished,Ready to Move,,37500000.0
+PROP_00584,Pune,Koregaon Park,3.0,1350.0,3.0,Unfurnished,Ready to Move,,21000000.0
+PROP_00585,Pune,Kondhwa,3.0,1500.0,3.0,Semi-Furnished,Ready to Move,,10500000.0
+PROP_00586,Pune,Viman Nagar,3.0,1250.0,3.0,Unfurnished,Ready to Move,,22500000.0
+PROP_00587,Pune,Hadapsar,3.0,1139.0,3.0,Semi-Furnished,Ready to Move,,11000000.0
+PROP_00588,Pune,Kalyani Nagar,3.0,1600.0,3.0,Semi-Furnished,Ready to Move,,16000000.0
+PROP_00589,Pune,Koregaon Park,3.0,2036.0,3.0,Unfurnished,Ready to Move,,72000000.0
+PROP_00590,Pune,Erandwane,4.0,3000.0,4.0,Furnished,Ready to Move,,120000000.0
+PROP_00591,Pune,Magarpatta,3.0,1043.0,3.0,Unfurnished,Under Construction,,22400000.000000004
+PROP_00592,Pune,Amanora Park Town,4.0,1850.0,4.0,Semi-Furnished,Ready to Move,,27000000.0
+PROP_00593,Pune,Baner,3.0,2575.0,3.0,Unfurnished,Ready to Move,,27500000.0
+PROP_00594,Pune,Pimpri Chinchwad,2.0,702.0,2.0,Unfurnished,Ready to Move,,7070000.0
+PROP_00595,Pune,Dhanori,2.0,621.0,2.0,Unfurnished,Ready to Move,,5800000.0
+PROP_00596,Pune,Sangamvadi,3.0,1700.0,3.0,Semi-Furnished,Ready to Move,,40000000.0
+PROP_00597,Pune,Lullanagar,3.0,1093.0,3.0,Unfurnished,Under Construction,,17800000.0
+PROP_00598,Pune,Kondhwa,3.0,1000.0,3.0,Unfurnished,Ready to Move,,9500000.0
+PROP_00599,Pune,Mahalunge,1.0,460.0,1.0,Semi-Furnished,Ready to Move,,5100000.0
+PROP_00600,Pune,Baner,3.0,1500.0,3.0,Furnished,Ready to Move,,29500000.0
+PROP_00601,Pune,Shivaji Road,3.0,1420.0,3.0,Unfurnished,Ready to Move,,29000000.0
+PROP_00602,Pune,Magarpatta,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,16000000.0
+PROP_00603,Pune,Patil Nagar Balewadi,2.0,1000.0,2.0,Furnished,Ready to Move,10.0,9500000.0
+PROP_00604,Pune,NIBM Road,3.0,1100.0,3.0,Unfurnished,Ready to Move,,8350000.0
+PROP_00605,Pune,Kharadi,4.0,1650.0,4.0,Semi-Furnished,Ready to Move,,29000000.0
+PROP_00606,Pune,Shivaji Nagar,3.0,1400.0,3.0,Unfurnished,Ready to Move,,32500000.0
+PROP_00607,Pune,Saswad Road,2.0,705.0,2.0,Semi-Furnished,Ready to Move,,6500000.0
+PROP_00608,Pune,Kothrud,2.0,1100.0,2.0,Semi-Furnished,Ready to Move,,12500000.0
+PROP_00609,Pune,Viman Nagar,3.0,1600.0,3.0,Unfurnished,Ready to Move,,30500000.0
+PROP_00610,Pune,Undri,2.0,600.0,2.0,Semi-Furnished,Ready to Move,,4500000.0
+PROP_00611,Pune,Baner,3.0,1100.0,3.0,Unfurnished,Ready to Move,,15800000.0
+PROP_00612,Pune,Magarpatta,3.0,1330.0,3.0,Semi-Furnished,Ready to Move,,26000000.0
+PROP_00613,Pune,Magarpatta,1.0,480.0,1.0,Unfurnished,Ready to Move,,7500000.0
+PROP_00614,Pune,Ambegaon,2.0,854.0,2.0,Furnished,Ready to Move,,9600000.0
+PROP_00615,Pune,Kharadi,2.0,1150.0,2.0,Unfurnished,Ready to Move,,15000000.0
+PROP_00616,Pune,Balewadi,2.0,786.0,2.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00617,Pune,Wagholi,1.0,421.0,1.0,Semi-Furnished,Ready to Move,,6000000.0
+PROP_00618,Pune,Bavdhan,1.0,517.0,1.0,Unfurnished,Ready to Move,,5000000.0
+PROP_00619,Pune,Khadki,2.0,522.0,2.0,Unfurnished,Ready to Move,,7500000.0
+PROP_00620,Pune,Manjri Budruk,2.0,830.0,2.0,Semi-Furnished,Ready to Move,,8000000.0
+PROP_00621,Pune,Phase 3 Hinjewadi Rajiv Gandhi Infotech Park,2.0,670.0,2.0,Unfurnished,Ready to Move,,6400000.0
+PROP_00622,Pune,Viman Nagar,4.0,3000.0,4.0,Furnished,Ready to Move,,55000000.0
+PROP_00623,Pune,Pandhari Nagar Handewadi,2.0,630.0,2.0,Semi-Furnished,Ready to Move,,4250000.0
+PROP_00624,Pune,Vitthal Nagar Kharadi,3.0,2900.0,3.0,Unfurnished,Ready to Move,,46000000.0
+PROP_00625,Pune,Gahunje,3.0,1460.0,3.0,Furnished,Ready to Move,,28000000.0
+PROP_00626,Pune,Mohammed Wadi,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,7000000.0
+PROP_00627,Pune,Narhe,2.0,888.0,2.0,Semi-Furnished,Ready to Move,,6000000.0
+PROP_00628,Pune,Keshav Nagar Mundhwa,3.0,943.0,1.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00629,Pune,Bavdhan,4.0,4000.0,4.0,Furnished,Ready to Move,,70000000.0
+PROP_00630,Pune,Kharadi,3.0,1054.0,3.0,Unfurnished,Ready to Move,,11500000.0
+PROP_00631,Pune,Manjari Khurd,3.0,1093.0,3.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00632,Pune,Undri,1.0,602.0,1.0,Semi-Furnished,Ready to Move,,3900000.0
+PROP_00633,Pune,Bavdhan,1.0,636.0,1.0,Semi-Furnished,Ready to Move,,4300000.0
+PROP_00634,Pune,Fursungi,2.0,635.0,2.0,Unfurnished,Ready to Move,,4210000.0
+PROP_00635,Pune,Wadmukhwadi,2.0,678.0,2.0,Semi-Furnished,Ready to Move,5.0,5500000.0
+PROP_00636,Pune,Dehu Road,2.0,630.0,2.0,Semi-Furnished,Ready to Move,,7200000.0
+PROP_00637,Pune,Kothrud,3.0,1106.0,3.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_00638,Pune,Tathawade Pimpri Chinchwad,3.0,950.0,3.0,Unfurnished,Ready to Move,,11200000.000000002
+PROP_00639,Pune,Rajgurunagar,2.0,853.0,2.0,Unfurnished,Ready to Move,,8500000.0
+PROP_00640,Pune,Manjri Budruk,3.0,936.0,3.0,Unfurnished,Ready to Move,,10000000.0
+PROP_00641,Pune,Karvenagar,4.0,1700.0,4.0,Semi-Furnished,Ready to Move,,31000000.0
+PROP_00642,Pune,Balewadi,3.0,950.0,3.0,Unfurnished,Ready to Move,,13799999.999999998
+PROP_00643,Pune,Wakad,3.0,1185.0,3.0,Semi-Furnished,Ready to Move,,22500000.0
+PROP_00644,Pune,Kalyani Nagar,3.0,1500.0,3.0,Semi-Furnished,Ready to Move,,33000000.0
+PROP_00645,Pune,Bibwewadi,2.0,1200.0,2.0,Semi-Furnished,Ready to Move,,13000000.0
+PROP_00646,Pune,Pimpri Chinchwad,3.0,1000.0,3.0,Unfurnished,Ready to Move,,15000000.0
+PROP_00647,Pune,Kothrud,1.0,620.0,1.0,Semi-Furnished,Ready to Move,,7200000.0
+PROP_00648,Pune,Viman Nagar,2.0,915.0,2.0,Unfurnished,Ready to Move,,13500000.0
+PROP_00649,Pune,Kharadi,3.0,1100.0,3.0,Semi-Furnished,Ready to Move,,11500000.0
+PROP_00650,Pune,Dhayari,1.0,520.0,1.0,Unfurnished,Ready to Move,,4600000.0
+PROP_00651,Pune,Airport Road,3.0,1400.0,3.0,Unfurnished,Ready to Move,,31500000.0
+PROP_00652,Pune,Balewadi,3.0,1350.0,3.0,Unfurnished,Ready to Move,57.0,19500000.0
+PROP_00653,Pune,Kharadi,3.0,1121.0,3.0,Unfurnished,Under Construction,,18000000.0
+PROP_00654,Pune,Phase 1 Empire Estate Chinchwad,4.0,3018.0,4.0,Unfurnished,Ready to Move,,60000000.0
+PROP_00655,Pune,Bavdhan,3.0,1268.0,3.0,Furnished,Ready to Move,,20000000.0
+PROP_00656,Pune,Porwal Road,3.0,1025.0,3.0,Semi-Furnished,Ready to Move,,9500000.0
+PROP_00657,Pune,Bakori,2.0,700.0,2.0,Furnished,Ready to Move,,4000000.0
+PROP_00658,Pune,Pimpri Chinchwad,2.0,850.0,2.0,Furnished,Ready to Move,,9300000.0
+PROP_00659,Pune,Sinhgad Road,2.0,550.0,2.0,Semi-Furnished,Ready to Move,,8200000.0
+PROP_00660,Pune,Airport Road,4.0,2400.0,4.0,Furnished,Ready to Move,,27500000.0
+PROP_00661,Pune,Hinjawadi,2.0,790.0,2.0,Unfurnished,Ready to Move,,8300000.0
+PROP_00662,Pune,Khese Park,2.0,830.0,2.0,Unfurnished,Ready to Move,,8200000.0
+PROP_00663,Pune,Ambegaon,3.0,980.0,3.0,Semi-Furnished,Ready to Move,,9800000.0
+PROP_00664,Pune,Bavdhan,2.0,620.0,2.0,Semi-Furnished,Ready to Move,,8200000.0
+PROP_00665,Pune,Gokul Nagar Katraj,2.0,630.0,2.0,Semi-Furnished,Ready to Move,,7300000.0
+PROP_00666,Pune,Keshav Nagar Mundhwa,2.0,803.0,2.0,Semi-Furnished,Ready to Move,,8600000.0
+PROP_00667,Pune,Vivek Nagar Balaji Nagar,1.0,550.0,1.0,Semi-Furnished,Ready to Move,15.0,4200000.0
+PROP_00668,Pune,Kharadi,2.0,940.0,2.0,Furnished,Ready to Move,,15000000.0
+PROP_00669,Pune,Erandwane,5.0,1990.0,5.0,Furnished,Ready to Move,,59000000.0
+PROP_00670,Pune,Pashan,3.0,875.0,3.0,Semi-Furnished,Ready to Move,,12900000.0
+PROP_00671,Pune,Wagholi,2.0,784.0,2.0,Semi-Furnished,Ready to Move,,7600000.0
+PROP_00672,Pune,Pimpri Chinchwad,2.0,726.0,2.0,Unfurnished,Ready to Move,,8000000.0
+PROP_00673,Pune,Wanowrie,5.0,2085.0,5.0,Semi-Furnished,Ready to Move,,27000000.0
+PROP_00674,Pune,Rahatani,3.0,1300.0,3.0,Unfurnished,Ready to Move,,22000000.0
+PROP_00675,Pune,Chakan,1.0,416.0,1.0,Unfurnished,Ready to Move,,1650000.0
+PROP_00676,Pune,Maurya Vihar,3.0,1500.0,3.0,Furnished,Ready to Move,,24500000.0
+PROP_00677,Pune,Wakad,2.0,559.0,2.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_00678,Pune,Moshi,3.0,1128.0,3.0,Furnished,Ready to Move,,7500000.0
+PROP_00679,Pune,Keshav Nagar Mundhwa,2.0,785.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_00680,Pune,Pimpri Chinchwad,2.0,622.0,2.0,Furnished,Ready to Move,,12000000.0
+PROP_00681,Pune,Pimpri Chinchwad,2.0,723.0,2.0,Unfurnished,Ready to Move,,9000000.0
+PROP_00682,Pune,Dhayari,2.0,538.0,2.0,Unfurnished,Ready to Move,,6500000.0
+PROP_00683,Pune,Gahunje,2.0,636.0,2.0,Semi-Furnished,Ready to Move,,6000000.0
+PROP_00684,Pune,Kharadi,3.0,1800.0,3.0,Furnished,Ready to Move,,30000000.0
+PROP_00685,Pune,Aundh,3.0,1378.0,3.0,Semi-Furnished,Ready to Move,,27500000.0
+PROP_00686,Pune,Pimpri Chinchwad,2.0,735.0,2.0,Semi-Furnished,Ready to Move,,7600000.0
+PROP_00687,Pune,Pimpri Chinchwad,2.0,672.0,2.0,Furnished,Ready to Move,,9500000.0
+PROP_00688,Pune,Balewadi,3.0,1250.0,3.0,Semi-Furnished,Ready to Move,24.0,15200000.0
+PROP_00689,Pune,Pisoli,1.0,588.0,1.0,Unfurnished,Ready to Move,510.0,3300000.0
+PROP_00690,Pune,Hadapsar,2.0,642.0,2.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_00691,Pune,Sinhgad Road,2.0,727.0,2.0,Furnished,Ready to Move,,9500000.0
+PROP_00692,Pune,Pisoli,2.0,700.0,2.0,Furnished,Ready to Move,,4450000.0
+PROP_00693,Pune,Kundan Nagar Kasarwadi,3.0,1300.0,3.0,Furnished,Ready to Move,,16500000.0
+PROP_00694,Pune,Maan Road,3.0,1161.0,3.0,Unfurnished,Ready to Move,,13899999.999999998
+PROP_00695,Pune,Paud Road,3.0,1550.0,3.0,Semi-Furnished,Ready to Move,,25300000.0
+PROP_00696,Pune,Baner,2.0,735.0,2.0,Semi-Furnished,Ready to Move,,12500000.0
+PROP_00697,Pune,Hinjawadi Village,3.0,925.0,3.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00698,Pune,Moshi,1.0,450.0,1.0,Unfurnished,Ready to Move,,4500000.0
+PROP_00699,Pune,Lohegaon,1.0,492.0,1.0,Semi-Furnished,Ready to Move,,4600000.0
+PROP_00700,Pune,NIBM Annexe Area,3.0,1350.0,3.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00701,Pune,Bavdhan,4.0,1850.0,4.0,Semi-Furnished,Ready to Move,,35000000.0
+PROP_00702,Pune,Gultekdi,5.0,3200.0,5.0,Furnished,Ready to Move,,55100000.0
+PROP_00703,Pune,Wanowrie,3.0,1346.0,3.0,Unfurnished,Ready to Move,,17000000.0
+PROP_00704,Pune,Hinjawadi,2.0,636.0,2.0,Unfurnished,Ready to Move,,5450000.0
+PROP_00705,Pune,Senapati Bapat Road,2.0,900.0,2.0,Furnished,Ready to Move,,21000000.0
+PROP_00706,Pune,Lohegaon,2.0,923.0,2.0,Unfurnished,Ready to Move,,5500000.0
+PROP_00707,Pune,Lohegaon,2.0,412.0,2.0,Unfurnished,Ready to Move,,4600000.0
+PROP_00708,Pune,NIBM Annexe Area,2.0,1210.0,2.0,Semi-Furnished,Ready to Move,,8800000.0
+PROP_00709,Pune,Sadashiv Peth,4.0,1520.0,4.0,Unfurnished,Ready to Move,,26500000.0
+PROP_00710,Pune,Bhosari,2.0,680.0,2.0,Furnished,Ready to Move,,7200000.0
+PROP_00711,Pune,Maan,3.0,1041.0,3.0,Unfurnished,Under Construction,,16000000.0
+PROP_00712,Pune,Tathawade Pimpri Chinchwad,2.0,675.0,2.0,Unfurnished,Ready to Move,,7400000.0
+PROP_00713,Pune,Kharabwadi,1.0,450.0,1.0,Unfurnished,Ready to Move,,3000000.0
+PROP_00714,Pune,Undri,2.0,1170.0,2.0,Semi-Furnished,Ready to Move,,6800000.0
+PROP_00715,Pune,Kondhwa Budruk,1.0,400.0,1.0,Furnished,Ready to Move,,3600000.0
+PROP_00716,Pune,Baner,3.0,1520.0,3.0,Unfurnished,Ready to Move,,26500000.0
+PROP_00717,Pune,Mohan Nagar Co operative Society,2.0,777.0,2.0,Unfurnished,Ready to Move,,10500000.0
+PROP_00718,Pune,Pingale Wasti,4.0,1663.0,4.0,Unfurnished,Ready to Move,,22500000.0
+PROP_00719,Pune,Wanowrie,5.0,4500.0,5.0,Furnished,Ready to Move,,47500000.0
+PROP_00720,Pune,Hadapsar,2.0,950.0,2.0,Unfurnished,Ready to Move,,5400000.0
+PROP_00721,Pune,Wagholi,3.0,1660.0,3.0,Semi-Furnished,Ready to Move,,14200000.0
+PROP_00722,Pune,Bavdhan,3.0,1100.0,3.0,Semi-Furnished,Ready to Move,,14400000.0
+PROP_00723,Pune,Balewadi,4.0,1680.0,4.0,Semi-Furnished,Ready to Move,,21000000.0
+PROP_00724,Pune,Kaspate Wasti,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,9500000.0
+PROP_00725,Pune,Mohammed Wadi,5.0,2400.0,5.0,Semi-Furnished,Ready to Move,,28000000.0
+PROP_00726,Pune,Keshav Nagar Mundhwa,2.0,1100.0,2.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_00727,Pune,Pimpri Chinchwad,2.0,680.0,2.0,Furnished,Ready to Move,,7600000.0
+PROP_00728,Pune,Pimpri Chinchwad,3.0,1600.0,3.0,Furnished,Ready to Move,,25500000.0
+PROP_00729,Pune,Bund Garden Road,2.0,900.0,2.0,Furnished,Ready to Move,,15000000.0
+PROP_00730,Pune,Baner,5.0,2800.0,5.0,Semi-Furnished,Ready to Move,,37500000.0
+PROP_00731,Pune,Prabhat Road,3.0,1313.0,3.0,Semi-Furnished,Under Construction,,34000000.0
+PROP_00732,Pune,Baner,3.0,1850.0,3.0,Unfurnished,Ready to Move,510.0,20300000.0
+PROP_00733,Pune,Laxmi Nagar Balewadi,3.0,2200.0,3.0,Semi-Furnished,Ready to Move,,37500000.0
+PROP_00734,Pune,Baner,3.0,1200.0,3.0,Unfurnished,Ready to Move,,17000000.0
+PROP_00735,Pune,NIBM Annexe Area,4.0,2300.0,4.0,Unfurnished,Ready to Move,,25000000.0
+PROP_00736,Pune,Baner Road,2.0,1308.0,2.0,Furnished,Ready to Move,,15500000.0
+PROP_00737,Pune,Senapati Bapat Road,2.0,850.0,2.0,Furnished,Ready to Move,,20500000.0
+PROP_00738,Pune,Wakad,2.0,850.0,2.0,Unfurnished,Ready to Move,,9700000.0
+PROP_00739,Pune,Lohegaon,1.0,481.0,1.0,Unfurnished,Ready to Move,,4700000.0
+PROP_00740,Pune,Handewadi,1.0,400.0,1.0,Unfurnished,Ready to Move,,2700000.0
+PROP_00741,Pune,Charholi BK,1.0,450.0,1.0,Semi-Furnished,Ready to Move,,4200000.0
+PROP_00742,Pune,Balewadi,3.0,1791.0,3.0,Furnished,Ready to Move,,25000000.0
+PROP_00743,Pune,Kharadi,2.0,736.0,2.0,Furnished,Ready to Move,,12000000.0
+PROP_00744,Pune,Pashan,3.0,1800.0,3.0,Unfurnished,Ready to Move,,30000000.0
+PROP_00745,Pune,Tingre Nagar,3.0,1100.0,3.0,Unfurnished,Ready to Move,,15200000.0
+PROP_00746,Pune,Yewalewadi,4.0,1600.0,4.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_00747,Pune,Porwal Road,3.0,1050.0,3.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_00748,Pune,Balewadi,2.0,700.0,2.0,Unfurnished,Ready to Move,5.0,8400000.0
+PROP_00749,Pune,Kalyani Nagar,2.0,1100.0,2.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_00750,Pune,Koregaon Park,3.0,2036.0,3.0,Unfurnished,Ready to Move,,72500000.0
+PROP_00751,Pune,Magarpatta,1.0,650.0,1.0,Unfurnished,Ready to Move,,8000000.0
+PROP_00752,Pune,Katraj,2.0,625.0,2.0,Semi-Furnished,Ready to Move,,5600000.0
+PROP_00753,Pune,Wakad,4.0,1769.0,4.0,Semi-Furnished,Ready to Move,5.0,18500000.0
+PROP_00754,Pune,Pimpri,2.0,730.0,2.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00755,Pune,Sinhgad Road,2.0,725.0,2.0,Unfurnished,Ready to Move,,8700000.0
+PROP_00756,Pune,Wanwadi,3.0,1330.0,3.0,Semi-Furnished,Under Construction,,25400000.0
+PROP_00757,Pune,Balewadi,3.0,1370.0,3.0,Semi-Furnished,Ready to Move,,23000000.0
+PROP_00758,Pune,Anand Nagar,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_00759,Pune,Pashan,2.0,810.0,2.0,Unfurnished,Ready to Move,,10000000.0
+PROP_00760,Pune,Kharadi,2.0,830.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_00761,Pune,Viman Nagar,2.0,950.0,2.0,Semi-Furnished,Ready to Move,,11500000.0
+PROP_00762,Pune,Viman Nagar,3.0,1189.0,3.0,Unfurnished,Ready to Move,,18200000.0
+PROP_00763,Pune,Wakad,3.0,1200.0,3.0,Furnished,Ready to Move,,14500000.0
+PROP_00764,Pune,Shivaji Nagar,4.0,2000.0,4.0,Semi-Furnished,Ready to Move,,45000000.0
+PROP_00765,Pune,Kharadi,4.0,2000.0,4.0,Furnished,Ready to Move,,30000000.0
+PROP_00766,Pune,Wagholi,3.0,1700.0,3.0,Unfurnished,Ready to Move,,17000000.0
+PROP_00767,Pune,Undri,2.0,1130.0,2.0,Semi-Furnished,Ready to Move,,7200000.0
+PROP_00768,Pune,Dhayari,1.0,350.0,1.0,Unfurnished,Ready to Move,,2000000.0
+PROP_00769,Pune,Aundh,3.0,1380.0,3.0,Furnished,Ready to Move,,27200000.000000004
+PROP_00770,Pune,Kothrud,3.0,907.0,3.0,Unfurnished,Ready to Move,,15900000.0
+PROP_00771,Pune,Narhe,1.0,583.0,1.0,Unfurnished,Ready to Move,,4000000.0
+PROP_00772,Pune,Bavdhan,6.0,5217.0,5.0,Furnished,Ready to Move,,90000000.0
+PROP_00773,Pune,Apte Road,4.0,1904.0,4.0,Unfurnished,Ready to Move,,45000000.0
+PROP_00774,Pune,Laxmi Nagar Balewadi,2.0,1079.0,2.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00775,Pune,Kharadi,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,13000000.0
+PROP_00776,Pune,Hadapsar,1.0,450.0,1.0,Unfurnished,Ready to Move,,5000000.0
+PROP_00777,Pune,Mundhwa,3.0,1000.0,3.0,Unfurnished,Ready to Move,,12500000.0
+PROP_00778,Pune,Wakad,1.0,447.0,1.0,Furnished,Ready to Move,,7000000.0
+PROP_00779,Pune,Dehu Road,3.0,1036.0,3.0,Unfurnished,Ready to Move,,11000000.0
+PROP_00780,Pune,Kelgaon,1.0,461.0,1.0,Semi-Furnished,Ready to Move,,3800000.0
+PROP_00781,Pune,Aundh,2.0,980.0,2.0,Furnished,Ready to Move,,12900000.0
+PROP_00782,Pune,Mulshi,3.0,4028.0,3.0,Furnished,Ready to Move,,52500000.0
+PROP_00783,Pune,Baner,3.0,1435.0,3.0,Unfurnished,Ready to Move,,23000000.0
+PROP_00784,Pune,Kothrud,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,13000000.0
+PROP_00785,Pune,Aundh,4.0,2250.0,4.0,Semi-Furnished,Ready to Move,,26500000.0
+PROP_00786,Pune,Papde Wasti,2.0,610.0,2.0,Unfurnished,Ready to Move,,2500000.0
+PROP_00787,Pune,Kirkatwadi,1.0,534.0,1.0,Furnished,Ready to Move,,4900000.0
+PROP_00788,Pune,NIBM Annexe Area,2.0,759.0,2.0,Unfurnished,Ready to Move,,5300000.0
+PROP_00789,Pune,Viman Nagar,3.0,1414.0,3.0,Semi-Furnished,Ready to Move,,24500000.0
+PROP_00790,Pune,Hadapsar,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,15000000.0
+PROP_00791,Pune,Pimpri Chinchwad,3.0,1250.0,3.0,Unfurnished,Ready to Move,,17500000.0
+PROP_00792,Pune,Warje,1.0,470.0,1.0,Unfurnished,Ready to Move,,5600000.0
+PROP_00793,Pune,Kharadi,2.0,825.0,2.0,Semi-Furnished,Ready to Move,,12300000.0
+PROP_00794,Pune,Dhayari,1.0,383.0,1.0,Unfurnished,Ready to Move,,950000.0
+PROP_00795,Pune,Undri,2.0,780.0,2.0,Unfurnished,Ready to Move,5.0,7500000.0
+PROP_00796,Pune,Hinjawadi,2.0,576.0,2.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_00797,Pune,Talegaon Dabhade,1.0,503.0,1.0,Unfurnished,Ready to Move,,2400000.0
+PROP_00798,Pune,Kondhwa,3.0,1000.0,3.0,Furnished,Ready to Move,,15000000.0
+PROP_00799,Pune,Dehu Road,2.0,749.0,2.0,Unfurnished,Ready to Move,,6180000.0
+PROP_00800,Pune,Azad Nagar Wanowrie,5.0,2085.0,5.0,Semi-Furnished,Ready to Move,,27000000.0
+PROP_00801,Pune,Kothrud,3.0,1050.0,3.0,Semi-Furnished,Ready to Move,,20000000.0
+PROP_00802,Pune,Unknown,2.0,817.0,2.0,Unfurnished,Ready to Move,,8500000.0
+PROP_00803,Pune,Balewadi,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,11000000.0
+PROP_00804,Pune,Kelgaon,3.0,1394.0,3.0,Unfurnished,Ready to Move,,9750000.0
+PROP_00805,Pune,Pimpri Chinchwad,2.0,870.0,2.0,Unfurnished,Ready to Move,,9700000.0
+PROP_00806,Pune,Baner,4.0,1520.0,4.0,Semi-Furnished,Ready to Move,,27000000.0
+PROP_00807,Pune,Lullanagar,2.0,1000.0,2.0,Furnished,Ready to Move,,11000000.0
+PROP_00808,Pune,Tingre Nagar,2.0,896.0,2.0,Semi-Furnished,Ready to Move,,8000000.0
+PROP_00809,Pune,Hinjawadi,1.0,444.0,1.0,Unfurnished,Ready to Move,,5000000.0
+PROP_00810,Pune,Kothrud,3.0,1425.0,3.0,Semi-Furnished,Ready to Move,,34000000.0
+PROP_00811,Pune,Bibwewadi,2.0,1000.0,2.0,Unfurnished,Ready to Move,,11500000.0
+PROP_00812,Pune,NIBM Road,2.0,1100.0,2.0,Unfurnished,Ready to Move,,11000000.0
+PROP_00813,Pune,Shivajinagar,4.0,1834.0,4.0,Unfurnished,Ready to Move,,44000000.0
+PROP_00814,Pune,Wakad,2.0,770.0,2.0,Unfurnished,Ready to Move,,9500000.0
+PROP_00815,Pune,Magarpatta,3.0,1825.0,3.0,Semi-Furnished,Ready to Move,,19800000.0
+PROP_00816,Pune,Hinjawadi,1.0,400.0,1.0,Furnished,Ready to Move,,4600000.0
+PROP_00817,Pune,Pimpri,2.0,644.0,2.0,Unfurnished,Ready to Move,,8800000.0
+PROP_00818,Pune,Dhanori,2.0,859.0,2.0,Semi-Furnished,Ready to Move,,9200000.0
+PROP_00819,Pune,Tathawade Pimpri Chinchwad,2.0,724.0,2.0,Furnished,Ready to Move,,8600000.0
+PROP_00820,Pune,Pimpri Chinchwad,3.0,1040.0,3.0,Semi-Furnished,Ready to Move,,15000000.0
+PROP_00821,Pune,Kondhwa,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_00822,Pune,Moshi,3.0,636.0,3.0,Unfurnished,Ready to Move,,7200000.0
+PROP_00823,Pune,Narhe,2.0,686.0,2.0,Unfurnished,Ready to Move,,7000000.0
+PROP_00824,Pune,Bavdhan,3.0,1770.0,3.0,Semi-Furnished,Ready to Move,,24000000.0
+PROP_00825,Pune,Kondhwa,3.0,860.0,3.0,Furnished,Ready to Move,,12000000.0
+PROP_00826,Pune,Patil Nagar Balewadi,2.0,995.0,2.0,Semi-Furnished,Ready to Move,,13600000.000000002
+PROP_00827,Pune,Wakad,3.0,1145.0,3.0,Unfurnished,Ready to Move,,13400000.0
+PROP_00828,Pune,Hadapsar,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,4500000.0
+PROP_00829,Pune,Pashan,1.0,1200.0,1.0,Unfurnished,Ready to Move,5.0,100000000.0
+PROP_00830,Pune,Kothrud,3.0,1010.0,3.0,Unfurnished,Under Construction,,17500000.0
+PROP_00831,Pune,Kalyani Nagar,1.0,432.0,1.0,Unfurnished,Ready to Move,,5600000.0
+PROP_00832,Pune,Lonavala,4.0,2200.0,4.0,Unfurnished,Ready to Move,,22100000.0
+PROP_00833,Pune,Kirkatwadi,2.0,620.0,2.0,Semi-Furnished,Ready to Move,,3900000.0
+PROP_00834,Pune,Kharadi,3.0,1020.0,3.0,Semi-Furnished,Ready to Move,,18000000.0
+PROP_00835,Pune,Bavdhan,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,10500000.0
+PROP_00836,Pune,Kothrud,3.0,1103.0,3.0,Unfurnished,Ready to Move,,22000000.0
+PROP_00837,Pune,Kondhwa,2.0,784.0,2.0,Semi-Furnished,Ready to Move,,7150000.0
+PROP_00838,Pune,Pisoli,1.0,548.0,1.0,Furnished,Ready to Move,,3200000.0
+PROP_00839,Pune,Shivajinagar,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_00840,Pune,Dhayari,2.0,720.0,2.0,Furnished,Ready to Move,10.0,6800000.0
+PROP_00841,Pune,Undri,2.0,1030.0,2.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_00842,Pune,Pimpri Chinchwad,1.0,410.0,1.0,Furnished,Ready to Move,,3800000.0
+PROP_00843,Pune,Wagholi,3.0,1100.0,3.0,Semi-Furnished,Ready to Move,,9800000.0
+PROP_00844,Pune,Katraj Satara Road,1.0,600.0,1.0,Unfurnished,Ready to Move,,4300000.0
+PROP_00845,Pune,NIBM Annexe Area,2.0,770.0,2.0,Unfurnished,Ready to Move,,4800000.0
+PROP_00846,Pune,Anand Nagar,2.0,750.0,2.0,Furnished,Ready to Move,,10000000.0
+PROP_00847,Pune,BMCC Road,2.0,697.0,2.0,Semi-Furnished,Ready to Move,,17500000.0
+PROP_00848,Pune,Bavdhan,2.0,860.0,2.0,Unfurnished,Ready to Move,5.0,10900000.0
+PROP_00849,Pune,Mohamadwadi Settlement,2.0,805.0,2.0,Semi-Furnished,Ready to Move,,10500000.0
+PROP_00850,Pune,Patil Nagar Bavdhan,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,10500000.0
+PROP_00851,Pune,Shivajinagar,5.0,2582.0,5.0,Semi-Furnished,Ready to Move,,61500000.0
+PROP_00852,Pune,Wadgaon Sheri,2.0,1750.0,2.0,Semi-Furnished,Ready to Move,,12500000.0
+PROP_00853,Pune,Magarpatta,2.0,870.0,2.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_00854,Pune,Prabhat Road,3.0,1200.0,3.0,Furnished,Ready to Move,5.0,31000000.0
+PROP_00855,Pune,Bhoslenagar Ashok Nagar,1.0,450.0,1.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_00856,Pune,Warje,1.0,600.0,1.0,Unfurnished,Ready to Move,,6200000.0
+PROP_00857,Pune,Baner Road,3.0,1300.0,3.0,Unfurnished,Ready to Move,,14000000.0
+PROP_00858,Pune,Pimpri Chinchwad,2.0,829.0,2.0,Semi-Furnished,Ready to Move,,6000000.0
+PROP_00859,Pune,Erandwane,2.0,1180.0,2.0,Unfurnished,Ready to Move,6.0,22000000.0
+PROP_00860,Pune,Kusgaon Lonavala,2.0,1000.0,2.0,Unfurnished,Ready to Move,,1200000.0
+PROP_00861,Pune,Charholi BK,3.0,1424.0,3.0,Furnished,Ready to Move,,13000000.0
+PROP_00862,Pune,Dhanori,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,6350000.0
+PROP_00863,Pune,Baner,4.0,2500.0,4.0,Semi-Furnished,Ready to Move,,35000000.0
+PROP_00864,Pune,Manjari BK,2.0,650.0,2.0,Unfurnished,Under Construction,,2950000.0
+PROP_00865,Pune,Yashwantrao Chavan Nagar,2.0,750.0,2.0,Furnished,Ready to Move,,11000000.0
+PROP_00866,Pune,Bavdhan,2.0,825.0,2.0,Semi-Furnished,Ready to Move,,10700000.0
+PROP_00867,Pune,Mukund Nagar,4.0,2400.0,4.0,Furnished,Ready to Move,,50000000.0
+PROP_00868,Pune,Lohegaon,1.0,550.0,1.0,Semi-Furnished,Ready to Move,,4200000.0
+PROP_00869,Pune,Baner Highway Side Rd,1.0,435.0,1.0,Furnished,Ready to Move,10.0,6500000.0
+PROP_00870,Pune,Wakad,3.0,936.0,3.0,Semi-Furnished,Ready to Move,,12700000.0
+PROP_00871,Pune,Aundh,1.0,495.0,1.0,Semi-Furnished,Ready to Move,10.0,4600000.0
+PROP_00872,Pune,Kothrud,3.0,1106.0,3.0,Furnished,Ready to Move,,19000000.0
+PROP_00873,Pune,Lullanagar,4.0,2400.0,4.0,Unfurnished,Under Construction,,50000000.0
+PROP_00874,Pune,Pashan,1.0,630.0,1.0,Semi-Furnished,Ready to Move,,5800000.0
+PROP_00875,Pune,Mumbai,3.0,1480.0,3.0,Unfurnished,Ready to Move,,30000000.0
+PROP_00876,Pune,Kalyani Nagar,3.0,1500.0,3.0,Unfurnished,Ready to Move,,31000000.0
+PROP_00877,Pune,Shivaji Nagar,1.0,740.0,1.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_00878,Pune,Wadgaon Sheri,2.0,715.0,2.0,Semi-Furnished,Ready to Move,,8130000.0
+PROP_00879,Pune,Ambedkar Nagar Kondhwa,2.0,930.0,2.0,Furnished,Ready to Move,,11100000.000000002
+PROP_00880,Pune,Kalyani Nagar,3.0,1263.0,3.0,Furnished,Ready to Move,,43000000.0
+PROP_00881,Pune,Balewadi,2.0,946.0,2.0,Unfurnished,Ready to Move,,12000000.0
+PROP_00882,Pune,Bakori Road,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,4300000.0
+PROP_00883,Pune,NIBM Road,1.0,525.0,1.0,Unfurnished,Ready to Move,,5500000.0
+PROP_00884,Pune,Warje,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_00885,Pune,Talwade,2.0,945.0,2.0,Semi-Furnished,Ready to Move,,4300000.0
+PROP_00886,Pune,Dhanori,1.0,450.0,1.0,Semi-Furnished,Ready to Move,,4500000.0
+PROP_00887,Pune,Gultekadi,4.0,1368.0,4.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_00888,Mumbai,Juhu,4.0,2865.0,4.0,Unfurnished,Ready to Move,4.0,190200000.0
+PROP_00889,Mumbai,Santacruz West,4.0,2312.0,4.0,Unfurnished,Under Construction,,160400000.0
+PROP_00890,Mumbai,Byculla,5.0,2749.0,5.0,Unfurnished,Ready to Move,,148400000.0
+PROP_00891,Mumbai,Bandra East,3.0,878.0,3.0,Unfurnished,Under Construction,,31600000.0
+PROP_00892,Mumbai,Borivali East,3.0,965.0,3.0,Unfurnished,Ready to Move,,23600000.0
+PROP_00893,Mumbai,Bandra Kurla Complex,3.0,2142.0,3.0,Unfurnished,Ready to Move,,107100000.0
+PROP_00894,Mumbai,Kandivali East,2.0,695.0,2.0,Unfurnished,Under Construction,,18300000.0
+PROP_00895,Mumbai,Borivali East,2.0,914.0,2.0,Unfurnished,Ready to Move,3.0,23100000.0
+PROP_00896,Mumbai,Vikhroli West,3.0,894.0,3.0,Unfurnished,Ready to Move,,31000000.0
+PROP_00897,Mumbai,Kandivali East,3.0,1170.0,3.0,Unfurnished,Ready to Move,,42900000.0
+PROP_00898,Mumbai,Worli,5.0,4750.0,5.0,Unfurnished,Under Construction,1.0,294300000.0
+PROP_00899,Mumbai,Chembur,2.0,724.0,2.0,Unfurnished,Under Construction,,23800000.0
+PROP_00900,Mumbai,Bhandup,3.0,1128.0,3.0,Unfurnished,Ready to Move,,33800000.0
+PROP_00901,Mumbai,Byculla,5.0,1908.0,5.0,Unfurnished,Under Construction,,101300000.0
+PROP_00902,Mumbai,Andheri East,2.0,775.0,2.0,Unfurnished,Under Construction,,28600000.0
+PROP_00903,Mumbai,Goregaon West,3.0,1084.0,3.0,Unfurnished,Ready to Move,9.0,38200000.0
+PROP_00904,Mumbai,Bandra East,3.0,854.0,3.0,Unfurnished,Ready to Move,,34300000.0
+PROP_00905,Mumbai,Andheri West,3.0,1100.0,3.0,Unfurnished,Ready to Move,,47000000.0
+PROP_00906,Mumbai,Andheri West,4.0,1600.0,4.0,Unfurnished,Ready to Move,,72000000.0
+PROP_00907,Mumbai,Chembur,4.0,1962.0,4.0,Unfurnished,Under Construction,,73400000.0
+PROP_00908,Mumbai,Mira Road East,1.0,460.0,1.0,Unfurnished,Under Construction,,7430000.0
+PROP_00909,Mumbai,Juhu,5.0,2955.0,5.0,Unfurnished,Under Construction,2.0,162500000.0
+PROP_00910,Mumbai,Wadala,3.0,1239.0,3.0,Unfurnished,Ready to Move,4.0,49700000.0
+PROP_00911,Mumbai,Kandivali East,2.0,651.0,2.0,Unfurnished,Ready to Move,,15000000.0
+PROP_00912,Mumbai,Bandra East,3.0,928.0,3.0,Unfurnished,Under Construction,,37000000.0
+PROP_00913,Mumbai,Mira Road East,2.0,638.0,2.0,Unfurnished,Under Construction,,12200000.0
+PROP_00914,Mumbai,Vasai West,2.0,608.0,2.0,Unfurnished,Under Construction,3.0,7300000.0
+PROP_00915,Mumbai,Vikhroli East,1.0,484.0,1.0,Unfurnished,Ready to Move,,19000000.0
+PROP_00916,Mumbai,Vasai,1.0,444.0,1.0,Unfurnished,Under Construction,,3850000.0
+PROP_00917,Mumbai,Dadar West,2.0,750.0,2.0,Unfurnished,Ready to Move,,43300000.0
+PROP_00918,Mumbai,Borivali West,3.0,990.0,3.0,Unfurnished,Under Construction,,29200000.0
+PROP_00919,Mumbai,Worli,3.0,1661.0,3.0,Unfurnished,Ready to Move,1.0,166100000.0
+PROP_00920,Mumbai,Borivali East,3.0,1390.0,3.0,Unfurnished,Ready to Move,,60000000.0
+PROP_00921,Mumbai,Borivali West,2.0,635.0,2.0,Unfurnished,Ready to Move,,19000000.0
+PROP_00922,Mumbai,Mira Road Area,3.0,979.0,3.0,Unfurnished,Ready to Move,,18500000.0
+PROP_00923,Mumbai,Andheri,1.0,400.0,1.0,Unfurnished,Under Construction,,13400000.0
+PROP_00924,Mumbai,Mulund West,3.0,1441.0,3.0,Unfurnished,Under Construction,,45700000.0
+PROP_00925,Mumbai,Andheri West,3.0,1550.0,3.0,Unfurnished,Ready to Move,,63200000.0
+PROP_00926,Mumbai,Bhandup West,3.0,983.0,3.0,Unfurnished,Ready to Move,,26500000.0
+PROP_00927,Mumbai,Andheri West,4.0,1988.0,4.0,Unfurnished,Under Construction,,80700000.0
+PROP_00928,Mumbai,Mahalakshmi,3.0,1147.0,3.0,Unfurnished,Ready to Move,,83000000.0
+PROP_00929,Mumbai,Sewri,4.0,1706.0,4.0,Unfurnished,Under Construction,,86000000.0
+PROP_00930,Mumbai,Mulund West,4.0,1300.0,4.0,Unfurnished,Under Construction,,36200000.0
+PROP_00931,Mumbai,Sewri,3.0,1045.0,3.0,Unfurnished,Under Construction,,49100000.0
+PROP_00932,Mumbai,Kanti Nagar JB Nagar,4.0,1740.0,4.0,Unfurnished,Under Construction,,62600000.0
+PROP_00933,Mumbai,Andheri West,2.0,864.0,2.0,Unfurnished,Ready to Move,,36300000.0
+PROP_00934,Mumbai,Vasai West,3.0,953.0,3.0,Unfurnished,Under Construction,4.0,17800000.0
+PROP_00935,Mumbai,Juhu,3.0,1386.0,3.0,Unfurnished,Ready to Move,8.0,70000000.0
+PROP_00936,Mumbai,Malad East,3.0,1300.0,3.0,Unfurnished,Ready to Move,,38900000.0
+PROP_00937,Mumbai,Powai,3.0,1039.0,3.0,Unfurnished,Under Construction,4.0,26500000.0
+PROP_00938,Mumbai,Andheri West,4.0,1725.0,4.0,Unfurnished,Ready to Move,4.0,78900000.0
+PROP_00939,Mumbai,Mira Road East,2.0,1050.0,2.0,Unfurnished,Ready to Move,7.0,16399999.999999998
+PROP_00940,Mumbai,Mira Road Area,2.0,645.0,2.0,Unfurnished,Ready to Move,11.0,11299999.999999998
+PROP_00941,Mumbai,Wadala,3.0,1265.0,3.0,Unfurnished,Under Construction,,40500000.0
+PROP_00942,Mumbai,Mulund West,1.0,457.0,1.0,Unfurnished,Ready to Move,,11900000.0
+PROP_00943,Mumbai,Malad East,3.0,853.0,3.0,Unfurnished,Under Construction,,26300000.0
+PROP_00944,Mumbai,Chembur,4.0,2073.0,4.0,Unfurnished,Ready to Move,3.0,104000000.0
+PROP_00945,Mumbai,Sion East,2.0,662.0,2.0,Unfurnished,Ready to Move,6.0,31500000.0
+PROP_00946,Mumbai,Borivali East,2.0,708.0,2.0,Unfurnished,Under Construction,,21300000.0
+PROP_00947,Mumbai,Goregaon West,3.0,1050.0,3.0,Unfurnished,Under Construction,,37800000.0
+PROP_00948,Mumbai,Andheri West,5.0,5100.0,5.0,Unfurnished,Under Construction,,280000000.0
+PROP_00949,Mumbai,Matunga West,4.0,1646.0,4.0,Unfurnished,Under Construction,2.0,85399999.99999999
+PROP_00950,Mumbai,Chandivali,3.0,1864.0,3.0,Unfurnished,Ready to Move,,62000000.0
+PROP_00951,Mumbai,Chembur,4.0,2086.0,4.0,Unfurnished,Under Construction,,117900000.0
+PROP_00952,Mumbai,Nepean Sea Road,4.0,2662.0,4.0,Unfurnished,Ready to Move,,345000000.0
+PROP_00953,Mumbai,Mira Bhayandar Road,2.0,740.0,2.0,Unfurnished,Under Construction,,13300000.0
+PROP_00954,Mumbai,Mulund West,2.0,1040.0,2.0,Unfurnished,Ready to Move,,29300000.0
+PROP_00955,Mumbai,Kandivali East,4.0,2447.0,2.0,Unfurnished,Under Construction,,84700000.0
+PROP_00956,Mumbai,Kandivali East,2.0,719.0,2.0,Unfurnished,Under Construction,,23000000.0
+PROP_00957,Mumbai,Malad West,3.0,933.0,3.0,Unfurnished,Under Construction,,33500000.0
+PROP_00958,Mumbai,Bandra East,3.0,1202.0,3.0,Unfurnished,Ready to Move,,49900000.0
+PROP_00959,Mumbai,Bandra West,3.0,965.0,3.0,Unfurnished,Under Construction,1.0,51700000.0
+PROP_00960,Mumbai,Mahim,3.0,1045.0,3.0,Unfurnished,Under Construction,4.0,40800000.0
+PROP_00961,Mumbai,Worli,3.0,2200.0,3.0,Unfurnished,Ready to Move,,125700000.0
+PROP_00962,Mumbai,Chembur,2.0,602.0,2.0,Unfurnished,Under Construction,,17800000.0
+PROP_00963,Mumbai,Mira Road East,2.0,689.0,2.0,Unfurnished,Under Construction,,11000000.0
+PROP_00964,Mumbai,Bandra West,4.0,1984.0,4.0,Unfurnished,Under Construction,,188500000.0
+PROP_00965,Mumbai,Kandivali East,4.0,2033.0,4.0,Unfurnished,Under Construction,2.0,79000000.0
+PROP_00966,Mumbai,Lower Parel,4.0,2090.0,4.0,Unfurnished,Under Construction,1.0,148300000.0
+PROP_00967,Mumbai,Mira Road East,3.0,1078.0,3.0,Unfurnished,Under Construction,1.0,27100000.0
+PROP_00968,Mumbai,Kandivali West,3.0,822.0,3.0,Unfurnished,Under Construction,,22700000.0
+PROP_00969,Mumbai,Borivali West,4.0,1835.0,4.0,Unfurnished,Under Construction,,66900000.00000001
+PROP_00970,Mumbai,Powai,4.0,1579.0,4.0,Unfurnished,Under Construction,,82700000.0
+PROP_00971,Mumbai,Borivali East,4.0,1327.0,4.0,Unfurnished,Under Construction,,46100000.0
+PROP_00972,Mumbai,Jogeshwari Vikhroli Link Road,2.0,720.0,2.0,Unfurnished,Ready to Move,,22400000.000000004
+PROP_00973,Mumbai,Dahisar East,2.0,701.0,2.0,Unfurnished,Under Construction,6.0,19700000.0
+PROP_00974,Mumbai,Malad West,3.0,1401.0,3.0,Unfurnished,Under Construction,2.0,48900000.0
+PROP_00975,Mumbai,Tardeo,4.0,2391.0,4.0,Unfurnished,Ready to Move,3.0,182800000.0
+PROP_00976,Mumbai,Mira Bhayandar,3.0,1104.0,3.0,Unfurnished,Under Construction,4.0,17300000.0
+PROP_00977,Mumbai,Andheri West,4.0,2521.0,4.0,Unfurnished,Under Construction,,194100000.0
+PROP_00978,Mumbai,Sewri,3.0,1133.0,3.0,Unfurnished,Ready to Move,2.0,58300000.0
+PROP_00979,Mumbai,Santacruz West,3.0,1100.0,3.0,Unfurnished,Under Construction,4.0,61200000.0
+PROP_00980,Mumbai,Virar West,1.0,395.0,1.0,Unfurnished,Ready to Move,2.0,4350000.0
+PROP_00981,Mumbai,Bandra East,3.0,1170.0,3.0,Unfurnished,Under Construction,,41500000.0
+PROP_00982,Mumbai,Bandra East,3.0,1113.0,3.0,Unfurnished,Under Construction,,59800000.00000001
+PROP_00983,Mumbai,Jogeshwari Vikhroli Link Road,4.0,1671.0,4.0,Unfurnished,Under Construction,3.0,42500000.0
+PROP_00984,Mumbai,Goregaon West,4.0,1891.0,4.0,Unfurnished,Ready to Move,,79000000.0
+PROP_00985,Mumbai,Andheri East,2.0,1377.0,2.0,Unfurnished,Ready to Move,,38000000.0
+PROP_00986,Mumbai,Mahim,2.0,762.0,2.0,Unfurnished,Under Construction,,40000000.0
+PROP_00987,Mumbai,Andheri West,2.0,714.0,2.0,Unfurnished,Ready to Move,,33900000.0
+PROP_00988,Mumbai,Dahisar East,3.0,841.0,3.0,Unfurnished,Ready to Move,,24300000.0
+PROP_00989,Mumbai,Borivali West,3.0,1108.0,3.0,Unfurnished,Under Construction,,35600000.0
+PROP_00990,Mumbai,Dadar West,3.0,1281.0,3.0,Unfurnished,Under Construction,,59500000.0
+PROP_00991,Mumbai,Virar West,3.0,823.0,3.0,Unfurnished,Under Construction,,8670000.0
+PROP_00992,Mumbai,Parel,5.0,2103.0,5.0,Unfurnished,Under Construction,4.0,115500000.0
+PROP_00993,Mumbai,Andheri West,2.0,1295.0,2.0,Unfurnished,Ready to Move,,45500000.0
+PROP_00994,Mumbai,Jogeshwari West,1.0,460.0,1.0,Unfurnished,Under Construction,1.0,12400000.0
+PROP_00995,Mumbai,Bhandup,3.0,912.0,3.0,Unfurnished,Ready to Move,2.0,24500000.0
+PROP_00996,Mumbai,Vile Parle East,5.0,1973.0,5.0,Unfurnished,Ready to Move,3.0,91500000.0
+PROP_00997,Mumbai,Matunga,3.0,1286.0,3.0,Unfurnished,Under Construction,,62500000.0
+PROP_00998,Mumbai,Wadala East,4.0,1137.0,4.0,Unfurnished,Under Construction,,32100000.0
+PROP_00999,Mumbai,Andheri West,4.0,1789.0,4.0,Unfurnished,Ready to Move,1.0,63099999.99999999
+PROP_01000,Mumbai,Powai,4.0,2000.0,4.0,Unfurnished,Under Construction,,77500000.0
+PROP_01001,Mumbai,Vikhroli,3.0,1410.0,3.0,Unfurnished,Under Construction,,64500000.0
+PROP_01002,Mumbai,Juhu,5.0,3700.0,5.0,Unfurnished,Under Construction,,239200000.00000003
+PROP_01003,Mumbai,Sion West,4.0,2006.0,4.0,Unfurnished,Under Construction,,77100000.0
+PROP_01004,Mumbai,Mahalakshmi,5.0,6103.0,5.0,Unfurnished,Ready to Move,,495400000.0
+PROP_01005,Mumbai,Nahur East,3.0,1125.0,3.0,Unfurnished,Under Construction,,32700000.0
+PROP_01006,Mumbai,Chembur,2.0,554.0,2.0,Unfurnished,Under Construction,,15500000.0
+PROP_01007,Mumbai,Powai,3.0,1223.0,3.0,Unfurnished,Under Construction,,70000000.0
+PROP_01008,Mumbai,Andheri East,3.0,1466.0,3.0,Unfurnished,Under Construction,,39600000.0
+PROP_01009,Mumbai,Chembur,1.0,360.0,1.0,Semi-Furnished,Under Construction,,9900000.0
+PROP_01010,Mumbai,Santacruz East,2.0,741.0,2.0,Unfurnished,Under Construction,,26700000.0
+PROP_01011,Mumbai,Mulund West,3.0,1000.0,3.0,Unfurnished,Under Construction,,28500000.0
+PROP_01012,Mumbai,Borivali West,2.0,701.0,2.0,Unfurnished,Under Construction,,22800000.0
+PROP_01013,Mumbai,Chembur East,1.0,435.0,1.0,Unfurnished,Under Construction,,13500000.0
+PROP_01014,Mumbai,Malad West,3.0,1125.0,3.0,Unfurnished,Under Construction,,31500000.0
+PROP_01015,Mumbai,Kandivali West,1.0,430.0,1.0,Unfurnished,Under Construction,,12600000.0
+PROP_01016,Mumbai,Chembur,3.0,960.0,3.0,Unfurnished,Under Construction,,33100000.0
+PROP_01017,Mumbai,Andheri West,3.0,1122.0,3.0,Unfurnished,Under Construction,,45300000.0
+PROP_01018,Mumbai,Jogeshwari East,2.0,648.0,2.0,Unfurnished,Under Construction,,19900000.0
+PROP_01019,Mumbai,Goregaon East,2.0,618.0,2.0,Unfurnished,Ready to Move,,19500000.0
+PROP_01020,Mumbai,Vile Parle West,4.0,1967.0,4.0,Unfurnished,Under Construction,,94400000.0
+PROP_01021,Mumbai,Malad West,2.0,703.0,2.0,Unfurnished,Under Construction,,19700000.0
+PROP_01022,Mumbai,Bandra West,3.0,996.0,3.0,Semi-Furnished,Ready to Move,,72500000.0
+PROP_01023,Mumbai,Goregaon West,3.0,1036.0,3.0,Unfurnished,Ready to Move,,38000000.0
+PROP_01024,Mumbai,Andheri East,1.0,406.0,1.0,Unfurnished,Under Construction,,10700000.0
+PROP_01025,Mumbai,Kanjurmarg East,2.0,737.0,2.0,Unfurnished,Under Construction,,18700000.0
+PROP_01026,Mumbai,Chembur,2.0,800.0,2.0,Unfurnished,Under Construction,,32000000.0
+PROP_01027,Mumbai,Virar,2.0,645.0,2.0,Unfurnished,Ready to Move,150.0,8570000.0
+PROP_01028,Mumbai,Malad East,2.0,575.0,2.0,Unfurnished,Ready to Move,,14200000.0
+PROP_01029,Mumbai,Malad West,2.0,737.0,2.0,Unfurnished,Ready to Move,,25900000.0
+PROP_01030,Mumbai,Mahim,2.0,812.0,2.0,Unfurnished,Under Construction,,36500000.0
+PROP_01031,Mumbai,Kanjurmarg East,1.0,401.0,1.0,Unfurnished,Under Construction,,12400000.0
+PROP_01032,Mumbai,Chembur,2.0,535.0,2.0,Semi-Furnished,Ready to Move,,35000000.0
+PROP_01033,Mumbai,Andheri East,1.0,500.0,1.0,Unfurnished,Under Construction,,14900000.0
+PROP_01034,Mumbai,Kandivali East,4.0,1200.0,4.0,Unfurnished,Ready to Move,,34900000.0
+PROP_01035,Mumbai,Andheri West,4.0,3000.0,4.0,Semi-Furnished,Ready to Move,,240000000.0
+PROP_01036,Mumbai,Mahalakshmi,3.0,1237.0,3.0,Unfurnished,Under Construction,,63000000.0
+PROP_01037,Mumbai,Vile Parle East,1.0,479.0,1.0,Semi-Furnished,Ready to Move,,23000000.0
+PROP_01038,Mumbai,Vile Parle East,3.0,950.0,3.0,Semi-Furnished,Ready to Move,,38500000.0
+PROP_01039,Mumbai,Mahalakshmi,3.0,1266.0,3.0,Unfurnished,Under Construction,,67700000.0
+PROP_01040,Mumbai,Ghatkopar East,3.0,1150.0,3.0,Semi-Furnished,Ready to Move,,38000000.0
+PROP_01041,Mumbai,Santacruz East,3.0,1100.0,3.0,Unfurnished,Ready to Move,,35500000.0
+PROP_01042,Mumbai,Powai,2.0,630.0,2.0,Semi-Furnished,Ready to Move,,31500000.0
+PROP_01043,Mumbai,Vikhroli East,2.0,857.0,2.0,Unfurnished,Ready to Move,,31800000.0
+PROP_01044,Mumbai,Juhu,3.0,2200.0,3.0,Unfurnished,Ready to Move,,159500000.0
+PROP_01045,Mumbai,Mulund West,3.0,1265.0,3.0,Furnished,Ready to Move,,33500000.0
+PROP_01046,Mumbai,Juhu,4.0,1800.0,4.0,Unfurnished,Ready to Move,,100000000.0
+PROP_01047,Mumbai,Kanjurmarg East,3.0,1129.0,3.0,Semi-Furnished,Ready to Move,,34000000.0
+PROP_01048,Mumbai,Worli,4.0,3062.0,4.0,Unfurnished,Under Construction,,235800000.0
+PROP_01049,Mumbai,Borivali West,2.0,817.0,2.0,Unfurnished,Under Construction,,20400000.0
+PROP_01050,Mumbai,Kandivali West,1.0,406.0,1.0,Unfurnished,Under Construction,,12000000.0
+PROP_01051,Mumbai,Mulund West,1.0,472.0,1.0,Unfurnished,Under Construction,,14000000.0
+PROP_01052,Mumbai,Mahalakshmi,3.0,1650.0,3.0,Unfurnished,Under Construction,,135000000.0
+PROP_01053,Mumbai,Santacruz East,2.0,780.0,2.0,Furnished,Ready to Move,,22000000.0
+PROP_01054,Mumbai,Powai,2.0,775.0,2.0,Semi-Furnished,Ready to Move,10.0,27000000.0
+PROP_01055,Mumbai,Mulund West,3.0,1123.0,3.0,Unfurnished,Ready to Move,,36500000.0
+PROP_01056,Mumbai,Goregaon East,4.0,1986.0,4.0,Semi-Furnished,Ready to Move,,152100000.0
+PROP_01057,Mumbai,Dadar West,2.0,864.0,2.0,Unfurnished,Ready to Move,,51500000.0
+PROP_01058,Mumbai,Wadala East,2.0,925.0,2.0,Unfurnished,Ready to Move,,31000000.0
+PROP_01059,Mumbai,Juhu,4.0,1773.0,4.0,Unfurnished,Under Construction,,100500000.0
+PROP_01060,Mumbai,Andheri East,3.0,1150.0,3.0,Semi-Furnished,Ready to Move,,28000000.0
+PROP_01061,Mumbai,Andheri West,3.0,840.0,3.0,Furnished,Ready to Move,,30000000.0
+PROP_01062,Mumbai,Andheri West,3.0,1350.0,3.0,Unfurnished,Ready to Move,,52400000.0
+PROP_01063,Mumbai,Wadala East,3.0,977.0,3.0,Unfurnished,Under Construction,,37000000.0
+PROP_01064,Mumbai,Andheri West,3.0,1283.0,3.0,Unfurnished,Under Construction,,60000000.0
+PROP_01065,Mumbai,Bandra East,2.0,708.0,2.0,Unfurnished,Under Construction,,20900000.0
+PROP_01066,Mumbai,Kandivali East,3.0,850.0,3.0,Unfurnished,Ready to Move,,22000000.0
+PROP_01067,Mumbai,Andheri West,2.0,640.0,2.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_01068,Mumbai,Kandivali East,3.0,1006.0,3.0,Unfurnished,Ready to Move,,43000000.0
+PROP_01069,Mumbai,Borivali West,3.0,1196.0,3.0,Unfurnished,Ready to Move,,55000000.0
+PROP_01070,Mumbai,Andheri East,3.0,1122.0,3.0,Unfurnished,Under Construction,,46100000.0
+PROP_01071,Mumbai,Kandivali West,2.0,742.0,2.0,Unfurnished,Ready to Move,,16299999.999999998
+PROP_01072,Mumbai,Bandra East,4.0,1657.0,4.0,Semi-Furnished,Ready to Move,,105000000.0
+PROP_01073,Mumbai,Prabhadevi,4.0,1720.0,4.0,Semi-Furnished,Ready to Move,,130000000.0
+PROP_01074,Mumbai,Santacruz East,3.0,889.0,3.0,Semi-Furnished,Ready to Move,,36500000.0
+PROP_01075,Mumbai,Andheri West,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,35000000.0
+PROP_01076,Mumbai,Powai,3.0,1165.0,3.0,Semi-Furnished,Ready to Move,,44000000.0
+PROP_01077,Mumbai,Powai,3.0,1045.0,3.0,Unfurnished,Ready to Move,,45000000.0
+PROP_01078,Mumbai,Powai,2.0,800.0,2.0,Unfurnished,Ready to Move,,25100000.0
+PROP_01079,Mumbai,Santacruz East,2.0,640.0,2.0,Semi-Furnished,Ready to Move,,25000000.0
+PROP_01080,Mumbai,Mira Road East,2.0,652.0,2.0,Semi-Furnished,Ready to Move,,11000000.0
+PROP_01081,Mumbai,Goregaon West,3.0,1340.0,3.0,Unfurnished,Under Construction,,52200000.0
+PROP_01082,Mumbai,Ghatkopar East,3.0,900.0,3.0,Unfurnished,Ready to Move,,26300000.0
+PROP_01083,Mumbai,Worli,3.0,1800.0,3.0,Semi-Furnished,Ready to Move,,110000000.0
+PROP_01084,Mumbai,Powai,1.0,480.0,1.0,Unfurnished,Ready to Move,,11000000.0
+PROP_01085,Mumbai,Powai,3.0,890.0,3.0,Semi-Furnished,Ready to Move,,37300000.0
+PROP_01086,Mumbai,Kurla West,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,21000000.0
+PROP_01087,Mumbai,Bandra East,4.0,1330.0,4.0,Semi-Furnished,Ready to Move,,53500000.0
+PROP_01088,Mumbai,Bhandup West,3.0,1233.0,3.0,Semi-Furnished,Ready to Move,,20500000.0
+PROP_01089,Mumbai,Kandivali East,4.0,3920.0,4.0,Unfurnished,Under Construction,,140000000.0
+PROP_01090,Mumbai,Bandra West,4.0,1752.0,4.0,Furnished,Ready to Move,,100000000.0
+PROP_01091,Mumbai,Worli,3.0,1850.0,3.0,Semi-Furnished,Ready to Move,,90000000.0
+PROP_01092,Mumbai,Worli,3.0,1374.0,3.0,Semi-Furnished,Ready to Move,,90000000.0
+PROP_01093,Mumbai,Kandivali West,3.0,1024.0,3.0,Unfurnished,Ready to Move,,36000000.0
+PROP_01094,Mumbai,Malad West,3.0,1200.0,3.0,Unfurnished,Ready to Move,,38000000.0
+PROP_01095,Mumbai,Prabhadevi,6.0,3000.0,5.0,Semi-Furnished,Ready to Move,,175000000.0
+PROP_01096,Mumbai,Jai Bhim Sanjay Nagar,3.0,1150.0,3.0,Unfurnished,Ready to Move,,45000000.0
+PROP_01097,Mumbai,Pestom Sagar Colony,1.0,416.0,1.0,Unfurnished,Under Construction,,8900000.0
+PROP_01098,Mumbai,Mahim West,3.0,1045.0,3.0,Unfurnished,Under Construction,,48000000.0
+PROP_01099,Mumbai,Kanjurmarg West,2.0,661.0,2.0,Furnished,Ready to Move,,17500000.0
+PROP_01100,Mumbai,Kandivali East,2.0,537.0,2.0,Unfurnished,Ready to Move,,13200000.0
+PROP_01101,Mumbai,Kandivali West,1.0,414.0,1.0,Unfurnished,Under Construction,,12500000.0
+PROP_01102,Mumbai,Worli,4.0,3692.0,4.0,Unfurnished,Under Construction,,443000000.0
+PROP_01103,Mumbai,Worli,3.0,1300.0,3.0,Unfurnished,Under Construction,,91000000.0
+PROP_01104,Mumbai,Unknown,3.0,1000.0,3.0,Semi-Furnished,Ready to Move,,33500000.0
+PROP_01105,Mumbai,Bhandup West,3.0,1256.0,3.0,Unfurnished,Under Construction,,31400000.0
+PROP_01106,Mumbai,Sion,1.0,375.0,1.0,Semi-Furnished,Under Construction,,13500000.0
+PROP_01107,Mumbai,Borivali West,3.0,1380.0,3.0,Semi-Furnished,Under Construction,,49900000.0
+PROP_01108,Mumbai,Kandivali East,1.0,432.0,1.0,Unfurnished,Under Construction,,13799999.999999998
+PROP_01109,Mumbai,Kandivali East,3.0,865.0,3.0,Unfurnished,Under Construction,,20300000.0
+PROP_01110,Mumbai,Andheri West,4.0,2800.0,4.0,Furnished,Ready to Move,,210000000.0
+PROP_01111,Mumbai,Malad West,3.0,1233.0,3.0,Furnished,Ready to Move,,47100000.0
+PROP_01112,Mumbai,Swastik Park,3.0,1100.0,3.0,Semi-Furnished,Ready to Move,,32500000.0
+PROP_01113,Mumbai,Wadala,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,22500000.0
+PROP_01114,Mumbai,Matunga East,3.0,1227.0,3.0,Unfurnished,Under Construction,,56000000.0
+PROP_01115,Mumbai,Ghatkopar East,3.0,1054.0,3.0,Unfurnished,Under Construction,,43600000.0
+PROP_01116,Mumbai,Sai Nagar Kandivali West,2.0,750.0,2.0,Unfurnished,Under Construction,,18000000.0
+PROP_01117,Mumbai,Andheri West,4.0,1700.0,4.0,Furnished,Ready to Move,,92500000.0
+PROP_01118,Mumbai,Mulund East,1.0,438.0,1.0,Unfurnished,Under Construction,,11000000.0
+PROP_01119,Mumbai,Mindspace,2.0,664.0,2.0,Unfurnished,Under Construction,,21500000.0
+PROP_01120,Mumbai,Borivali East,2.0,648.0,2.0,Unfurnished,Under Construction,,17000000.0
+PROP_01121,Mumbai,Bhoiwada,3.0,1227.0,3.0,Semi-Furnished,Under Construction,,65800000.0
+PROP_01122,Mumbai,Mulund East,3.0,1099.0,3.0,Unfurnished,Under Construction,,23000000.0
+PROP_01123,Mumbai,Deonar Chembur,3.0,938.0,3.0,Unfurnished,Under Construction,,34300000.0
+PROP_01124,Mumbai,Unknown,2.0,758.0,2.0,Furnished,Ready to Move,,33000000.0
+PROP_01125,Mumbai,Mahim West,4.0,1667.0,4.0,Semi-Furnished,Under Construction,,78000000.0
+PROP_01126,Mumbai,Malad West,1.0,448.0,1.0,Unfurnished,Under Construction,,11200000.000000002
+PROP_01127,Mumbai,Lower Parel West,5.0,2077.0,5.0,Semi-Furnished,Under Construction,,117100000.0
+PROP_01128,Mumbai,Hanuman Tekdi Kanjurmarg West,3.0,1129.0,3.0,Unfurnished,Ready to Move,,37500000.0
+PROP_01129,Mumbai,Prabhadevi,2.0,600.0,2.0,Semi-Furnished,Ready to Move,10.0,30000000.0
+PROP_01130,Mumbai,Sarvodaya Nagar Mulund West,2.0,580.0,2.0,Unfurnished,Under Construction,,16000000.0
+PROP_01131,Mumbai,Anand Nagar Dahisar East,2.0,701.0,2.0,Unfurnished,Under Construction,,21000000.0
+PROP_01132,Mumbai,Chembur East,3.0,1080.0,3.0,Unfurnished,Ready to Move,,40000000.0
+PROP_01133,Mumbai,Dadar West,2.0,818.0,2.0,Unfurnished,Under Construction,,36000000.0
+PROP_01134,Mumbai,Azad Nagar Parel,3.0,1029.0,3.0,Semi-Furnished,Under Construction,,173600000.0
+PROP_01135,Mumbai,Sector 9 Charkop,1.0,450.0,1.0,Furnished,Ready to Move,,9800000.0
+PROP_01136,Mumbai,Chembur,3.0,1100.0,3.0,Unfurnished,Ready to Move,,48500000.0
+PROP_01137,Mumbai,Central Area,3.0,1068.0,3.0,Unfurnished,Under Construction,,34100000.0
+PROP_01138,Mumbai,Vakola,2.0,677.0,2.0,Unfurnished,Under Construction,,19900000.0
+PROP_01139,Mumbai,Worli,2.0,660.0,2.0,Unfurnished,Under Construction,,41000000.0
+PROP_01140,Mumbai,Mulund West,2.0,1338.0,2.0,Semi-Furnished,Ready to Move,,32500000.0
+PROP_01141,Mumbai,Chembur,3.0,1305.0,3.0,Unfurnished,Ready to Move,,65000000.0
+PROP_01142,Mumbai,Chikhal Dongari,2.0,559.0,2.0,Semi-Furnished,Ready to Move,,4700000.0
+PROP_01143,Mumbai,IC Colony,2.0,820.0,2.0,Unfurnished,Under Construction,,28700000.0
+PROP_01144,Mumbai,Malad West,4.0,2061.0,4.0,Unfurnished,Ready to Move,,74400000.0
+PROP_01145,Mumbai,Mulund West,3.0,1083.0,3.0,Unfurnished,Ready to Move,,35000000.0
+PROP_01146,Mumbai,Byculla East,2.0,621.0,2.0,Unfurnished,Under Construction,,30500000.0
+PROP_01147,Mumbai,Vinay Nagar,2.0,629.0,2.0,Unfurnished,Under Construction,,10500000.0
+PROP_01148,Mumbai,Daulat Nagar Borivali East,1.0,425.0,1.0,Unfurnished,Under Construction,1.0,13700000.000000002
+PROP_01149,Mumbai,Kandivali West,2.0,619.0,2.0,Unfurnished,Under Construction,,14500000.0
+PROP_01150,Mumbai,Spring Mill Complex,3.0,1283.0,3.0,Semi-Furnished,Under Construction,,64100000.0
+PROP_01151,Mumbai,Mulund East,2.0,745.0,2.0,Unfurnished,Under Construction,,19500000.0
+PROP_01152,Mumbai,Kandivali East,2.0,650.0,2.0,Unfurnished,Ready to Move,,18500000.0
+PROP_01153,Mumbai,Sector 1 Charkop,1.0,415.0,1.0,Unfurnished,Under Construction,,11000000.0
+PROP_01154,Mumbai,New Link Road,4.0,1400.0,4.0,Unfurnished,Ready to Move,,45000000.0
+PROP_01155,Mumbai,Mulund East,2.0,566.0,2.0,Unfurnished,Under Construction,,15400000.0
+PROP_01156,Mumbai,Jogeshwari East,3.0,911.0,3.0,Unfurnished,Under Construction,,31000000.0
+PROP_01157,Mumbai,Goregaon West,2.0,785.0,2.0,Unfurnished,Under Construction,,27500000.0
+PROP_01158,Mumbai,Malad West,3.0,685.0,3.0,Unfurnished,Under Construction,,17500000.0
+PROP_01159,Mumbai,Andheri West,4.0,1450.0,4.0,Unfurnished,Under Construction,,65000000.0
+PROP_01160,Mumbai,Bhandup West,2.0,478.0,2.0,Unfurnished,Under Construction,,12000000.0
+PROP_01161,Mumbai,Mahalakshmi,4.0,2259.0,4.0,Semi-Furnished,Under Construction,,170000000.0
+PROP_01162,Mumbai,Mulund West,2.0,708.0,2.0,Unfurnished,Under Construction,,18500000.0
+PROP_01163,Mumbai,Malad West,2.0,616.0,2.0,Unfurnished,Under Construction,,14900000.0
+PROP_01164,Mumbai,Malad East,2.0,770.0,2.0,Unfurnished,Ready to Move,,22400000.000000004
+PROP_01165,Mumbai,Kasam Nagar,4.0,1775.0,4.0,Semi-Furnished,Under Construction,,68200000.0
+PROP_01166,Mumbai,Vile Parle East,2.0,695.0,2.0,Unfurnished,Under Construction,,27100000.0
+PROP_01167,Mumbai,Worli,3.0,1266.0,3.0,Unfurnished,Ready to Move,,77900000.0
+PROP_01168,Mumbai,Akurli Nagar,2.0,578.0,2.0,Semi-Furnished,Under Construction,,11800000.0
+PROP_01169,Mumbai,Goregaon West,2.0,700.0,2.0,Unfurnished,Under Construction,,19500000.0
+PROP_01170,Mumbai,Lokhandwala Township Kandivali East,3.0,1140.0,3.0,Unfurnished,Ready to Move,,36500000.0
+PROP_01171,Mumbai,Malad West,2.0,758.0,2.0,Unfurnished,Under Construction,,26200000.0
+PROP_01172,Mumbai,Liberty Garden,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,20400000.0
+PROP_01173,Mumbai,Vile Parle East,2.0,680.0,2.0,Unfurnished,Ready to Move,,28400000.0
+PROP_01174,Mumbai,Sion East,3.0,1000.0,3.0,Unfurnished,Under Construction,,30000000.0
+PROP_01175,Mumbai,Bandra East,3.0,1057.0,3.0,Unfurnished,Ready to Move,,64300000.0
+PROP_01176,Mumbai,Chembur,3.0,922.0,3.0,Unfurnished,Under Construction,,26900000.0
+PROP_01177,Mumbai,Yashodham,3.0,1081.0,3.0,Semi-Furnished,Ready to Move,,65000000.0
+PROP_01178,Mumbai,Mira Road East,2.0,639.0,2.0,Semi-Furnished,Under Construction,,9840000.0
+PROP_01179,Mumbai,Kanchpada,2.0,615.0,2.0,Unfurnished,Ready to Move,,20000000.0
+PROP_01180,Mumbai,Unknown,3.0,1049.0,3.0,Unfurnished,Ready to Move,,30500000.0
+PROP_01181,Mumbai,Chembur East,3.0,1170.0,3.0,Semi-Furnished,Under Construction,,40000000.0
+PROP_01182,Mumbai,Borivali East,2.0,814.0,2.0,Unfurnished,Under Construction,,26500000.0
+PROP_01183,Mumbai,Lower Parel,3.0,2912.0,3.0,Semi-Furnished,Ready to Move,,110000000.0
+PROP_01184,Mumbai,Virar West,4.0,1458.0,4.0,Unfurnished,Ready to Move,,14200000.0
+PROP_01185,Mumbai,Marol,3.0,1145.0,3.0,Unfurnished,Under Construction,,30300000.0
+PROP_01186,Mumbai,Prabhat Colony,2.0,660.0,2.0,Unfurnished,Under Construction,,22400000.000000004
+PROP_01187,Mumbai,Magathane,2.0,1050.0,2.0,Unfurnished,Under Construction,,38300000.0
+PROP_01188,Mumbai,Kandivali East,1.0,428.0,1.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_01189,Mumbai,Malabar Hill,3.0,1550.0,3.0,Semi-Furnished,Ready to Move,,155000000.0
+PROP_01190,Mumbai,Triveni Nagar,3.0,715.0,3.0,Unfurnished,Under Construction,,15700000.0
+PROP_01191,Mumbai,Jogeshwari West,3.0,988.0,3.0,Unfurnished,Under Construction,,30000000.0
+PROP_01192,Mumbai,Jogeshwari West,2.0,605.0,2.0,Unfurnished,Under Construction,,18000000.0
+PROP_01193,Mumbai,LIC Housing Colony Mulund East,3.0,906.0,3.0,Unfurnished,Ready to Move,,21500000.0
+PROP_01194,Mumbai,Kanjurmarg East,3.0,1250.0,3.0,Semi-Furnished,Under Construction,,33600000.0
+PROP_01195,Mumbai,Borivali West,2.0,560.0,2.0,Unfurnished,Under Construction,,17500000.0
+PROP_01196,Mumbai,Bandra East,3.0,1283.0,3.0,Semi-Furnished,Ready to Move,,75000000.0
+PROP_01197,Mumbai,Khar West,4.0,1722.0,4.0,Semi-Furnished,Under Construction,,119900000.0
+PROP_01198,Mumbai,Dahanukar Wadi,2.0,620.0,2.0,Unfurnished,Under Construction,,18800000.0
+PROP_01199,Mumbai,Azad Nagar Andheri West,1.0,460.0,1.0,Semi-Furnished,Under Construction,,12400000.0
+PROP_01200,Mumbai,Irani Wadi,2.0,714.0,2.0,Semi-Furnished,Ready to Move,,20000000.0
+PROP_01201,Mumbai,Sangharsh Nagar,2.0,670.0,2.0,Unfurnished,Ready to Move,,25000000.0
+PROP_01202,Mumbai,Dahisar West,1.0,453.0,1.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_01203,Mumbai,Borivali West,3.0,1800.0,3.0,Furnished,Ready to Move,,52000000.0
+PROP_01204,Mumbai,Mira Bhayandar,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,10100000.0
+PROP_01205,Mumbai,Parel Village,1.0,390.0,1.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_01206,Mumbai,Virar West,2.0,573.0,2.0,Semi-Furnished,Ready to Move,,6600000.0
+PROP_01207,Mumbai,Lower Parel,2.0,680.0,2.0,Semi-Furnished,Ready to Move,,42600000.0
+PROP_01208,Mumbai,Ulhasnagar,1.0,494.0,1.0,Unfurnished,Under Construction,,3500000.0
+PROP_01209,Mumbai,Andheri East,2.0,600.0,2.0,Unfurnished,Ready to Move,,15000000.0
+PROP_01210,Mumbai,Mulund West,3.0,1100.0,3.0,Furnished,Ready to Move,,45000000.0
+PROP_01211,Mumbai,Kandivali East,4.0,2299.0,4.0,Furnished,Under Construction,,110000000.0
+PROP_01212,Mumbai,Kandivali West,1.0,457.0,1.0,Unfurnished,Ready to Move,,11500000.0
+PROP_01213,Mumbai,Senapati Bapat Marg,5.0,2301.0,5.0,Semi-Furnished,Ready to Move,,140900000.0
+PROP_01214,Mumbai,Mulund West,2.0,664.0,2.0,Unfurnished,Under Construction,,18100000.0
+PROP_01215,Mumbai,Lokhandwala Township Kandivali East,2.0,628.0,2.0,Unfurnished,Under Construction,,15500000.0
+PROP_01216,Mumbai,Kandivali East,3.0,1005.0,3.0,Unfurnished,Ready to Move,,33000000.0
+PROP_01217,Mumbai,Dadar East,3.0,1287.0,3.0,Unfurnished,Ready to Move,,67500000.0
+PROP_01218,Mumbai,Bhandup West,2.0,620.0,2.0,Unfurnished,Ready to Move,,14000000.0
+PROP_01219,Mumbai,Goregaon West,3.0,1346.0,3.0,Unfurnished,Ready to Move,,40000000.0
+PROP_01220,Mumbai,Dattapada,2.0,845.0,2.0,Furnished,Ready to Move,,32000000.0
+PROP_01221,Mumbai,Andheri East,3.0,1080.0,3.0,Unfurnished,Ready to Move,,35000000.0
+PROP_01222,Mumbai,Bandra Kurla Complex,3.0,1938.0,3.0,Furnished,Ready to Move,,72000000.0
+PROP_01223,Mumbai,Virar,2.0,510.0,2.0,Semi-Furnished,Ready to Move,,3700000.0
+PROP_01224,Mumbai,Goregaon West,2.0,750.0,2.0,Furnished,Ready to Move,,26500000.0
+PROP_01225,Mumbai,Model Town Govardhan Nagar,4.0,2100.0,4.0,Unfurnished,Ready to Move,,52000000.0
+PROP_01226,Mumbai,Juhu,2.0,640.0,2.0,Unfurnished,Ready to Move,,26000000.0
+PROP_01227,Mumbai,Lal Bahadur Shastri Road,3.0,981.0,3.0,Unfurnished,Under Construction,,24400000.0
+PROP_01228,Mumbai,Railway Police Colony,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,28000000.0
+PROP_01229,Mumbai,Bhandup West,3.0,1000.0,3.0,Furnished,Ready to Move,,25000000.0
+PROP_01230,Mumbai,Chembur East,3.0,960.0,3.0,Unfurnished,Under Construction,,28800000.0
+PROP_01231,Mumbai,Ghatkopar East,3.0,925.0,3.0,Unfurnished,Ready to Move,,34000000.0
+PROP_01232,Mumbai,Kandivali East,2.0,700.0,2.0,Furnished,Ready to Move,,17000000.0
+PROP_01233,Mumbai,Siddharth Nagar Goregaon West,2.0,500.0,2.0,Unfurnished,Ready to Move,,19500000.0
+PROP_01234,Mumbai,Dahisar East,2.0,637.0,2.0,Semi-Furnished,Ready to Move,,14600000.0
+PROP_01235,Mumbai,Mulund East,2.0,750.0,2.0,Unfurnished,Ready to Move,,20500000.0
+PROP_01236,Mumbai,Matanpur Nagar,1.0,373.0,1.0,Semi-Furnished,Ready to Move,,9050000.0
+PROP_01237,Mumbai,Santacruz West,4.0,1732.0,4.0,Unfurnished,Ready to Move,,130000000.0
+PROP_01238,Mumbai,Kandivali West,1.0,414.0,1.0,Unfurnished,Under Construction,,11200000.000000002
+PROP_01239,Mumbai,Andheri,3.0,1171.0,3.0,Unfurnished,Under Construction,,55000000.0
+PROP_01240,Mumbai,Oshiwara,4.0,1500.0,4.0,Furnished,Ready to Move,,62200000.0
+PROP_01241,Mumbai,Hiranandani Gardens,2.0,620.0,2.0,Semi-Furnished,Ready to Move,,32000000.0
+PROP_01242,Mumbai,Lokhandwala Complex Andheri West,4.0,1620.0,4.0,Semi-Furnished,Ready to Move,,92500000.0
+PROP_01243,Mumbai,Bhayandar East,1.0,550.0,1.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_01244,Mumbai,Kandivali East,1.0,475.0,1.0,Furnished,Ready to Move,,12800000.0
+PROP_01245,Mumbai,Virar East,1.0,225.0,1.0,Unfurnished,Ready to Move,,2000000.0
+PROP_01246,Mumbai,Gorai 3,2.0,650.0,2.0,Unfurnished,Ready to Move,,14500000.0
+PROP_01247,Mumbai,Girgaon,1.0,200.0,1.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_01248,Mumbai,Malad West,1.0,502.0,1.0,Semi-Furnished,Ready to Move,,15900000.0
+PROP_01249,Mumbai,Borivali East,3.0,1020.0,3.0,Furnished,Ready to Move,,33000000.0
+PROP_01250,Mumbai,Goregaon East,1.0,387.0,1.0,Semi-Furnished,Ready to Move,,12700000.0
+PROP_01251,Mumbai,Andheri West,2.0,800.0,2.0,Furnished,Ready to Move,,36000000.0
+PROP_01252,Mumbai,Malad West,2.0,617.0,2.0,Unfurnished,Ready to Move,,18500000.0
+PROP_01253,Mumbai,Parekh Nagar Kandivali West,3.0,1115.0,3.0,Semi-Furnished,Ready to Move,,40700000.0
+PROP_01254,Mumbai,Lokhandwala Township Kandivali East,3.0,985.0,3.0,Unfurnished,Under Construction,,25800000.0
+PROP_01255,Mumbai,Mira Road Area,1.0,416.0,1.0,Unfurnished,Under Construction,,6900000.0
+PROP_01256,Mumbai,Bangur Nagar,3.0,1084.0,3.0,Unfurnished,Ready to Move,15.0,40000000.0
+PROP_01257,Mumbai,Borivali East,3.0,1350.0,3.0,Furnished,Ready to Move,,32200000.000000004
+PROP_01258,Mumbai,Swastik Park,4.0,1525.0,4.0,Furnished,Ready to Move,,50000000.0
+PROP_01259,Mumbai,Ashok Nagar Collector Colony,3.0,960.0,3.0,Unfurnished,Under Construction,,32500000.0
+PROP_01260,Mumbai,Malad West,3.0,1065.0,3.0,Unfurnished,Ready to Move,,33200000.0
+PROP_01261,Mumbai,Chowpatty Seaface Road,4.0,3500.0,4.0,Unfurnished,Ready to Move,,600000000.0
+PROP_01262,Mumbai,Sonapur Bhandup West,2.0,550.0,2.0,Unfurnished,Under Construction,,12900000.0
+PROP_01263,Mumbai,Navneeth Colony,2.0,661.0,2.0,Semi-Furnished,Ready to Move,,18500000.0
+PROP_01264,Mumbai,Borivali East,3.0,1007.0,3.0,Unfurnished,Ready to Move,,33000000.0
+PROP_01265,Mumbai,Mulund West,3.0,1090.0,3.0,Unfurnished,Ready to Move,,31200000.0
+PROP_01266,Mumbai,Borivali East,3.0,1630.0,3.0,Unfurnished,Ready to Move,,75000000.0
+PROP_01267,Mumbai,Central Avenue Road,4.0,1500.0,4.0,Unfurnished,Ready to Move,,55000000.0
+PROP_01268,Mumbai,Vinay Nagar,2.0,588.0,2.0,Unfurnished,Under Construction,,9980000.0
+PROP_01269,Mumbai,Bhawani Sankar,2.0,818.0,2.0,Unfurnished,Under Construction,,34800000.0
+PROP_01270,Mumbai,Kurla East,1.0,446.0,1.0,Unfurnished,Ready to Move,,10000000.0
+PROP_01271,Mumbai,Chembur,5.0,3300.0,5.0,Semi-Furnished,Ready to Move,,180000000.0
+PROP_01272,Mumbai,Waterfield Road,3.0,875.0,3.0,Semi-Furnished,Ready to Move,,57500000.0
+PROP_01273,Mumbai,Jacob Circle,3.0,1800.0,3.0,Unfurnished,Ready to Move,,70000000.0
+PROP_01274,Mumbai,Malad West,3.0,1037.0,3.0,Unfurnished,Ready to Move,,29900000.000000004
+PROP_01275,Mumbai,Dahanukar Wadi,2.0,575.0,2.0,Unfurnished,Ready to Move,,14000000.0
+PROP_01276,Mumbai,Vinay Nagar,1.0,391.0,1.0,Unfurnished,Ready to Move,,5920000.0
+PROP_01277,Mumbai,JVPD Scheme,3.0,1150.0,3.0,Unfurnished,Ready to Move,,65000000.0
+PROP_01278,Mumbai,Ghatkopar West,2.0,730.0,2.0,Semi-Furnished,Ready to Move,,32500000.0
+PROP_01279,Mumbai,JB Nagar,3.0,969.0,3.0,Unfurnished,Under Construction,,31900000.0
+PROP_01280,Mumbai,Chandan Wadi,2.0,902.0,2.0,Semi-Furnished,Under Construction,,75700000.0
+PROP_01281,Mumbai,Mahalakshmi,3.0,1062.0,3.0,Unfurnished,Ready to Move,,62500000.0
+PROP_01282,Mumbai,Bhandup West,5.0,2150.0,5.0,Unfurnished,Under Construction,,67000000.0
+PROP_01283,Mumbai,Defence Colony,2.0,751.0,2.0,Unfurnished,Under Construction,,32000000.0
+PROP_01284,Mumbai,Beverly Park,2.0,702.0,2.0,Unfurnished,Under Construction,,18900000.0
+PROP_01285,Mumbai,Mulund East,2.0,653.0,2.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_01286,Mumbai,Mira Road East,2.0,574.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_01287,Mumbai,Kandivali West,2.0,600.0,2.0,Semi-Furnished,Ready to Move,,14800000.0
+PROP_01288,Mumbai,Wadala,2.0,604.0,2.0,Semi-Furnished,Ready to Move,,19500000.0
+PROP_01289,Mumbai,Matunga East,3.0,1200.0,3.0,Semi-Furnished,Ready to Move,,79900000.0
+PROP_01290,Mumbai,Deonar Govandi East,3.0,850.0,3.0,Unfurnished,Ready to Move,,31000000.0
+PROP_01291,Mumbai,Kandivali East,2.0,624.0,2.0,Unfurnished,Ready to Move,,23800000.0
+PROP_01292,Mumbai,Yogi Hills,2.0,620.0,2.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_01293,Mumbai,Kshitij CHS,1.0,430.0,1.0,Semi-Furnished,Ready to Move,,11200000.000000002
+PROP_01294,Mumbai,Malad West,3.0,1100.0,3.0,Semi-Furnished,Ready to Move,,28500000.0
+PROP_01295,Mumbai,Parel,4.0,2455.0,4.0,Semi-Furnished,Ready to Move,,172500000.0
+PROP_01296,Mumbai,Walkeshwar Road,2.0,1000.0,2.0,Unfurnished,Ready to Move,,67500000.0
+PROP_01297,Mumbai,Wadala West,3.0,1250.0,3.0,Furnished,Ready to Move,,50000000.0
+PROP_01298,Mumbai,New Mandala,3.0,1305.0,3.0,Unfurnished,Ready to Move,,50000000.0
+PROP_01299,Mumbai,Borivali West,2.0,686.0,2.0,Furnished,Ready to Move,10.0,19000000.0
+PROP_01300,Mumbai,Palghar Naigaon East,2.0,570.0,2.0,Unfurnished,Ready to Move,,4600000.0
+PROP_01301,Mumbai,Borivali East,2.0,571.0,2.0,Semi-Furnished,Ready to Move,,14200000.0
+PROP_01302,Mumbai,Vasai,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,8500000.0
+PROP_01303,Mumbai,Juhu,4.0,1789.0,4.0,Unfurnished,Ready to Move,,99000000.0
+PROP_01304,Mumbai,Poonam Nagar Jogeshwari East,3.0,850.0,3.0,Semi-Furnished,Ready to Move,,40000000.0
+PROP_01305,Mumbai,Andheri West,2.0,720.0,2.0,Unfurnished,Ready to Move,,26000000.0
+PROP_01306,Mumbai,Wadala East,2.0,980.0,2.0,Furnished,Ready to Move,5.0,38000000.0
+PROP_01307,Mumbai,Unknown,2.0,730.0,2.0,Semi-Furnished,Ready to Move,,28000000.0
+PROP_01308,Mumbai,Jogeshwari East,2.0,486.0,2.0,Furnished,Ready to Move,,15500000.0
+PROP_01309,Mumbai,Kandivali East,4.0,2214.0,4.0,Furnished,Ready to Move,,135000000.0
+PROP_01310,Mumbai,Kandivali West,1.0,443.0,1.0,Furnished,Ready to Move,,12500000.0
+PROP_01311,Mumbai,Dahisar,2.0,668.0,2.0,Furnished,Ready to Move,,15900000.0
+PROP_01312,Mumbai,Rajawadi Colony,2.0,735.0,2.0,Unfurnished,Ready to Move,,26000000.0
+PROP_01313,Mumbai,Bhandup East,2.0,656.0,2.0,Furnished,Ready to Move,,16500000.0
+PROP_01314,Mumbai,Jogeshwari,1.0,355.0,1.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_01315,Mumbai,Dahisar East,2.0,616.0,2.0,Semi-Furnished,Ready to Move,,18000000.0
+PROP_01316,Mumbai,Powai,4.0,1610.0,4.0,Unfurnished,Ready to Move,,93000000.0
+PROP_01317,Mumbai,Mulund West,3.0,1055.0,4.0,Semi-Furnished,Ready to Move,,33500000.0
+PROP_01318,Mumbai,Mulund East,3.0,1250.0,3.0,Furnished,Ready to Move,,23000000.0
+PROP_01319,Mumbai,Veena Nagar Phase II,2.0,920.0,2.0,Furnished,Ready to Move,,16500000.0
+PROP_01320,Mumbai,Ghatkopar West,2.0,630.0,2.0,Semi-Furnished,Ready to Move,,18000000.0
+PROP_01321,Mumbai,Andheri East,4.0,1866.0,4.0,Furnished,Ready to Move,,105000000.0
+PROP_01322,Mumbai,Chembur,5.0,2484.0,5.0,Unfurnished,Ready to Move,,130000000.0
+PROP_01323,Mumbai,Yashodham,5.0,1700.0,5.0,Semi-Furnished,Ready to Move,,70000000.0
+PROP_01324,Mumbai,Malad West,2.0,1080.0,2.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_01325,Mumbai,Kanjur Village,3.0,1360.0,3.0,Furnished,Ready to Move,,32000000.0
+PROP_01326,Mumbai,Siddharth Nagar Goregaon West,2.0,500.0,2.0,Unfurnished,Ready to Move,,14000000.0
+PROP_01327,Mumbai,Bhawani Sankar,2.0,840.0,2.0,Semi-Furnished,Ready to Move,,47000000.0
+PROP_01328,Mumbai,Kandarpada,2.0,637.0,2.0,Unfurnished,Under Construction,,15500000.0
+PROP_01329,Mumbai,Lower Parel West,4.0,2575.0,4.0,Semi-Furnished,Ready to Move,,160000000.0
+PROP_01330,Mumbai,Vikhroli West,1.0,430.0,1.0,Unfurnished,Ready to Move,,12700000.0
+PROP_01331,Mumbai,Chembur,2.0,825.0,2.0,Unfurnished,Ready to Move,,24000000.0
+PROP_01332,Mumbai,Goregaon West,2.0,599.0,2.0,Unfurnished,Under Construction,,15500000.0
+PROP_01333,Mumbai,Malad East,2.0,485.0,2.0,Semi-Furnished,Ready to Move,,20000000.0
+PROP_01334,Mumbai,Upper Govind Nagar,3.0,847.0,3.0,Furnished,Ready to Move,,27000000.0
+PROP_01335,Mumbai,JB Nagar,3.0,1077.0,3.0,Furnished,Ready to Move,,33500000.0
+PROP_01336,Mumbai,Marol,2.0,650.0,2.0,Furnished,Ready to Move,,18000000.0
+PROP_01337,Mumbai,Powai,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,19000000.0
+PROP_01338,Mumbai,Dahisar East,1.0,385.0,1.0,Unfurnished,Ready to Move,,8770000.0
+PROP_01339,Mumbai,Goregaon East,2.0,500.0,2.0,Semi-Furnished,Ready to Move,,9500000.0
+PROP_01340,Mumbai,Safed Pul,2.0,736.0,2.0,Unfurnished,Under Construction,,18000000.0
+PROP_01341,Mumbai,Bhayandar West,2.0,450.0,2.0,Furnished,Ready to Move,,9400000.0
+PROP_01342,Mumbai,Kandivali West,1.0,448.0,1.0,Unfurnished,Under Construction,,8900000.0
+PROP_01343,Mumbai,Juhu,4.0,2129.0,4.0,Unfurnished,Ready to Move,,150000000.0
+PROP_01344,Mumbai,Nala Sopara,2.0,740.0,2.0,Furnished,Ready to Move,,8200000.0
+PROP_01345,Mumbai,Santacruz East,2.0,578.0,2.0,Semi-Furnished,Ready to Move,,25000000.0
+PROP_01346,Mumbai,Jogeshwari East,2.0,677.0,2.0,Unfurnished,Under Construction,,22800000.0
+PROP_01347,Mumbai,Kandivali East,2.0,550.0,2.0,Unfurnished,Ready to Move,,16500000.0
+PROP_01348,Mumbai,Andheri East,1.0,511.0,1.0,Semi-Furnished,Ready to Move,,9500000.0
+PROP_01349,Mumbai,Swami Vivekananda Road,2.0,775.0,2.0,Unfurnished,Under Construction,,21200000.0
+PROP_01350,Mumbai,Chandivali,2.0,747.0,2.0,Unfurnished,Ready to Move,,22500000.0
+PROP_01351,Mumbai,Babrekar Nagar Kandivali West,2.0,590.0,2.0,Unfurnished,Ready to Move,,17000000.0
+PROP_01352,Mumbai,Dharavi,2.0,520.0,2.0,Semi-Furnished,Ready to Move,,22500000.0
+PROP_01353,Mumbai,Santacruz West,3.0,1401.0,3.0,Semi-Furnished,Ready to Move,,87500000.0
+PROP_01354,Mumbai,Vikhroli East,1.0,591.0,1.0,Unfurnished,Ready to Move,,15000000.0
+PROP_01355,Mumbai,Evershine Nagar,3.0,910.0,3.0,Semi-Furnished,Ready to Move,20.0,19500000.0
+PROP_01356,Mumbai,Bhandup East,2.0,418.0,2.0,Semi-Furnished,Ready to Move,,8400000.0
+PROP_01357,Mumbai,Andheri West,2.0,824.0,2.0,Unfurnished,Under Construction,,29500000.0
+PROP_01358,Mumbai,Malad West,2.0,750.0,2.0,Unfurnished,Ready to Move,,19900000.0
+PROP_01359,Mumbai,Prabhadevi,1.0,225.0,1.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_01360,Mumbai,Malad West,1.0,436.0,1.0,Unfurnished,Under Construction,,11700000.0
+PROP_01361,Mumbai,Pant Nagar,3.0,1074.0,3.0,Furnished,Ready to Move,,34000000.0
+PROP_01362,Mumbai,Hiranandani Gardens,5.0,4000.0,5.0,Semi-Furnished,Ready to Move,10.0,230000000.0
+PROP_01363,Mumbai,Virar East,1.0,520.0,1.0,Unfurnished,Ready to Move,,3900000.0
+PROP_01364,Mumbai,Nirmal Nagar Mulund West,2.0,659.0,2.0,Unfurnished,Ready to Move,,20000000.0
+PROP_01365,Mumbai,Goregaon East,3.0,997.0,3.0,Semi-Furnished,Ready to Move,,43000000.0
+PROP_01366,Mumbai,Sai Dham Nagar Charkop Gaon,2.0,691.0,2.0,Furnished,Ready to Move,,20000000.0
+PROP_01367,Mumbai,Raheja Township,1.0,400.0,1.0,Unfurnished,Ready to Move,,12500000.0
+PROP_01368,Mumbai,Mulund West,2.0,750.0,2.0,Unfurnished,Ready to Move,,16000000.0
+PROP_01369,Mumbai,Vile Parle East,3.0,780.0,3.0,Furnished,Ready to Move,,36000000.0
+PROP_01370,Mumbai,Mathuradas Road,2.0,781.0,2.0,Furnished,Ready to Move,,26000000.0
+PROP_01371,Mumbai,Dahisar East,2.0,650.0,2.0,Unfurnished,Ready to Move,,19500000.0
+PROP_01372,Mumbai,Four Bungalows,3.0,800.0,3.0,Furnished,Ready to Move,,30000000.0
+PROP_01373,Mumbai,Malad East,3.0,1230.0,3.0,Semi-Furnished,Ready to Move,,43000000.0
+PROP_01374,Mumbai,Vakola,1.0,485.0,1.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_01375,Mumbai,Bandra West,3.0,1600.0,3.0,Furnished,Ready to Move,,170000000.0
+PROP_01376,Mumbai,Juhu,4.0,1310.0,4.0,Furnished,Ready to Move,,90000000.0
+PROP_01377,Mumbai,Santacruz West,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,37500000.0
+PROP_01378,Mumbai,Irla,3.0,890.0,3.0,Unfurnished,Ready to Move,,39500000.0
+PROP_01379,Mumbai,Dahisar East,3.0,1106.0,3.0,Unfurnished,Ready to Move,,29500000.0
+PROP_01380,Mumbai,Sunder Nagar Malad West,4.0,1900.0,4.0,Furnished,Ready to Move,,57000000.0
+PROP_01381,Mumbai,Gundavali Gaothan,3.0,1015.0,3.0,Semi-Furnished,Ready to Move,,30000000.0
+PROP_01382,Mumbai,Mira Road Area,2.0,750.0,2.0,Furnished,Ready to Move,,17000000.0
+PROP_01383,Mumbai,Mulund East,3.0,1061.0,3.0,Unfurnished,Ready to Move,,22000000.0
+PROP_01384,Mumbai,Meghwadi Lal Baug,1.0,550.0,1.0,Semi-Furnished,Ready to Move,,22500000.0
+PROP_01385,Mumbai,Marol,1.0,480.0,1.0,Unfurnished,Ready to Move,,14500000.0
+PROP_01386,Mumbai,Wadala East,2.0,535.0,2.0,Unfurnished,Under Construction,,18800000.0
+PROP_01387,Mumbai,Siddheshwar Nagar,1.0,333.0,1.0,Unfurnished,Ready to Move,,12000000.0
+PROP_01388,Mumbai,Gavanpada Mulund East,1.0,415.0,1.0,Unfurnished,Ready to Move,,9000000.0
+PROP_01389,Mumbai,Matunga West,3.0,1190.0,3.0,Furnished,Ready to Move,,62500000.0
+PROP_01390,Mumbai,Santacruz East,1.0,636.0,1.0,Unfurnished,Ready to Move,,17100000.0
+PROP_01391,Mumbai,Mira Road Area,1.0,433.0,1.0,Semi-Furnished,Ready to Move,,7700000.0
+PROP_01392,Mumbai,Lokhandwala Township Kandivali East,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,22000000.0
+PROP_01393,Mumbai,Jankalyan Nagar,2.0,636.0,2.0,Furnished,Ready to Move,,18500000.0
+PROP_01394,Mumbai,Mulund East,2.0,600.0,2.0,Furnished,Ready to Move,,16500000.0
+PROP_01395,Mumbai,Bandra West,6.0,1140.0,5.0,Semi-Furnished,Under Construction,,68000000.0
+PROP_01396,Mumbai,Mulund West,2.0,585.0,2.0,Semi-Furnished,Ready to Move,,12500000.0
+PROP_01397,Mumbai,Byculla West,2.0,950.0,2.0,Furnished,Ready to Move,,26500000.0
+PROP_01398,Mumbai,Pant Nagar,3.0,1150.0,3.0,Semi-Furnished,Ready to Move,,45900000.0
+PROP_01399,Mumbai,Hiranandani Gardens,3.0,1250.0,3.0,Semi-Furnished,Ready to Move,,63000000.0
+PROP_01400,Mumbai,Mulund West,2.0,715.0,2.0,Semi-Furnished,Ready to Move,20.0,10000000.0
+PROP_01401,Mumbai,Vasai,1.0,525.0,1.0,Semi-Furnished,Ready to Move,,3200000.0
+PROP_01402,Mumbai,Veena Nagar,2.0,740.0,2.0,Semi-Furnished,Ready to Move,,16500000.0
+PROP_01403,Mumbai,Goregaon West,1.0,440.0,1.0,Unfurnished,Ready to Move,,11800000.0
+PROP_01404,Mumbai,Prabhadevi,4.0,1200.0,4.0,Semi-Furnished,Ready to Move,10.0,49800000.00000001
+PROP_01405,Mumbai,Raheja Township,2.0,606.0,2.0,Furnished,Ready to Move,,22500000.0
+PROP_01406,Mumbai,Sarvodaya Nagar Mulund West,3.0,851.0,3.0,Unfurnished,Ready to Move,,24000000.0
+PROP_01407,Mumbai,Borivali East,2.0,650.0,2.0,Furnished,Ready to Move,,22500000.0
+PROP_01408,Mumbai,Juhu,3.0,820.0,3.0,Semi-Furnished,Ready to Move,,39500000.0
+PROP_01409,Mumbai,Malad East,3.0,902.0,3.0,Unfurnished,Ready to Move,,33000000.0
+PROP_01410,Mumbai,Chembur,2.0,740.0,2.0,Furnished,Ready to Move,,30000000.0
+PROP_01411,Mumbai,Vasai East,2.0,785.0,2.0,Semi-Furnished,Ready to Move,,7000000.0
+PROP_01412,Mumbai,Premier Residencies,2.0,710.0,2.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_01413,Mumbai,Andheri East,2.0,750.0,2.0,Semi-Furnished,Ready to Move,,20500000.0
+PROP_01414,Mumbai,Kandivali East,2.0,600.0,2.0,Semi-Furnished,Ready to Move,,13500000.0
+PROP_01415,Mumbai,Eksar,1.0,490.0,1.0,Semi-Furnished,Ready to Move,8.0,13000000.0
+PROP_01416,Mumbai,Tata Colony Mulund East,2.0,685.0,2.0,Semi-Furnished,Ready to Move,,16800000.0
+PROP_01417,Mumbai,Model Town Govardhan Nagar,6.0,2900.0,5.0,Furnished,Ready to Move,,81000000.0
+PROP_01418,Mumbai,Upper Govind Nagar,2.0,788.0,2.0,Furnished,Ready to Move,,21500000.0
+PROP_01419,Mumbai,Sindhi Society Chembur,2.0,649.0,2.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_01420,Mumbai,Malad West,3.0,795.0,3.0,Unfurnished,Ready to Move,,25000000.0
+PROP_01421,Mumbai,Girgaon,1.0,447.0,1.0,Furnished,Ready to Move,,24000000.0
+PROP_01422,Mumbai,Dahisar,2.0,573.0,2.0,Furnished,Ready to Move,5.0,14500000.0
+PROP_01423,Mumbai,Malad East,2.0,675.0,2.0,Furnished,Ready to Move,5.0,21000000.0
+PROP_01424,Mumbai,Vile Parle East,2.0,655.0,2.0,Unfurnished,Ready to Move,,30000000.0
+PROP_01425,Mumbai,Agripada,3.0,1000.0,3.0,Furnished,Ready to Move,,47500000.0
+PROP_01426,Mumbai,Four Bungalows,3.0,1352.0,3.0,Semi-Furnished,Ready to Move,,64800000.00000001
+PROP_01427,Mumbai,Jogeshwari West,3.0,1028.0,3.0,Unfurnished,Ready to Move,,27500000.0
+PROP_01428,Mumbai,Mahalakshmi,4.0,2019.0,4.0,Unfurnished,Under Construction,,116000000.0
+PROP_01429,Mumbai,Chandivali,2.0,765.0,2.0,Semi-Furnished,Ready to Move,,20500000.0
+PROP_01430,Mumbai,Goregaon West,2.0,783.0,2.0,Unfurnished,Ready to Move,,19500000.0
+PROP_01431,Mumbai,Oshiwara,2.0,529.0,2.0,Unfurnished,Ready to Move,,17500000.0
+PROP_01432,Mumbai,Saikrupa Society,1.0,328.0,1.0,Unfurnished,Ready to Move,,8000000.0
+PROP_01433,Mumbai,Nalasopara West,5.0,4500.0,5.0,Semi-Furnished,Ready to Move,,20000000.0
+PROP_01434,Mumbai,Borivali West,1.0,430.0,1.0,Furnished,Ready to Move,5.0,17000000.0
+PROP_01435,Mumbai,Saraswat Colony Potohar Nagar,2.0,804.0,2.0,Unfurnished,Ready to Move,,56200000.0
+PROP_01436,Mumbai,Goregaon East,1.0,485.0,1.0,Unfurnished,Ready to Move,,13700000.000000002
+PROP_01437,Mumbai,Bolinj,1.0,300.0,1.0,Unfurnished,Ready to Move,,1500000.0
+PROP_01438,Mumbai,Virar West,2.0,580.0,2.0,Semi-Furnished,Ready to Move,,4900000.0
+PROP_01439,Mumbai,Police Colony Kurla East,2.0,900.0,2.0,Unfurnished,Ready to Move,,16500000.0
+PROP_01440,Mumbai,Mira Road East,3.0,1120.0,3.0,Furnished,Ready to Move,,24100000.0
+PROP_01441,Mumbai,Gorai 1,3.0,1200.0,3.0,Unfurnished,Ready to Move,,30000000.0
+PROP_01442,Mumbai,Lokhandwala Complex Andheri West,6.0,4500.0,5.0,Furnished,Ready to Move,,240000000.0
+PROP_01443,Mumbai,Malad East,2.0,675.0,2.0,Semi-Furnished,Ready to Move,15.0,23000000.0
+PROP_01444,Mumbai,Chembur West,3.0,1403.0,3.0,Unfurnished,Ready to Move,,31000000.0
+PROP_01445,Mumbai,Virar West,2.0,538.0,2.0,Unfurnished,Ready to Move,,6600000.0
+PROP_01446,Mumbai,Bhandup West,2.0,485.0,2.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_01447,Mumbai,Siddharth Nagar Goregaon West,3.0,1004.0,3.0,Semi-Furnished,Ready to Move,,31500000.0
+PROP_01448,Mumbai,Royal Palms,1.0,2300.0,1.0,Furnished,Ready to Move,,35000000.0
+PROP_01449,Mumbai,Tagore Nagar,2.0,703.0,2.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_01450,Mumbai,Andheri East,3.0,795.0,3.0,Semi-Furnished,Ready to Move,,27500000.0
+PROP_01451,Mumbai,Colaba,4.0,4060.0,4.0,Furnished,Ready to Move,,200000000.0
+PROP_01452,Mumbai,Altamount Road,2.0,1200.0,2.0,Furnished,Ready to Move,20.0,120000000.0
+PROP_01453,Mumbai,Santacruz East,3.0,866.0,3.0,Semi-Furnished,Ready to Move,,36500000.0
+PROP_01454,Mumbai,Pathan Wadi,1.0,550.0,1.0,Semi-Furnished,Ready to Move,15.0,11500000.0
+PROP_01455,Mumbai,Mahim West,1.0,400.0,1.0,Furnished,Ready to Move,,21100000.0
+PROP_01456,Mumbai,LIC Colony Borivali West,1.0,474.0,1.0,Unfurnished,Ready to Move,,12100000.0
+PROP_01457,Mumbai,Andheri West,3.0,1100.0,3.0,Furnished,Ready to Move,,36000000.0
+PROP_01458,Mumbai,Kandivali East,2.0,600.0,2.0,Furnished,Ready to Move,,19500000.0
+PROP_01459,Mumbai,Malad East,3.0,900.0,3.0,Unfurnished,Ready to Move,,33000000.0
+PROP_01460,Mumbai,Santacruz East,1.0,634.0,1.0,Unfurnished,Ready to Move,15.0,13000000.0
+PROP_01461,Mumbai,Ghatkopar West,2.0,644.0,2.0,Furnished,Ready to Move,5.0,14000000.0
+PROP_01462,Mumbai,Vile Parle East,2.0,750.0,2.0,Furnished,Ready to Move,,30000000.0
+PROP_01463,Mumbai,Bhandup West,2.0,830.0,2.0,Unfurnished,Ready to Move,,14000000.0
+PROP_01464,Mumbai,Colaba,2.0,780.0,2.0,Semi-Furnished,Ready to Move,,65000000.0
+PROP_01465,Mumbai,Mulund East,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,23000000.0
+PROP_01466,Mumbai,Mulund West,3.0,1670.0,3.0,Furnished,Ready to Move,,41000000.0
+PROP_01467,Mumbai,Andheri West,3.0,1800.0,3.0,Furnished,Ready to Move,,88000000.0
+PROP_01468,Mumbai,Borivali East,3.0,1050.0,3.0,Unfurnished,Ready to Move,,37500000.0
+PROP_01469,Mumbai,Mhatre Wadi Dahisar West,1.0,300.0,1.0,Unfurnished,Ready to Move,,8000000.0
+PROP_01470,Mumbai,Chembur,4.0,1700.0,4.0,Unfurnished,Ready to Move,,72000000.0
+PROP_01471,Mumbai,Byculla,2.0,1100.0,2.0,Unfurnished,Ready to Move,,50000000.0
+PROP_01472,Mumbai,Vikhroli East,1.0,400.0,1.0,Furnished,Ready to Move,,10000000.0
+PROP_01473,Mumbai,Bhandup West,1.0,360.0,1.0,Furnished,Ready to Move,,8500000.0
+PROP_01474,Mumbai,Mira Road Area,1.0,322.0,1.0,Semi-Furnished,Ready to Move,,7300000.0
+PROP_01475,Mumbai,Malad West,2.0,892.0,2.0,Furnished,Ready to Move,,33500000.0
+PROP_01476,Mumbai,Andheri East,2.0,712.0,2.0,Unfurnished,Ready to Move,,25000000.0
+PROP_01477,Mumbai,Bhandup East,2.0,580.0,2.0,Semi-Furnished,Ready to Move,,14500000.0
+PROP_01478,Mumbai,Bandra Kurla Complex,2.0,665.0,2.0,Unfurnished,Ready to Move,,20900000.0
+PROP_01479,Mumbai,Sindhi Society Chembur,2.0,650.0,2.0,Semi-Furnished,Ready to Move,,24000000.0
+PROP_01480,Mumbai,Danda,4.0,1990.0,4.0,Semi-Furnished,Ready to Move,,170000000.0
+PROP_01481,Mumbai,Santacruz East,3.0,900.0,3.0,Furnished,Ready to Move,,25000000.0
+PROP_01482,Mumbai,Prabhadevi,3.0,1140.0,3.0,Unfurnished,Ready to Move,,60000000.0
+PROP_01483,Mumbai,Worli,3.0,1092.0,3.0,Semi-Furnished,Ready to Move,,63000000.0
+PROP_01484,Mumbai,Adarsh Nagar Jogeshwari West,2.0,900.0,2.0,Unfurnished,Ready to Move,,24500000.0
+PROP_01485,Mumbai,Goregaon,1.0,400.0,1.0,Unfurnished,Ready to Move,,9600000.0
+PROP_01486,Mumbai,Mira Road Area,3.0,1800.0,3.0,Semi-Furnished,Ready to Move,,27500000.0
+PROP_01487,Mumbai,Chincholi Bunder,3.0,852.0,3.0,Semi-Furnished,Ready to Move,,27500000.0
+PROP_01488,Mumbai,Lokmanya Tilak Road,3.0,1665.0,3.0,Furnished,Ready to Move,,50400000.0
+PROP_01489,Mumbai,Powai,2.0,950.0,2.0,Furnished,Ready to Move,,23000000.0
+PROP_01490,Mumbai,Hanuman Road,1.0,441.0,1.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_01491,Mumbai,Santacruz East,2.0,627.0,2.0,Furnished,Ready to Move,,24500000.0
+PROP_01492,Mumbai,Chembur East,4.0,1580.0,4.0,Unfurnished,Ready to Move,,68000000.0
+PROP_01493,Mumbai,Vinay Nagar,2.0,540.0,2.0,Semi-Furnished,Ready to Move,,11000000.0
+PROP_01494,Mumbai,Mulund West,3.0,1000.0,3.0,Unfurnished,Ready to Move,,28500000.0
+PROP_01495,Mumbai,Upper Worli,4.0,2200.0,4.0,Semi-Furnished,Ready to Move,,143000000.0
+PROP_01496,Mumbai,Vinay Nagar,1.0,490.0,1.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_01497,Mumbai,Dadar West,3.0,1800.0,3.0,Semi-Furnished,Ready to Move,,127500000.0
+PROP_01498,Mumbai,Krishna Nagar Powai,3.0,1223.0,3.0,Semi-Furnished,Ready to Move,,69000000.0
+PROP_01499,Mumbai,Seven Bungalows,2.0,710.0,2.0,Furnished,Ready to Move,,29000000.0
+PROP_01500,Mumbai,Gokuldham Colony Goregaon East,3.0,1121.0,3.0,Furnished,Ready to Move,,47500000.0
+PROP_01501,Mumbai,Somwari Bazar,2.0,503.0,2.0,Semi-Furnished,Ready to Move,,14400000.0
+PROP_01502,Mumbai,Palghar Naigaon East,1.0,387.0,1.0,Semi-Furnished,Ready to Move,,3600000.0
+PROP_01503,Mumbai,Sion East,2.0,750.0,2.0,Furnished,Ready to Move,,31500000.0
+PROP_01504,Mumbai,Bangur Nagar,2.0,664.0,2.0,Unfurnished,Under Construction,,36500000.0
+PROP_01505,Mumbai,Worli,3.0,950.0,3.0,Furnished,Ready to Move,,250000000.0
+PROP_01506,Mumbai,Jay Prakash Nagar Goregaon East,1.0,454.0,1.0,Unfurnished,Under Construction,,13500000.0
+PROP_01507,Mumbai,Pandurang Wadi Goregaon East,2.0,583.0,2.0,Unfurnished,Ready to Move,,17500000.0
+PROP_01508,Mumbai,Malad West,1.0,540.0,1.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_01509,Mumbai,Chembur,3.0,757.0,3.0,Unfurnished,Ready to Move,,41400000.0
+PROP_01510,Mumbai,Majas Wadi,2.0,980.0,2.0,Furnished,Ready to Move,,30000000.0
+PROP_01511,Mumbai,Tagore Nagar,2.0,530.0,2.0,Unfurnished,Ready to Move,,12000000.0
+PROP_01512,Mumbai,Chandivali,2.0,735.0,2.0,Furnished,Ready to Move,,20700000.0
+PROP_01513,Mumbai,Four Bungalows,1.0,450.0,1.0,Furnished,Ready to Move,,16000000.0
+PROP_01514,Mumbai,Borivali West,2.0,750.0,2.0,Furnished,Ready to Move,,22500000.0
+PROP_01515,Mumbai,Siddharth Nagar Goregaon West,3.0,997.0,3.0,Unfurnished,Ready to Move,,42000000.0
+PROP_01516,Mumbai,Goregaon West,2.0,763.0,2.0,Unfurnished,Ready to Move,,21000000.0
+PROP_01517,Mumbai,Kandarpada,1.0,440.0,1.0,Semi-Furnished,Ready to Move,,10000000.0
+PROP_01518,Mumbai,Santacruz West,3.0,1000.0,3.0,Semi-Furnished,Ready to Move,,45000000.0
+PROP_01519,Mumbai,Hiranandani Gardens,4.0,1960.0,4.0,Unfurnished,Ready to Move,10.0,117500000.0
+PROP_01520,Mumbai,Kandivali East,2.0,720.0,2.0,Unfurnished,Under Construction,,24500000.0
+PROP_01521,Mumbai,Andheri East,2.0,730.0,2.0,Furnished,Ready to Move,,20000000.0
+PROP_01522,Mumbai,Mulund West,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,15000000.0
+PROP_01523,Mumbai,Malad West,3.0,1100.0,3.0,Unfurnished,Ready to Move,,22000000.0
+PROP_01524,Mumbai,Borivali East,1.0,535.0,1.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_01525,Mumbai,Film City Road,2.0,650.0,2.0,Unfurnished,Ready to Move,,18000000.0
+PROP_01526,Mumbai,IC Colony,1.0,473.0,1.0,Unfurnished,Ready to Move,20.0,12200000.0
+PROP_01527,Mumbai,Goregaon East,2.0,658.0,2.0,Unfurnished,Ready to Move,,21500000.0
+PROP_01528,Mumbai,Goregaon West,2.0,525.0,2.0,Semi-Furnished,Ready to Move,,16000000.0
+PROP_01529,Mumbai,Chembur,1.0,400.0,1.0,Unfurnished,Ready to Move,10.0,13000000.0
+PROP_01530,Mumbai,Virar West,1.0,400.0,1.0,Unfurnished,Ready to Move,,5000000.0
+PROP_01531,Mumbai,Natwar Nagar,2.0,770.0,2.0,Semi-Furnished,Ready to Move,,22800000.0
+PROP_01532,Mumbai,Kurla West,2.0,663.0,2.0,Semi-Furnished,Ready to Move,,20000000.0
+PROP_01533,Mumbai,Raheja Township,1.0,350.0,1.0,Semi-Furnished,Ready to Move,,10000000.0
+PROP_01534,Mumbai,Unknown,2.0,675.0,2.0,Semi-Furnished,Ready to Move,,36000000.0
+PROP_01535,Mumbai,Collector Colony,3.0,1224.0,3.0,Unfurnished,Under Construction,,36700000.0
+PROP_01536,Mumbai,Juhu,3.0,1200.0,3.0,Semi-Furnished,Ready to Move,,62500000.0
+PROP_01537,Mumbai,Unknown,2.0,580.0,2.0,Semi-Furnished,Ready to Move,,40000000.0
+PROP_01538,Mumbai,Malad West,1.0,426.0,1.0,Semi-Furnished,Ready to Move,,13000000.0
+PROP_01539,Mumbai,Tunga Village,2.0,636.0,2.0,Semi-Furnished,Ready to Move,,22700000.0
+PROP_01540,Mumbai,Mulund West,4.0,1926.0,4.0,Unfurnished,Ready to Move,,67000000.0
+PROP_01541,Mumbai,Mulund West,3.0,752.0,3.0,Unfurnished,Ready to Move,,25000000.0
+PROP_01542,Mumbai,Borivali West,1.0,440.0,1.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_01543,Mumbai,Worli,4.0,1526.0,4.0,Furnished,Ready to Move,,110000000.0
+PROP_01544,Mumbai,Andheri East,1.0,731.0,1.0,Unfurnished,Ready to Move,,13000000.0
+PROP_01545,Mumbai,Gokuldham Colony Goregaon East,2.0,838.0,2.0,Unfurnished,Ready to Move,,28500000.0
+PROP_01546,Mumbai,Goregaon West,2.0,710.0,2.0,Unfurnished,Ready to Move,,25000000.0
+PROP_01547,Mumbai,Dina Bama Estate,1.0,450.0,1.0,Semi-Furnished,Ready to Move,,11000000.0
+PROP_01548,Mumbai,Shell Colony,2.0,556.0,2.0,Semi-Furnished,Under Construction,,14400000.0
+PROP_01549,Mumbai,Babhai Naka,1.0,330.0,1.0,Unfurnished,Ready to Move,,8800000.0
+PROP_01550,Mumbai,Udyog Nagar,3.0,880.0,3.0,Semi-Furnished,Ready to Move,,33300000.0
+PROP_01551,Mumbai,Borivali West,3.0,1100.0,3.0,Unfurnished,Ready to Move,,70000000.0
+PROP_01552,Mumbai,Churchgate,3.0,1500.0,3.0,Semi-Furnished,Ready to Move,,110000000.0
+PROP_01553,Mumbai,Khar West,3.0,1150.0,3.0,Semi-Furnished,Ready to Move,,80000000.0
+PROP_01554,Mumbai,Sewri,4.0,1788.0,4.0,Unfurnished,Under Construction,,103800000.0
+PROP_01555,Mumbai,Vile Parle,3.0,840.0,3.0,Semi-Furnished,Ready to Move,,38000000.0
+PROP_01556,Mumbai,Borivali West,2.0,647.0,2.0,Unfurnished,Ready to Move,,20000000.0
+PROP_01557,Mumbai,Wadala,2.0,946.0,2.0,Semi-Furnished,Ready to Move,510.0,35500000.0
+PROP_01558,Mumbai,Jogeshwari East,2.0,652.0,2.0,Unfurnished,Ready to Move,,17500000.0
+PROP_01559,Mumbai,Prabhadevi,3.0,1380.0,3.0,Unfurnished,Ready to Move,,52500000.0
+PROP_01560,Mumbai,Chandivali,3.0,1700.0,3.0,Semi-Furnished,Ready to Move,,95000000.0
+PROP_01561,Mumbai,Powai,4.0,1650.0,4.0,Semi-Furnished,Ready to Move,510.0,71500000.0
+PROP_01562,Mumbai,LIC Colony Borivali West,1.0,430.0,1.0,Unfurnished,Ready to Move,,10000000.0
+PROP_01563,Mumbai,Beverly Park,2.0,646.0,2.0,Semi-Furnished,Ready to Move,,8200000.0
+PROP_01564,Mumbai,Dadar West,3.0,1315.0,3.0,Furnished,Ready to Move,,67500000.0
+PROP_01565,Mumbai,Dadar West,3.0,1200.0,3.0,Furnished,Ready to Move,,50000000.0
+PROP_01566,Mumbai,Bandra West,2.0,1008.0,2.0,Furnished,Ready to Move,,70000000.0
+PROP_01567,Mumbai,Ghatkopar East,2.0,650.0,2.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_01568,Mumbai,Borivali West,3.0,726.0,3.0,Unfurnished,Ready to Move,,28500000.0
+PROP_01569,Mumbai,Siddharth Nagar Borivali East,1.0,414.0,1.0,Semi-Furnished,Ready to Move,,9800000.0
+PROP_01570,Mumbai,Mahim West,2.0,580.0,2.0,Unfurnished,Ready to Move,,35000000.0
+PROP_01571,Mumbai,Mulund West,3.0,875.0,3.0,Semi-Furnished,Ready to Move,,22500000.0
+PROP_01572,Mumbai,Matunga East,3.0,1296.0,3.0,Semi-Furnished,Ready to Move,,80300000.0
+PROP_01573,Mumbai,JVPD Scheme,4.0,2200.0,4.0,Unfurnished,Ready to Move,,200000000.0
+PROP_01574,Mumbai,Mira Road East,2.0,650.0,2.0,Semi-Furnished,Ready to Move,,11500000.0
+PROP_01575,Mumbai,Chembur,3.0,1550.0,3.0,Furnished,Ready to Move,,41000000.0
+PROP_01576,Mumbai,Chinchpada,2.0,680.0,2.0,Unfurnished,Ready to Move,,17500000.0
+PROP_01577,Mumbai,Mira Road Area,2.0,630.0,2.0,Unfurnished,Under Construction,,10900000.0
+PROP_01578,Mumbai,Andheri East,1.0,408.0,1.0,Unfurnished,Ready to Move,,11000000.0
+PROP_01579,Mumbai,Khar West,3.0,1150.0,3.0,Furnished,Ready to Move,,70000000.0
+PROP_01580,Mumbai,Unknown,2.0,652.0,2.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_01581,Mumbai,Unknown,2.0,554.0,2.0,Semi-Furnished,Ready to Move,,12500000.0
+PROP_01582,Mumbai,IC Colony,3.0,801.0,3.0,Semi-Furnished,Ready to Move,,22900000.0
+PROP_01583,Mumbai,Chembur East,2.0,1040.0,2.0,Semi-Furnished,Ready to Move,,21000000.0
+PROP_01584,Mumbai,Juhu Scheme,3.0,1240.0,3.0,Unfurnished,Ready to Move,,79500000.0
+PROP_01585,Mumbai,Four Bungalows,3.0,1200.0,3.0,Semi-Furnished,Ready to Move,,55000000.0
+PROP_01586,Mumbai,Kandivali East,2.0,1120.0,2.0,Furnished,Ready to Move,,21000000.0
+PROP_01587,Mumbai,Andheri East,2.0,730.0,2.0,Furnished,Ready to Move,,27500000.0
+PROP_01588,Mumbai,Mohili,1.0,381.0,1.0,Furnished,Under Construction,,9800000.0
+PROP_01589,Mumbai,Dahisar East,2.0,635.0,2.0,Unfurnished,Ready to Move,,9700000.0
+PROP_01590,Mumbai,Jay Prakash Nagar Goregaon East,1.0,485.0,1.0,Unfurnished,Ready to Move,,14000000.0
+PROP_01591,Mumbai,Andheri East,2.0,675.0,2.0,Furnished,Ready to Move,,18000000.0
+PROP_01592,Mumbai,Bandra East,2.0,650.0,2.0,Unfurnished,Ready to Move,,23500000.0
+PROP_01593,Mumbai,Mira Road Area,1.0,410.0,1.0,Unfurnished,Ready to Move,,5990000.0
+PROP_01594,Mumbai,Goregaon East,3.0,1380.0,3.0,Semi-Furnished,Ready to Move,,59700000.0
+PROP_01595,Mumbai,Prabhadevi,2.0,800.0,2.0,Unfurnished,Ready to Move,,47500000.0
+PROP_01596,Mumbai,Vakola,3.0,1155.0,3.0,Unfurnished,Ready to Move,,34000000.0
+PROP_01597,Mumbai,Chinchpada,2.0,740.0,2.0,Unfurnished,Ready to Move,,23500000.0
+PROP_01598,Mumbai,Andheri West,4.0,2200.0,4.0,Unfurnished,Ready to Move,,49000000.0
+PROP_01599,Mumbai,Bandra West,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,39500000.0
+PROP_01600,Mumbai,Malabar Hill,3.0,1750.0,3.0,Furnished,Ready to Move,,150000000.0
+PROP_01601,Mumbai,Goregaon,2.0,845.0,2.0,Unfurnished,Ready to Move,,28500000.0
+PROP_01602,Mumbai,Worli,5.0,5000.0,5.0,Semi-Furnished,Ready to Move,,400000000.0
+PROP_01603,Mumbai,Andheri East,1.0,400.0,1.0,Unfurnished,Ready to Move,,12000000.0
+PROP_01604,Mumbai,Powai,2.0,650.0,2.0,Unfurnished,Ready to Move,,20500000.0
+PROP_01605,Mumbai,Malad East,4.0,2060.0,4.0,Furnished,Ready to Move,,75000000.0
+PROP_01606,Mumbai,IC Colony,2.0,621.0,2.0,Unfurnished,Ready to Move,,16700000.0
+PROP_01607,Mumbai,Khar West,3.0,900.0,3.0,Semi-Furnished,Ready to Move,,40000000.0
+PROP_01608,Mumbai,Kandivali West,2.0,692.0,2.0,Unfurnished,Ready to Move,,17000000.0
+PROP_01609,Mumbai,Shimpoli Road,2.0,600.0,2.0,Semi-Furnished,Ready to Move,,16500000.0
+PROP_01610,Mumbai,Kanchpada,2.0,805.0,2.0,Semi-Furnished,Ready to Move,,28700000.0
+PROP_01611,Mumbai,Chembur,2.0,750.0,2.0,Unfurnished,Ready to Move,,20000000.0
+PROP_01612,Mumbai,Hiranandani Gardens,1.0,390.0,1.0,Semi-Furnished,Ready to Move,,15500000.0
+PROP_01613,Mumbai,Ram Krishna Nagar,2.0,805.0,2.0,Unfurnished,Ready to Move,,39500000.0
+PROP_01614,Mumbai,Bhandup West,2.0,885.0,2.0,Unfurnished,Ready to Move,,19500000.0
+PROP_01615,Mumbai,Mira Road Area,3.0,820.0,3.0,Furnished,Ready to Move,,19500000.0
+PROP_01616,Mumbai,Santacruz West,5.0,2500.0,5.0,Furnished,Ready to Move,,175000000.0
+PROP_01617,Mumbai,Chembur,4.0,1633.0,4.0,Semi-Furnished,Ready to Move,,70000000.0
+PROP_01618,Mumbai,Malad West,3.0,985.0,3.0,Unfurnished,Ready to Move,,23500000.0
+PROP_01619,Mumbai,Bandra,3.0,1383.0,3.0,Semi-Furnished,Ready to Move,,64800000.00000001
+PROP_01620,Mumbai,Vasai East,1.0,400.0,1.0,Semi-Furnished,Ready to Move,,4300000.0
+PROP_01621,Mumbai,Vile Parle West,2.0,910.0,2.0,Furnished,Ready to Move,,45000000.0
+PROP_01622,Mumbai,Lokhandwala Complex Andheri West,2.0,802.0,2.0,Furnished,Ready to Move,,37000000.0
+PROP_01623,Mumbai,Kurla West,2.0,580.0,2.0,Furnished,Ready to Move,,15000000.0
+PROP_01624,Mumbai,Jawahar Nagar Goregaon West,1.0,424.0,1.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_01625,Mumbai,Vikhroli East,1.0,418.0,1.0,Semi-Furnished,Ready to Move,5.0,10300000.0
+PROP_01626,Mumbai,Pant Nagar,2.0,665.0,2.0,Unfurnished,Ready to Move,,17300000.0
+PROP_01627,Mumbai,Lal Baug,3.0,1000.0,3.0,Furnished,Ready to Move,,35000000.0
+PROP_01628,Mumbai,Goregaon West,4.0,1710.0,4.0,Furnished,Ready to Move,,85000000.0
+PROP_01629,Mumbai,Malad West,2.0,1100.0,2.0,Furnished,Ready to Move,,20000000.0
+PROP_01630,Mumbai,Prabhadevi,2.0,967.0,2.0,Unfurnished,Ready to Move,,48500000.0
+PROP_01631,Mumbai,Worli,4.0,2200.0,4.0,Unfurnished,Under Construction,,210000000.0
+PROP_01632,Mumbai,Goregaon East,4.0,1578.0,4.0,Semi-Furnished,Ready to Move,,50000000.0
+PROP_01633,Mumbai,Kandivali West,2.0,730.0,2.0,Furnished,Ready to Move,,24900000.000000004
+PROP_01634,Mumbai,Ghatkopar East,3.0,1088.0,3.0,Unfurnished,Ready to Move,,34000000.0
+PROP_01635,Mumbai,Western Express Highway,2.0,594.0,2.0,Semi-Furnished,Ready to Move,,15200000.0
+PROP_01636,Mumbai,Gundavali Gaothan,2.0,615.0,2.0,Semi-Furnished,Ready to Move,,18500000.0
+PROP_01637,Mumbai,Borivali East,3.0,840.0,3.0,Furnished,Ready to Move,,22500000.0
+PROP_01638,Mumbai,Vikhroli East,2.0,575.0,2.0,Unfurnished,Ready to Move,,14000000.0
+PROP_01639,Mumbai,Parel,2.0,1000.0,2.0,Furnished,Ready to Move,,38000000.0
+PROP_01640,Mumbai,Andheri East,1.0,400.0,1.0,Unfurnished,Ready to Move,,14000000.0
+PROP_01641,Mumbai,Nensey Colony,2.0,705.0,2.0,Unfurnished,Ready to Move,,22000000.0
+PROP_01642,Mumbai,Amboli,2.0,600.0,2.0,Unfurnished,Ready to Move,,20000000.0
+PROP_01643,Mumbai,Khar West,2.0,749.0,2.0,Unfurnished,Ready to Move,,44900000.0
+PROP_01644,Mumbai,Yamuna Nagar Andheri West,3.0,1300.0,3.0,Furnished,Ready to Move,,45199999.99999999
+PROP_01645,Mumbai,Goregaon East,3.0,1800.0,3.0,Unfurnished,Under Construction,40.0,88500000.0
+PROP_01646,Mumbai,Powai,1.0,465.0,1.0,Semi-Furnished,Ready to Move,,16500000.0
+PROP_01647,Mumbai,Hiranandani Gardens,3.0,1500.0,3.0,Semi-Furnished,Ready to Move,,65000000.0
+PROP_01648,Mumbai,Chinchpokli,2.0,965.0,2.0,Furnished,Ready to Move,,37500000.0
+PROP_01649,Mumbai,Vile Parle East,3.0,1000.0,3.0,Furnished,Ready to Move,,35000000.0
+PROP_01650,Mumbai,Vakola,1.0,451.0,1.0,Unfurnished,Ready to Move,,12500000.0
+PROP_01651,Mumbai,Dadar West,2.0,460.0,2.0,Unfurnished,Ready to Move,,23000000.0
+PROP_01652,Mumbai,Mulund East,2.0,690.0,2.0,Unfurnished,Ready to Move,,16500000.0
+PROP_01653,Mumbai,JVPD Scheme,3.0,1180.0,3.0,Furnished,Ready to Move,,62500000.0
+PROP_01654,Mumbai,Piramal Nagar,3.0,1256.0,3.0,Semi-Furnished,Ready to Move,,60000000.0
+PROP_01655,Mumbai,Andheri East,3.0,1300.0,3.0,Semi-Furnished,Ready to Move,,42500000.0
+PROP_01656,Mumbai,Motilal Nagar,3.0,1000.0,3.0,Furnished,Ready to Move,,27000000.0
+PROP_01657,Mumbai,Khira Nagar,2.0,825.0,2.0,Furnished,Ready to Move,,28500000.0
+PROP_01658,Mumbai,Borivali West,2.0,657.0,2.0,Unfurnished,Ready to Move,,21000000.0
+PROP_01659,Mumbai,Borivali West,3.0,1825.0,3.0,Furnished,Ready to Move,5.0,41000000.0
+PROP_01660,Mumbai,Andheri East,3.0,1378.0,3.0,Semi-Furnished,Ready to Move,,30000000.0
+PROP_01661,Mumbai,Worli,2.0,800.0,2.0,Unfurnished,Ready to Move,,35000000.0
+PROP_01662,Mumbai,Jogeshwari West,2.0,817.0,2.0,Semi-Furnished,Ready to Move,,33000000.0
+PROP_01663,Mumbai,Kanjurmarg East,1.0,449.0,1.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_01664,Mumbai,Dattapada,3.0,1314.0,3.0,Unfurnished,Under Construction,,64000000.0
+PROP_01665,Mumbai,SG Barve Marg,1.0,407.0,1.0,Unfurnished,Ready to Move,15.0,8500000.0
+PROP_01666,Mumbai,Nehru Nagar Kanjurmarg East,1.0,450.0,1.0,Semi-Furnished,Ready to Move,,8900000.0
+PROP_01667,Mumbai,Vile Parle East,2.0,720.0,2.0,Semi-Furnished,Ready to Move,,35000000.0
+PROP_01668,Mumbai,Unknown,4.0,968.0,4.0,Semi-Furnished,Ready to Move,,26000000.0
+PROP_01669,Mumbai,Sector 2 Charkop,2.0,545.0,2.0,Semi-Furnished,Ready to Move,,12700000.0
+PROP_01670,Mumbai,Kurla West,1.0,380.0,1.0,Semi-Furnished,Ready to Move,,11800000.0
+PROP_01671,Mumbai,Mira Road Area,2.0,730.0,2.0,Furnished,Ready to Move,,8700000.0
+PROP_01672,Mumbai,Hiranandani Gardens,2.0,1150.0,2.0,Furnished,Ready to Move,,42500000.0
+PROP_01673,Mumbai,Chandivali,2.0,800.0,2.0,Unfurnished,Ready to Move,,25500000.0
+PROP_01674,Mumbai,Bandra West,3.0,1116.0,3.0,Unfurnished,Ready to Move,,72500000.0
+PROP_01675,Mumbai,Piramal Nagar,3.0,750.0,3.0,Unfurnished,Ready to Move,,24000000.0
+PROP_01676,Mumbai,Borivali West,2.0,720.0,2.0,Unfurnished,Ready to Move,,22000000.0
+PROP_01677,Mumbai,Ghatkopar,2.0,636.0,2.0,Unfurnished,Ready to Move,,16000000.0
+PROP_01678,Mumbai,Mulund West,1.0,465.0,1.0,Furnished,Ready to Move,,10800000.0
+PROP_01679,Mumbai,Malad West,1.0,400.0,1.0,Furnished,Ready to Move,,10000000.0
+PROP_01680,Mumbai,Virar West,1.0,358.0,1.0,Semi-Furnished,Ready to Move,,4200000.0
+PROP_01681,Mumbai,DN Nagar,2.0,450.0,2.0,Semi-Furnished,Ready to Move,,21500000.0
+PROP_01682,Mumbai,Mulund West,3.0,1305.0,3.0,Semi-Furnished,Ready to Move,,37000000.0
+PROP_01683,Mumbai,Borivali West,2.0,690.0,2.0,Semi-Furnished,Ready to Move,,24000000.0
+PROP_01684,Mumbai,Goregaon West,2.0,660.0,2.0,Semi-Furnished,Ready to Move,,22100000.0
+PROP_01685,Mumbai,Khar West,2.0,800.0,2.0,Unfurnished,Ready to Move,,35000000.0
+PROP_01686,Mumbai,Brhmanwada,2.0,540.0,2.0,Unfurnished,Ready to Move,,24500000.0
+PROP_01687,Mumbai,JB Nagar,3.0,936.0,3.0,Unfurnished,Ready to Move,,29000000.0
+PROP_01688,Mumbai,Shimpoli,3.0,844.0,3.0,Unfurnished,Ready to Move,,24500000.0
+PROP_01689,Mumbai,Borivali West,2.0,721.0,2.0,Furnished,Ready to Move,,22500000.0
+PROP_01690,Mumbai,MHB Colony Dindoshi,2.0,591.0,2.0,Unfurnished,Ready to Move,,17000000.0
+PROP_01691,Mumbai,Mulund East,1.0,407.0,1.0,Furnished,Ready to Move,,9700000.0
+PROP_01692,Mumbai,Gokuldham Colony Goregaon East,3.0,1367.0,3.0,Semi-Furnished,Ready to Move,,72000000.0
+PROP_01693,Mumbai,Mulund West,4.0,1508.0,4.0,Semi-Furnished,Ready to Move,,47500000.0
+PROP_01694,Mumbai,Parel,2.0,500.0,2.0,Furnished,Ready to Move,,24000000.0
+PROP_01695,Mumbai,Andheri West,1.0,530.0,1.0,Semi-Furnished,Ready to Move,,24500000.0
+PROP_01696,Mumbai,Sayani Road,6.0,2070.0,5.0,Furnished,Ready to Move,,107500000.0
+PROP_01697,Mumbai,Palghar Naigaon East,1.0,392.0,1.0,Unfurnished,Ready to Move,,3200000.0
+PROP_01698,Mumbai,Union Park Chembur,3.0,1100.0,3.0,Semi-Furnished,Ready to Move,,36000000.0
+PROP_01699,Mumbai,Bhandup West,1.0,550.0,1.0,Semi-Furnished,Ready to Move,,9500000.0
+PROP_01700,Mumbai,Mulund West,2.0,652.0,2.0,Semi-Furnished,Ready to Move,,19000000.0
+PROP_01701,Mumbai,Collector Colony,2.0,1000.0,2.0,Semi-Furnished,Ready to Move,,14000000.0
+PROP_01702,Mumbai,Mulund East,1.0,430.0,1.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_01703,Mumbai,Kandivali West,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,22500000.0
+PROP_01704,Mumbai,Andheri East,2.0,745.0,2.0,Furnished,Ready to Move,,26500000.0
+PROP_01705,Mumbai,Vile Parle East,3.0,971.0,3.0,Furnished,Ready to Move,,47500000.0
+PROP_01706,Mumbai,Dadar East,2.0,525.0,2.0,Semi-Furnished,Ready to Move,,19000000.0
+PROP_01707,Mumbai,Sindhi Society Chembur,2.0,617.0,2.0,Unfurnished,Ready to Move,,19000000.0
+PROP_01708,Mumbai,Andheri East,1.0,260.0,1.0,Semi-Furnished,Ready to Move,20.0,7200000.0
+PROP_01709,Mumbai,Barrister Nath Pai Road,1.0,400.0,1.0,Semi-Furnished,Ready to Move,,7500000.0
+PROP_01710,Mumbai,Khar West,2.0,542.0,2.0,Furnished,Ready to Move,,34000000.0
+PROP_01711,Mumbai,Colaba,1.0,590.0,1.0,Furnished,Ready to Move,,28700000.0
+PROP_01712,Mumbai,Mulund West,4.0,1884.0,4.0,Unfurnished,Ready to Move,,61000000.0
+PROP_01713,Mumbai,Borivali East,3.0,700.0,3.0,Semi-Furnished,Ready to Move,,18200000.0
+PROP_01714,Mumbai,Malad West,3.0,1400.0,3.0,Unfurnished,Ready to Move,,28500000.0
+PROP_01715,Mumbai,Gaikwad Nagar Malvani,1.0,300.0,1.0,Unfurnished,Ready to Move,,4800000.0
+PROP_01716,Mumbai,Ghatkopar East,4.0,1510.0,4.0,Furnished,Ready to Move,,67500000.0
+PROP_01717,Mumbai,IC Colony,2.0,700.0,2.0,Unfurnished,Ready to Move,,18000000.0
+PROP_01718,Mumbai,Mira Road Area,1.0,508.0,1.0,Furnished,Ready to Move,,12500000.0
+PROP_01719,Mumbai,Malad West,3.0,1350.0,3.0,Unfurnished,Ready to Move,,30500000.0
+PROP_01720,Mumbai,Nala Sopara,3.0,950.0,3.0,Semi-Furnished,Ready to Move,,9000000.0
+PROP_01721,Mumbai,Goregaon West,2.0,556.0,2.0,Unfurnished,Ready to Move,,19700000.0
+PROP_01722,Mumbai,Lal Baug,1.0,500.0,1.0,Furnished,Ready to Move,,23000000.0
+PROP_01723,Mumbai,Lokhandwala Complex Andheri West,3.0,1150.0,3.0,Unfurnished,Under Construction,,65000000.0
+PROP_01724,Mumbai,Tagore Nagar,2.0,540.0,2.0,Unfurnished,Ready to Move,,13799999.999999998
+PROP_01725,Mumbai,Four Bungalows,2.0,730.0,2.0,Unfurnished,Ready to Move,,18000000.0
+PROP_01726,Mumbai,Unknown,2.0,825.0,2.0,Semi-Furnished,Ready to Move,,34000000.0
+PROP_01727,Mumbai,Malad East,2.0,630.0,2.0,Unfurnished,Under Construction,,19000000.0
+PROP_01728,Mumbai,Kherwadi,2.0,535.0,2.0,Semi-Furnished,Under Construction,,22000000.0
+PROP_01729,Mumbai,Teli Gali,2.0,598.0,2.0,Unfurnished,Ready to Move,,19100000.0
+PROP_01730,Mumbai,Siddharth Nagar Goregaon West,4.0,2000.0,4.0,Furnished,Ready to Move,,85000000.0
+PROP_01731,Mumbai,JP Road,2.0,700.0,2.0,Semi-Furnished,Ready to Move,,25000000.0
+PROP_01732,Mumbai,Borivali West,1.0,430.0,1.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_01733,Mumbai,Snehadham,3.0,1100.0,3.0,Furnished,Ready to Move,,43000000.0
+PROP_01734,Mumbai,Matunga East,3.0,525.0,3.0,Unfurnished,Ready to Move,,26000000.0
+PROP_01735,Mumbai,ML Dahanukar Marg,3.0,1350.0,3.0,Semi-Furnished,Ready to Move,10.0,97500000.0
+PROP_01736,Mumbai,Penkarpada,1.0,433.0,1.0,Unfurnished,Ready to Move,4.0,7150000.0
+PROP_01737,Mumbai,Malad West,1.0,450.0,1.0,Unfurnished,Ready to Move,,12000000.0
+PROP_01738,Mumbai,Hiranandani Gardens,2.0,625.0,2.0,Furnished,Ready to Move,,33000000.0
+PROP_01739,Mumbai,Motilal Nagar,2.0,850.0,2.0,Semi-Furnished,Ready to Move,,28000000.0
+PROP_01740,Mumbai,Goregaon East,2.0,665.0,2.0,Unfurnished,Ready to Move,,21500000.0
+PROP_01741,Mumbai,Saraswat Colony Mahim West,3.0,1140.0,3.0,Unfurnished,Ready to Move,,65599999.99999999
+PROP_01742,Mumbai,Marol,1.0,425.0,1.0,Unfurnished,Ready to Move,,12500000.0
+PROP_01743,Mumbai,Mathuradas Road,3.0,980.0,3.0,Unfurnished,Ready to Move,,30000000.0
+PROP_01744,Mumbai,Sumer Nagar,2.0,667.0,2.0,Unfurnished,Ready to Move,,26200000.0
+PROP_01745,Mumbai,Orlem,1.0,410.0,1.0,Unfurnished,Ready to Move,,13000000.0
+PROP_01746,Mumbai,E Block BKC,4.0,1255.0,4.0,Furnished,Ready to Move,,60000000.0
+PROP_01747,Mumbai,Mahim West,2.0,550.0,2.0,Semi-Furnished,Ready to Move,,27500000.0
+PROP_01748,Mumbai,Chandivali,3.0,1168.0,3.0,Unfurnished,Ready to Move,15.0,41500000.0
+PROP_01749,Mumbai,Navneeth Colony,3.0,914.0,3.0,Unfurnished,Ready to Move,,33800000.0
+PROP_01750,Mumbai,Chembur East,2.0,800.0,2.0,Semi-Furnished,Ready to Move,,26000000.0
+PROP_01751,Mumbai,Hiranandani Gardens,2.0,587.0,2.0,Semi-Furnished,Ready to Move,,15600000.0
+PROP_01752,Mumbai,Kandivali West,2.0,710.0,2.0,Unfurnished,Ready to Move,,20000000.0
+PROP_01753,Mumbai,Andheri West,3.0,1750.0,3.0,Semi-Furnished,Ready to Move,,70000000.0
+PROP_01754,Mumbai,Moti Nagar,3.0,1300.0,3.0,Unfurnished,Under Construction,,35000000.0
+PROP_01755,Mumbai,Vazira Naka Borivali West,2.0,500.0,2.0,Semi-Furnished,Ready to Move,,17500000.0
+PROP_01756,Mumbai,Jay Prakash Nagar Goregaon East,1.0,767.0,1.0,Unfurnished,Ready to Move,,23000000.0
+PROP_01757,Mumbai,Siddharth Nagar Goregaon West,3.0,1084.0,3.0,Semi-Furnished,Ready to Move,,43000000.0
+PROP_01758,Mumbai,Wadala,4.0,2000.0,4.0,Semi-Furnished,Ready to Move,,87000000.0
+PROP_01759,Mumbai,Marol,2.0,611.0,2.0,Unfurnished,Under Construction,,15700000.0
+PROP_01760,Mumbai,Bandra,2.0,784.0,2.0,Unfurnished,Ready to Move,,60000000.0
+PROP_01761,Mumbai,Virar East,2.0,900.0,2.0,Semi-Furnished,Ready to Move,,5500000.0
+PROP_01762,Mumbai,Mulund West,4.0,1830.0,4.0,Furnished,Ready to Move,,47500000.0
+PROP_01763,Mumbai,Goregaon East,5.0,2250.0,5.0,Semi-Furnished,Ready to Move,10.0,75000000.0
+PROP_01764,Mumbai,Goregaon East,3.0,932.0,3.0,Semi-Furnished,Ready to Move,,28800000.0
+PROP_01765,Mumbai,Unnat Nagar Goregaon West,3.0,800.0,3.0,Semi-Furnished,Ready to Move,,25500000.0
+PROP_01766,Mumbai,Malad West,1.0,285.0,1.0,Unfurnished,Ready to Move,,7500000.0
+PROP_01767,Mumbai,Agripada,1.0,550.0,1.0,Unfurnished,Ready to Move,,13500000.0
+PROP_01768,Mumbai,Hindu Colony Dadar East,5.0,3200.0,5.0,Unfurnished,Ready to Move,,170000000.0
+PROP_01769,Mumbai,IC Colony Extension,2.0,610.0,2.0,Furnished,Ready to Move,,18500000.0
+PROP_01770,Mumbai,Laxmi Nagar Goregaon West,3.0,1300.0,3.0,Furnished,Ready to Move,,33000000.0
+PROP_01771,Mumbai,Santacruz West,3.0,1180.0,3.0,Unfurnished,Ready to Move,,77500000.0
+PROP_01772,Mumbai,Vallabh Baug Lane,3.0,983.0,3.0,Unfurnished,Ready to Move,,36400000.0
+PROP_01773,Mumbai,Collector Colony,1.0,425.0,1.0,Semi-Furnished,Ready to Move,,12000000.0
+PROP_01774,Mumbai,Malad West,2.0,581.0,2.0,Furnished,Ready to Move,,22500000.0
+PROP_01775,Mumbai,Santacruz East,2.0,716.0,2.0,Furnished,Ready to Move,,23500000.0
+PROP_01776,Mumbai,Malad West,2.0,718.0,2.0,Unfurnished,Under Construction,,25800000.0
+PROP_01777,Mumbai,Goregaon East,2.0,570.0,2.0,Semi-Furnished,Ready to Move,,13500000.0
+PROP_01778,Mumbai,Khar West,3.0,1286.0,3.0,Semi-Furnished,Ready to Move,,97500000.0
+PROP_01779,Mumbai,Wadala East,2.0,696.0,2.0,Unfurnished,Under Construction,,23900000.0
+PROP_01780,Mumbai,Gavanpada Mulund East,1.0,305.0,1.0,Unfurnished,Ready to Move,,7500000.0
+PROP_01781,Mumbai,Ghatkopar East,1.0,351.0,1.0,Unfurnished,Under Construction,,9830000.0
+PROP_01782,Mumbai,Borivali West,1.0,430.0,1.0,Unfurnished,Ready to Move,,9630000.0
+PROP_01783,Mumbai,Vile Parle East,3.0,900.0,3.0,Unfurnished,Ready to Move,,32500000.0
+PROP_01784,Mumbai,Andheri East,2.0,630.0,2.0,Semi-Furnished,Ready to Move,,22000000.0
+PROP_01785,Mumbai,Kandivali West,2.0,650.0,2.0,Semi-Furnished,Ready to Move,,18500000.0
+PROP_01786,Mumbai,Dadar West,2.0,683.0,2.0,Unfurnished,Ready to Move,,41200000.0
+PROP_01787,Mumbai,Andheri East,2.0,553.0,2.0,Unfurnished,Ready to Move,,15500000.0
+PROP_01788,Mumbai,Bhandup West,1.0,450.0,1.0,Unfurnished,Ready to Move,15.0,9900000.0
+PROP_01789,Mumbai,Malad West,1.0,605.0,1.0,Unfurnished,Ready to Move,,11500000.0
+PROP_01790,Mumbai,Evershine Nagar,2.0,720.0,2.0,Semi-Furnished,Ready to Move,,21000000.0
+PROP_01791,Mumbai,Ghatkopar East,2.0,565.0,2.0,Unfurnished,Ready to Move,,25800000.0
+PROP_01792,Mumbai,Lal Baug,1.0,250.0,1.0,Unfurnished,Ready to Move,,12000000.0
+PROP_01793,Mumbai,Andheri West,1.0,311.0,1.0,Furnished,Ready to Move,,12500000.0
+PROP_01794,Mumbai,Chakala,3.0,1290.0,3.0,Furnished,Ready to Move,,49500000.0
+PROP_01795,Mumbai,Malad East,3.0,1074.0,3.0,Unfurnished,Ready to Move,5.0,29000000.0
+PROP_01796,Mumbai,Mulund West,2.0,629.0,2.0,Furnished,Ready to Move,,16000000.0
+PROP_01797,Mumbai,Malad West,1.0,321.0,1.0,Unfurnished,Ready to Move,,8800000.0
+PROP_01798,Mumbai,Tilak Nagar Chembur,2.0,650.0,2.0,Furnished,Ready to Move,,17500000.0
+PROP_01799,Mumbai,Mahalakshmi,3.0,1287.0,3.0,Semi-Furnished,Ready to Move,,57500000.0
