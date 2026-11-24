@@ -2,8 +2,17 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+function getModuleDir(): string {
+  try {
+    if (typeof import.meta !== 'undefined' && import.meta.url) {
+      return path.dirname(fileURLToPath(import.meta.url));
+    }
+  } catch {
+    // Fallback when bundled to CJS in serverless runtimes
+  }
+  return process.cwd();
+}
+const __dirname = getModuleDir();
 
 export type IntentCategory =
   | 'negotiation'
@@ -78,8 +87,9 @@ let cachedAnalytics: any = {};
 
 try {
   const candidateDirs = [
-    path.join(__dirname, '../data'),
     path.join(process.cwd(), 'src', 'data'),
+    path.join(__dirname, '../data'),
+    path.join(__dirname, '../../src/data'),
   ];
   const dataDir = candidateDirs.find((dir) => fs.existsSync(path.join(dir, 'properties.json'))) || candidateDirs[0];
   const propPath = path.join(dataDir, 'properties.json');

@@ -4,8 +4,17 @@ import { fileURLToPath } from 'url';
 import fs from 'fs';
 import { processAssistantQuery, streamAssistantQuery } from '../services/aiAnalystService';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+function getModuleDir(): string {
+  try {
+    if (typeof import.meta !== 'undefined' && import.meta.url) {
+      return path.dirname(fileURLToPath(import.meta.url));
+    }
+  } catch {
+    // Fallback when bundled to CJS
+  }
+  return process.cwd();
+}
+const __dirname = getModuleDir();
 
 export const apiRouter = Router();
 

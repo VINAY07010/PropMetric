@@ -4,15 +4,17 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "functions": {
-    "api/**/*.ts": {
-      "includeFiles": "{src/data/**,Reports/**}"
+    "api/assistant.ts": {
+      "includeFiles": "src/data/**"
+    },
+    "api/assistant/stream.ts": {
+      "includeFiles": "src/data/**"
+    },
+    "api/reports/[reportName].ts": {
+      "includeFiles": "Reports/**"
     }
   },
   "rewrites": [
-    {
-      "source": "/api/(.*)",
-      "destination": "/api/index"
-    },
     {
       "source": "/((?!api/).*)",
       "destination": "/index.html"
