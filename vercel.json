@@ -3,17 +3,6 @@
   "framework": "vite",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "functions": {
-    "api/assistant.ts": {
-      "includeFiles": "src/data/**"
-    },
-    "api/assistant/stream.ts": {
-      "includeFiles": "src/data/**"
-    },
-    "api/reports/[reportName].ts": {
-      "includeFiles": "Reports/**"
-    }
-  },
   "rewrites": [
     {
       "source": "/((?!api/).*)",

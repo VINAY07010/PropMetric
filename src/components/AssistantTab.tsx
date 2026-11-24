@@ -16,6 +16,7 @@ import {
   AlertCircle,
 } from 'lucide-react';
 import { formatInr, formatNumber, cleanListingUrl, MODEL_TOLERANCE_PERCENT } from '../utils/calculator';
+import { streamAssistantQuery } from '../services/aiAnalystService';
 import { motion, AnimatePresence } from 'motion/react';
 
 export type AnalystRoleOption = 'strategist' | 'negotiator' | 'auditor';
@@ -239,7 +240,7 @@ export const AssistantTab: React.FC<AssistantTabProps> = ({
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, isLoading]);
 
-  // Shared SSE streaming helper with proper error propagation
+  // Shared SSE streaming helper with resilient fallback
   const streamAnalystResponse = async (
     queryText: string,
     propContext: any,
@@ -265,62 +266,76 @@ export const AssistantTab: React.FC<AssistantTabProps> = ({
 
     const payloadWithRole = { ...propContext, analyst_role: analystRole };
 
-    const res = await fetch('/api/assistant/stream', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        query: queryText,
-        context: payloadWithRole,
-        history: historyPayload,
-      }),
-    });
+    const runLocalStreamFallback = async () => {
+      try {
+        await streamAssistantQuery({
+          query: queryText,
+          context: payloadWithRole,
+          history: historyPayload,
+          onMeta: (meta) => {
+            if (meta.stageText) setLoadingStage(meta.stageText);
+          },
+          onSnapshot: (text) => {
+            upsertAssistantMessage(text);
+          },
+        });
+      } catch (err: any) {
+        upsertAssistantMessage(`Analysis currently unavailable: ${err?.message || 'Unknown error'}`);
+      }
+    };
 
-    if (!res.ok || !res.body) {
-      const jsonRes = await fetch('/api/assistant', {
+    try {
+      const res = await fetch('/api/assistant/stream', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: queryText, context: payloadWithRole, history: historyPayload }),
+        body: JSON.stringify({
+          query: queryText,
+          context: payloadWithRole,
+          history: historyPayload,
+        }),
       });
-      const data = await jsonRes.json().catch(() => ({}));
-      if (!jsonRes.ok) {
-        throw new Error(data.error || `Request failed (${jsonRes.status})`);
+
+      if (!res.ok || !res.body) {
+        await runLocalStreamFallback();
+        return;
       }
-      upsertAssistantMessage(data.response || 'No analysis generated.');
-      return;
-    }
 
-    const reader = res.body.getReader();
-    const decoder = new TextDecoder();
-    let buffer = '';
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let buffer = '';
 
-    while (true) {
-      const { value, done } = await reader.read();
-      if (done) break;
-      buffer += decoder.decode(value, { stream: true });
-      const events = buffer.split('\n\n');
-      buffer = events.pop() || '';
+      while (true) {
+        const { value, done } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+        const events = buffer.split('\n\n');
+        buffer = events.pop() || '';
 
-      for (const evt of events) {
-        const line = evt.split('\n').find((l) => l.startsWith('data: '));
-        if (!line) continue;
-        let payload: any = null;
-        try {
-          payload = JSON.parse(line.slice(6));
-        } catch {
-          continue;
-        }
-        if (payload.type === 'stage' && payload.stageText) {
-          setLoadingStage(payload.stageText);
-        } else if ((payload.type === 'text' || payload.type === 'done') && payload.text) {
-          upsertAssistantMessage(payload.text);
-        } else if (payload.type === 'error') {
-          throw new Error(payload.error || 'Unable to generate analysis right now.');
+        for (const evt of events) {
+          const line = evt.split('\n').find((l) => l.startsWith('data: '));
+          if (!line) continue;
+          let payload: any = null;
+          try {
+            payload = JSON.parse(line.slice(6));
+          } catch {
+            continue;
+          }
+          if (payload.type === 'stage' && payload.stageText) {
+            setLoadingStage(payload.stageText);
+          } else if ((payload.type === 'text' || payload.type === 'done') && payload.text) {
+            upsertAssistantMessage(payload.text);
+          } else if (payload.type === 'error') {
+            await runLocalStreamFallback();
+            return;
+          }
         }
       }
-    }
 
-    if (!inserted) {
-      upsertAssistantMessage('No analysis generated.');
+      if (!inserted) {
+        await runLocalStreamFallback();
+      }
+    } catch {
+      await runLocalStreamFallback();
     }
   };
 

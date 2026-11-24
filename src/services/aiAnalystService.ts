@@ -1,18 +1,6 @@
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-function getModuleDir(): string {
-  try {
-    if (typeof import.meta !== 'undefined' && import.meta.url) {
-      return path.dirname(fileURLToPath(import.meta.url));
-    }
-  } catch {
-    // Fallback when bundled to CJS in serverless runtimes
-  }
-  return process.cwd();
-}
-const __dirname = getModuleDir();
+import staticProperties from '../data/properties.json';
+import staticLocalities from '../data/localities.json';
+import staticAnalytics from '../data/analytics.json';
 
 export type IntentCategory =
   | 'negotiation'
@@ -80,34 +68,10 @@ interface LocalityBenchmark {
   multiplier: number;
 }
 
-// Cached dataset artifacts for instant, empirically grounded responses
-let cachedProperties: any[] = [];
-let cachedLocalities: Record<string, LocalityBenchmark[]> = {};
-let cachedAnalytics: any = {};
-
-try {
-  const candidateDirs = [
-    path.join(process.cwd(), 'src', 'data'),
-    path.join(__dirname, '../data'),
-    path.join(__dirname, '../../src/data'),
-  ];
-  const dataDir = candidateDirs.find((dir) => fs.existsSync(path.join(dir, 'properties.json'))) || candidateDirs[0];
-  const propPath = path.join(dataDir, 'properties.json');
-  const locPath = path.join(dataDir, 'localities.json');
-  const analyticsPath = path.join(dataDir, 'analytics.json');
-
-  if (fs.existsSync(propPath)) {
-    cachedProperties = JSON.parse(fs.readFileSync(propPath, 'utf-8'));
-  }
-  if (fs.existsSync(locPath)) {
-    cachedLocalities = JSON.parse(fs.readFileSync(locPath, 'utf-8'));
-  }
-  if (fs.existsSync(analyticsPath)) {
-    cachedAnalytics = JSON.parse(fs.readFileSync(analyticsPath, 'utf-8'));
-  }
-} catch (e) {
-  console.warn('aiAnalystService: could not load dataset artifacts:', e);
-}
+// Dataset artifacts for instant, empirically grounded responses (universal browser/serverless)
+const cachedProperties: any[] = staticProperties as any[];
+const cachedLocalities: Record<string, LocalityBenchmark[]> = staticLocalities as any;
+const cachedAnalytics: any = staticAnalytics as any;
 
 export function formatInr(n: number | null | undefined): string {
   if (n === null || n === undefined || isNaN(n) || n === 0) return 'N/A';

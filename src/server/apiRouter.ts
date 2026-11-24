@@ -1,20 +1,6 @@
 import { Router } from 'express';
-import path from 'path';
-import { fileURLToPath } from 'url';
-import fs from 'fs';
 import { processAssistantQuery, streamAssistantQuery } from '../services/aiAnalystService';
-
-function getModuleDir(): string {
-  try {
-    if (typeof import.meta !== 'undefined' && import.meta.url) {
-      return path.dirname(fileURLToPath(import.meta.url));
-    }
-  } catch {
-    // Fallback when bundled to CJS
-  }
-  return process.cwd();
-}
-const __dirname = getModuleDir();
+import { AUDIT_REPORTS } from '../data/reportsData';
 
 export const apiRouter = Router();
 
@@ -92,19 +78,9 @@ apiRouter.post('/assistant', async (req, res) => {
 // API endpoint for reports content inspection in UI
 apiRouter.get('/reports/:reportName', (req, res) => {
   const { reportName } = req.params;
-  const allowed = ['cleaning_report.txt', 'eda_report.txt', 'model_evaluation.txt'];
-  if (!allowed.includes(reportName)) {
-    return res.status(400).json({ error: 'Invalid report name' });
+  const content = AUDIT_REPORTS[reportName];
+  if (!content) {
+    return res.status(404).send('Report not found');
   }
-  const candidateDirs = [
-    path.join(process.cwd(), 'Reports'),
-    path.join(__dirname, '../../Reports'),
-  ];
-  for (const dir of candidateDirs) {
-    const filePath = path.join(dir, reportName);
-    if (fs.existsSync(filePath)) {
-      return res.type('text/plain').send(fs.readFileSync(filePath, 'utf-8'));
-    }
-  }
-  return res.status(404).send('Report not found');
+  return res.type('text/plain').send(content);
 });

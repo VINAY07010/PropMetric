@@ -11,6 +11,7 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import analyticsRaw from '../data/analytics.json';
+import { AUDIT_REPORTS } from '../data/reportsData';
 import { AnalyticsSummary } from '../types';
 import { formatInr, formatNumber, MODEL_TOLERANCE_PERCENT } from '../utils/calculator';
 
@@ -39,6 +40,12 @@ export const AuditReportsTab: React.FC = () => {
     const reportFile = reports.find((r) => r.id === selectedReport)?.file;
     if (!reportFile) return;
 
+    if (AUDIT_REPORTS[reportFile]) {
+      setReportContent(AUDIT_REPORTS[reportFile]);
+      setIsLoading(false);
+      return;
+    }
+
     setIsLoading(true);
     fetch(`/api/reports/${reportFile}`)
       .then((res) => {
@@ -47,7 +54,7 @@ export const AuditReportsTab: React.FC = () => {
       })
       .then((text) => setReportContent(text))
       .catch((err) => {
-        setReportContent(`Unable to load ${reportFile} from server: ${err.message}`);
+        setReportContent(`Unable to load ${reportFile}: ${err.message}`);
       })
       .finally(() => setIsLoading(false));
   }, [selectedReport]);
